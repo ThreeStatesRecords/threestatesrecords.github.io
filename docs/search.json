@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Three States Records",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nThis is an in-progress book of translations.",
     "crumbs": [
       "Preface"
     ]
@@ -12,31 +12,660 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "This is a book created from markdown.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Introduction"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "1wei/01.html",
+    "href": "1wei/01.html",
+    "title": "1  Annals of Emperor Wǔ",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "[TO DO]",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "Wèi",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Annals of Emperor Wǔ</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "1wei/02.html",
+    "href": "1wei/02.html",
+    "title": "2  Annals of Emperor Wén",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "[TO DO]",
     "crumbs": [
-      "References"
+      "Wèi",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Annals of Emperor Wén</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/03.html",
+    "href": "1wei/03.html",
+    "title": "3  Annals of Emperor Míng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Annals of Emperor Míng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/04.html",
+    "href": "1wei/04.html",
+    "title": "4  Annals of Three Young Emperors",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Annals of Three Young Emperors</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/05.html",
+    "href": "1wei/05.html",
+    "title": "5  Biographies of Empresses and Consorts",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Biographies of Empresses and Consorts</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/06.html",
+    "href": "1wei/06.html",
+    "title": "6  Biographies of Dǒng, Two Yuán, Liú",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Biographies of Dǒng, Two Yuán, Liú</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/07.html",
+    "href": "1wei/07.html",
+    "title": "7  Biographies of Lǚ Bù and Zāng Hóng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Biographies of Lǚ Bù and Zāng Hóng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/08.html",
+    "href": "1wei/08.html",
+    "title": "8  Biographies of Two Gōngsūn, Táo Qiān, Four Zhāng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Biographies of Two Gōngsūn, Táo Qiān, Four Zhāng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/09.html",
+    "href": "1wei/09.html",
+    "title": "9  Biographies of the various Xiàhóu and Cáo",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Biographies of the various Xiàhóu and Cáo</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/10.html",
+    "href": "1wei/10.html",
+    "title": "10  Biographies of Xún Yù, Xún Yōu, Jiǎ Xǔ",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Biographies of Xún Yù, Xún Yōu, Jiǎ Xǔ</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/11.html",
+    "href": "1wei/11.html",
+    "title": "11  Biographies of Yuán, Zhāng, Liáng, Guó, Tián, Wáng, Bǐng, Guǎn",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Biographies of Yuán, Zhāng, Liáng, Guó, Tián, Wáng, Bǐng, Guǎn</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/12.html",
+    "href": "1wei/12.html",
+    "title": "12  Biographies of Cuī, Máo, Xú, Hé, Xíng, Bào, Sīmǎ",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Biographies of Cuī, Máo, Xú, Hé, Xíng, Bào, Sīmǎ</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/13.html",
+    "href": "1wei/13.html",
+    "title": "13  Biographies of Zhōng Yáo, Huà Xīn, Wáng Lǎng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Biographies of Zhōng Yáo, Huà Xīn, Wáng Lǎng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/14.html",
+    "href": "1wei/14.html",
+    "title": "14  Biographies of Chéng, Guō, Dǒng, Liú, Jiǎng, Liú",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Biographies of Chéng, Guō, Dǒng, Liú, Jiǎng, Liú</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/15.html",
+    "href": "1wei/15.html",
+    "title": "15  Biographies of Liú, Sīmǎ, Liáng, Zhāng, Wēn, Jiǎ",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Biographies of Liú, Sīmǎ, Liáng, Zhāng, Wēn, Jiǎ</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/18.html",
+    "href": "1wei/18.html",
+    "title": "18  Biographies of Two Lǐ, Zāng, Wén, Lǚ, Xǔ, Diǎn, Two Páng, Yán",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Biographies of Two Lǐ, Zāng, Wén, Lǚ, Xǔ, Diǎn, Two Páng, Yán</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/19.html",
+    "href": "1wei/19.html",
+    "title": "19  Biographies of the Princes of Rènchéng, Chén, Xiāo",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Biographies of the Princes of Rènchéng, Chén, Xiāo</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/20.html",
+    "href": "1wei/20.html",
+    "title": "20  Biographies of the Princes and Dukes Descended from Wǔ and Wén",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Biographies of the Princes and Dukes Descended from Wǔ and Wén</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/21.html",
+    "href": "1wei/21.html",
+    "title": "21  Biographies of Wáng, Wèi, Two Liú, Fù",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Biographies of Wáng, Wèi, Two Liú, Fù</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/23.html",
+    "href": "1wei/23.html",
+    "title": "23  Biographies of Hé, Cháng, Yáng, Dù, Zhào, Péi",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Biographies of Hé, Cháng, Yáng, Dù, Zhào, Péi</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/25.html",
+    "href": "1wei/25.html",
+    "title": "25  Biographies of Xīn Pí, Yáng Fù, Gāotáng Lóng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Biographies of Xīn Pí, Yáng Fù, Gāotáng Lóng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/26.html",
+    "href": "1wei/26.html",
+    "title": "26  Biographies of Mǎn, Tián, Qiān, Guō",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Biographies of Mǎn, Tián, Qiān, Guō</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/27.html",
+    "href": "1wei/27.html",
+    "title": "27  Biographies of Xú, Hú, Two Wáng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Biographies of Xú, Hú, Two Wáng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/28.html",
+    "href": "1wei/28.html",
+    "title": "28  Biographies of Wáng, Guànqiū, Zhūgě, Dèng, Zhōng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Biographies of Wáng, Guànqiū, Zhūgě, Dèng, Zhōng</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/29.html",
+    "href": "1wei/29.html",
+    "title": "29  Biographies of Technicians and Specialists",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Biographies of Technicians and Specialists</span>"
+    ]
+  },
+  {
+    "objectID": "1wei/30.html",
+    "href": "1wei/30.html",
+    "title": "30  Biographies of the Wūhuán, Xiānbēi, and Dōngyí",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wèi",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Biographies of the Wūhuán, Xiānbēi, and Dōngyí</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/31.html",
+    "href": "2shu/31.html",
+    "title": "31  31. Biographies of Two Governors Liú",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>31. Biographies of Two Governors Liú</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/32.html",
+    "href": "2shu/32.html",
+    "title": "32  Biography of the Former Ruler",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Biography of the Former Ruler</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/33.html",
+    "href": "2shu/33.html",
+    "title": "33  Biography of the Later Ruler",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Biography of the Later Ruler</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/34.html",
+    "href": "2shu/34.html",
+    "title": "34  Biographies of the Consorts and Children of the Two Rulers",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Biographies of the Consorts and Children of the Two Rulers</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/35.html",
+    "href": "2shu/35.html",
+    "title": "35  Biography of Zhūgě Liàng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Biography of Zhūgě Liàng</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/36.html",
+    "href": "2shu/36.html",
+    "title": "36  Biographies of Guān, Zhāng, Mǎ, Huáng, Zhào",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>Biographies of Guān, Zhāng, Mǎ, Huáng, Zhào</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/37.html",
+    "href": "2shu/37.html",
+    "title": "37  Biographies of Páng Tǒng and Fǎ Zhèng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Biographies of Páng Tǒng and Fǎ Zhèng</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/38.html",
+    "href": "2shu/38.html",
+    "title": "38  Biographies of Xǔ, Mí, Sūn, Jiǎn, Yī, Qín",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Biographies of Xǔ, Mí, Sūn, Jiǎn, Yī, Qín</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/39.html",
+    "href": "2shu/39.html",
+    "title": "39  Biographies of Dǒng, Liú, Mǎ, Chén, Dǒng, Lǚ",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Biographies of Dǒng, Liú, Mǎ, Chén, Dǒng, Lǚ</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/40.html",
+    "href": "2shu/40.html",
+    "title": "40  Biographies of Liú, Péng, Liào, Lǐ, Liú, Wèi, Yáng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>Biographies of Liú, Péng, Liào, Lǐ, Liú, Wèi, Yáng</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/41.html",
+    "href": "2shu/41.html",
+    "title": "41  Biographies of Huò, Wáng, Xiàng, Zhāng, Yáng, Fèi",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Biographies of Huò, Wáng, Xiàng, Zhāng, Yáng, Fèi</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/43.html",
+    "href": "2shu/43.html",
+    "title": "43  Biographies of Huáng, Lǐ, Lǚ, Mǎ, Wáng, Zhāng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>Biographies of Huáng, Lǐ, Lǚ, Mǎ, Wáng, Zhāng</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/44.html",
+    "href": "2shu/44.html",
+    "title": "44  Biographies of Jiǎng Wǎn, Fèi Yī, Jiāng Wéi",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>Biographies of Jiǎng Wǎn, Fèi Yī, Jiāng Wéi</span>"
+    ]
+  },
+  {
+    "objectID": "2shu/45.html",
+    "href": "2shu/45.html",
+    "title": "45  Biographies of Dèng, Zhāng, Zōng, Yáng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Shǔ",
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>Biographies of Dèng, Zhāng, Zōng, Yáng</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/46.html",
+    "href": "3wu/46.html",
+    "title": "46  Biographies of Sūn Pòlǔ and Tǎonì",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>Biographies of Sūn Pòlǔ and Tǎonì</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/47.html",
+    "href": "3wu/47.html",
+    "title": "47  Biography of the Ruler of Wú",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>Biography of the Ruler of Wú</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/48.html",
+    "href": "3wu/48.html",
+    "title": "48  Biographies of Three Successor Rulers",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Biographies of Three Successor Rulers</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/49.html",
+    "href": "3wu/49.html",
+    "title": "49  Biographies of Liú Yáo, Tàishǐ Cí, Shì Xiè",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>Biographies of Liú Yáo, Tàishǐ Cí, Shì Xiè</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/50.html",
+    "href": "3wu/50.html",
+    "title": "50  Biographies of Consorts and Concubines",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>Biographies of Consorts and Concubines</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/51.html",
+    "href": "3wu/51.html",
+    "title": "51  Biographies of Clansmen",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Biographies of Clansmen</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/52.html",
+    "href": "3wu/52.html",
+    "title": "52  Biographies of Zhāng, Gù, Zhūgě, Bù",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>52</span>  <span class='chapter-title'>Biographies of Zhāng, Gù, Zhūgě, Bù</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/54.html",
+    "href": "3wu/54.html",
+    "title": "54  Biographies of Zhōu Yú, Lǔ Sù, Lǚ​ Méng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>54</span>  <span class='chapter-title'>Biographies of Zhōu Yú, Lǔ Sù, Lǚ​ Méng</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/55.html",
+    "href": "3wu/55.html",
+    "title": "55  Biographies of Chéng, Huáng, Hán, Jiǎng, Zhōu, Chén, Dǒng, Gān, Líng, Xú, Pān, Dīng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>55</span>  <span class='chapter-title'>Biographies of Chéng, Huáng, Hán, Jiǎng, Zhōu, Chén, Dǒng, Gān, Líng, Xú, Pān, Dīng</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/56.html",
+    "href": "3wu/56.html",
+    "title": "56  Biographies of Zhū Zhì, Zhū Rán, Lǚ Fàn, Zhū Huáng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>56</span>  <span class='chapter-title'>Biographies of Zhū Zhì, Zhū Rán, Lǚ Fàn, Zhū Huáng</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/57.html",
+    "href": "3wu/57.html",
+    "title": "57  Biographies of Yú, Lù, Zhāng, Luò, Lù, Wú, Zhū",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>57</span>  <span class='chapter-title'>Biographies of Yú, Lù, Zhāng, Luò, Lù, Wú, Zhū</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/58.html",
+    "href": "3wu/58.html",
+    "title": "58  Biography of Lù Xùn",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Biography of Lù Xùn</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/59.html",
+    "href": "3wu/59.html",
+    "title": "59  Biographies of Five Sons of the Ruler of Wú",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>59</span>  <span class='chapter-title'>Biographies of Five Sons of the Ruler of Wú</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/60.html",
+    "href": "3wu/60.html",
+    "title": "60  Biographies of Hé, Quán, Lǚ, Zhōu, Zhōnglí",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>60</span>  <span class='chapter-title'>Biographies of Hé, Quán, Lǚ, Zhōu, Zhōnglí</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/61.html",
+    "href": "3wu/61.html",
+    "title": "61  Biographies of Pān Jùn, Lù Kǎi",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Biographies of Pān Jùn, Lù Kǎi</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/62.html",
+    "href": "3wu/62.html",
+    "title": "62  Biographies of Shì Yí, Hú Zōng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Biographies of Shì Yí, Hú Zōng</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/63.html",
+    "href": "3wu/63.html",
+    "title": "63  Biographies of Wú Fàn, Liú Dūn, Zhào Dá",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>63</span>  <span class='chapter-title'>Biographies of Wú Fàn, Liú Dūn, Zhào Dá</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/64.html",
+    "href": "3wu/64.html",
+    "title": "64  Biographies of Zhūgě, Téng, Two Sūn, Púyáng",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>64</span>  <span class='chapter-title'>Biographies of Zhūgě, Téng, Two Sūn, Púyáng</span>"
+    ]
+  },
+  {
+    "objectID": "3wu/65.html",
+    "href": "3wu/65.html",
+    "title": "65  Biographies of Wáng, Lóu, Hé, Wéi, Huà",
+    "section": "",
+    "text": "[TO DO]",
+    "crumbs": [
+      "Wú",
+      "<span class='chapter-number'>65</span>  <span class='chapter-title'>Biographies of Wáng, Lóu, Hé, Wéi, Huà</span>"
     ]
   }
 ]
