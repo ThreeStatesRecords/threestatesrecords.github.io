@@ -1,3 +1,85 @@
 # Biographies of Empresses and Consorts
 
+## Preface {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
 [TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Wǔ-Xuān Imperial Empress Biàn {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Wén-Zhāo Imperial Empress Zhēn {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Wén-Dé Imperial Empress Guō {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Míng-Dào Imperial Empress Máo {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Míng-Yuán Imperial Empress Guō {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Appraisal {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::

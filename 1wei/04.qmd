@@ -1,3 +1,73 @@
 # Annals of Three Young Emperors
 
+## Zhèngshǐ (240 - 248) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
 [TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Jiāpíng (249 - 253) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Zhèngyuán (254 - 255) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Gānlù (256 - 259) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Jǐngyuán (260 - 263) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Xiánxī (264 - 265) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::

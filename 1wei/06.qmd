@@ -1,3 +1,61 @@
 # Biographies of Dǒng, Two Yuán, Liú
 
+## Dǒng Zhuó {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
 [TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Yuán Shào {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Yuán Shù {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Liú Biǎo {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Appraisal {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::

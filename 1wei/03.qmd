@@ -1,3 +1,37 @@
 # Annals of Emperor Míng
 
+## Tàihé (227 - 232) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
 [TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Qīnglóng (233 - 236) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
+
+## Jǐngchū (237 - 239) {.unnumbered}
+::: {.columns}
+::: {.column width="70%"}
+[TO DO]
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+[TO DO]
+:::
+:::
