@@ -3,59 +3,59 @@
 ## Dǒng Zhuó {.unnumbered}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+[TODO]
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+[TODO]
 :::
 :::
 
 ## Yuán Shào {.unnumbered}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+[TODO]
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+[TODO]
 :::
 :::
 
 ## Yuán Shù {.unnumbered}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+[TODO]
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+[TODO]
 :::
 :::
 
 ## Liú Biǎo {.unnumbered}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+[TODO]
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+[TODO]
 :::
 :::
 
 ## Appraisal {.unnumbered}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+[TODO]
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+[TODO]
 :::
 :::

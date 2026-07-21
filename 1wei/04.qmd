@@ -1,73 +1,1515 @@
 # Annals of Three Young Emperors
 
-## Zhèngshǐ (240 - 248) {.unnumbered}
+## Zhèngshǐ (240 - 248) {#caofang .unnumbered}
+
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+The King of Qí forbidden name Fāng, appellation Lánqīng.  Emperor Míng was without sons, and adopted the King and the King of Qín [Cáo] Xún. The Palace affairs were confidential, none had knowledge of where they came from. <a href="#annotation-1" id="source-1">[1]</a> Qīnglóng Third Year [235], established as King of Qí. Jǐngchū Third Year, Standard Moon [239 Jan 22 – Feb 20], Dīnghài [239 Jan 22], first day of the moon, the Emperor was extremely ill, and so established him as Imperial Heir-Apparent. That day, he assumed the Imperial Emperor’s throne, Great Amnesty. Honored the Imperial Empress as Imperial Dowager Empress. General-in-Chief Cáo Shuǎng and Grand Commandant Sīmǎ [Yì] Xuān-wáng assisted in governing. Edict said: “We with meager body continue and inherit a vast enterprise, utterly alone in grief,  with no way to express it. The General-in-Chief and Grand Commandant respectively received the final command, to on each side assist Our person, the Excellency over the Masses, Excellency of Works, the senior ministers and foremost assistants together lead the hundred offices, to secure the State Altars. Thus with the various ministers and grandees exhort yourselves in heart, to accord with Our intentions. All the conscriptions for raising and building Palaces Residences are all by legacy Edict dismissed. Government slaves sixty and above are dismissed to be free persons.” Second Moon [239 Feb 21 – Mar 21], the Western Regions with relay translators proffered fire-laundered cloth,  Edict on the General-in-Chief and Grand Commandant to oversee its testing to show to the hundred offices. <a href="#annotation-2" id="source-2">[2]</a>
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+齊王諱芳，字蘭卿。明帝無子，養王及秦王詢；宮省事祕，莫有知其所由來者。〔一〕青龍三年，立為齊王。景初三年正月丁亥朔，帝甚病，乃立為皇太子。是日，即皇帝位，大赦。尊皇后曰皇太后。大將軍曹爽、太尉司馬宣王輔政。詔曰：「朕以眇身，繼承鴻業，煢煢在疚，靡所控告。大將軍、太尉奉受末命，夾輔朕躬，司徒、司空、冢宰、元輔總率百寮，以寧社稷，其與群卿大夫勉勗乃心，稱朕意焉。諸所興作宮室之役，皆以遺詔罷之。官奴婢六十已上，免為良人。」二月，西域重譯獻火浣布，詔大將軍、太尉臨試以示百寮。〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-1" id="annotation-1">[1]</a> Wèishì Chūnqiū states: Some say they were the King of Rènchéng [Cáo] Kǎi’s sons.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏氏春秋曰：或云任城王楷子。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-2" id="annotation-2">[2]</a> Yìwù zhì  states: Sītiáo state  has a fire island, in the middle of the south sea. On its top there are wild fires, in spring and summer on their own appearing, in autumn and winter on their own dying. There are trees growing in the middle that are not consumed, the branches and bark all the more thrive, in autumn and winter the fires die and then they all wither and decay. Their local custom is to collect their bark in winter to make cloth, the color a slightly green black; if dust or dirt stains it, then it is thrown into fire, and then it is all the more clean and bright.
+
+Fù-zǐ states: In Hàn Emperor Huán’s time, General-in-Chief Liáng Jì  used fire-laundered cloth to make a single robe, once at a great gathering of guest retainers, [Liáng] Jì acted as if fighting over liquor, spilled the cup and stained it, feigned anger, took off the robe and said: “Burn it.” The cloth caught fire, glowing bright, like burning ordinary cloth, the stain was consumed and fire extinguished, it was clear bright clean white, as if washed with lye water.
+
+Sōushénjì states: In the wilderness of Kūnlún,  there is a mountain of flaming fire, atop the mountain are birds and beasts and grasses and trees, all living in the middle of the flames, therefore if there is fire-laundered cloth, if it is not the bark or nettles of the grasses and trees, then it is the feathers or furs of the birds and beasts. In Hàn’s time the Western Regions used to proffer this cloth, in the interim they were for a long time cut off, so reaching to Wèi’s beginning, at the time people doubted if it existed or not. Emperor Wén believed that fire’s nature was too fierce, without an essence to tolerate life, and wrote this in the Diǎnlùn, to make clear that it was not true and end any belief by the intelligent. Reaching to Emperor Míng’s establishment, Edict on the Three Excellencies said: “The Former Emperor in the past wrote the Diǎnlùn, proper words that do not decay, thus carve on stone outside the gates of the Temple and the Grand Academy, with the Stone Classics together,  to forever show to coming generations.” Reaching to when the Western Regions envoys arrived and proffered fire-laundered cloth, thereupon they were chiseled to remove this discussion, and Heaven’s Under laughed at it.
+
+Your Servant Sōngzhī in the past accompanied the western campaign to reach Luòyáng,  successively observed old artifacts, saw the Diǎnlùn stone at the Grand Academy was still preserved, but the outside of the Temple gates was without it. Asking the various elders, they said that when Jìn first received the abdication, they at once used the Wèi Temple, and moved this stone to the Grand Academy, and there were not two locations of establishment. I humbly say this report is not correct.
+
+Also Dōngfāng Shuò’s Shényìjīng  states: Beyond the southern wilderness there is a fire mountain, length thirty lǐ, width fifty lǐ, in the middle all are living trees that do not become ash, day and night burning in fire, in heavy winds it does not grow fiercer, in fierce rain it is not extinguished. In the fire there are rats, weight a hundred jīn,  hair length over two chǐ, slender as silk, and can be made into cloth. Commonly they reside in fire, color a thorough red, and at times when they go out then their color becomes white. With water pursuing and dousing them they at once die, collecting their hairs, weaving into cloth.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　異物志曰：斯調國有火州，在南海中。其上有野火，春夏自生，秋冬自死。有木生于其中而不消也，枝皮更活，秋冬火死則皆枯瘁。其俗常冬采其皮以為布，色小青黑；若塵垢汙之，便投火中，則更鮮明也。傅子曰：漢桓帝時，大將軍梁冀以火浣布為單衣，常大會賓客，冀陽爭酒，失杯而汙之，偽怒，解衣曰：「燒之。」布得火，煒曄赫然，如燒凡布，垢盡火滅，粲然絜白，若用灰水焉。搜神記曰：崑崙之墟，有炎火之山，山上有鳥獸草木，皆生於炎火之中，故有火浣布，非此山草木之皮枲，則其鳥獸之毛也。漢世西域舊獻此布，中間久絕；至魏初，時人疑其無有。文帝以為火性酷烈，無含生之氣，著之典論，明其不然之事，絕智者之聽。及明帝立，詔三公曰：「先帝昔著典論，不朽之格言，其刊石於廟門之外及太學，與石經並，以永示來世。」至是西域使至而獻火浣布焉，於是刊滅此論，而天下笑之。臣松之昔從征西至洛陽，歷觀舊物，見典論石在太學者尚存，而廟門外無之，問諸長老，云晉初受禪，即用魏廟，移此石于太學，非兩處立也。竊謂此言為不然。又東方朔神異經曰：南荒之外有火山，長三十里，廣五十里，其中皆生不燼之木，晝夜火燒，得暴風不猛，猛雨不滅。火中有鼠，重百斤，毛長二尺餘，細如絲，可以作布。常居火中，色洞赤，時時出外而色白，以水逐而沃之即死，續其毛，織以為布。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Dīngchǒu [239 Mar 13], Edict said: “The Grand Commandant embodies principles correct and upright, exhaustively loyal for three reigns, to the south captured Mèng Dá, to the west defeated the Shǔ caitiffs, to the east exterminated Gōngsūn Yuān, achievements crowning Within the Seas. In the past Zhōu Chéng established the offices of Protector and Tutor,  more recently Hàn Xiǎnzōng esteemed and favored Dèng Yǔ,  in order to specially glorify the outstanding and exceptional who must have honors. Thus appoint the Grand Commandant as Grand Tutor, Holding Stave to preside over troops as Overall Commander of various army affairs as before.” 
+Third Moon [239 Mar 22 – Apr 20], appointed Campaigning East General Mǎn Chǒng as Grand Commandant. 
+Summer, Sixth Moon [239 Jun 19 – Jul 17], as Liáodōng’s Tà county’s officials and people crossed the sea to reside at Qí prefecture’s border, used former Zòngchéng to form Xīntà county to house the relocated people. 
+Autumn, Seventh Moon [239 Jul 18 – Aug 16], the Superior first personally oversaw Court, hearing the Excellencies and Ministers memorialize affairs.
+Eighth Moon [239 Aug 17 – Sep 14], Great Amnesty.
+Winter, Tenth Moon [239 Oct 15 – Nov 12], Defending South General Huáng Quán became Chariots and Cavalry General.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+丁丑詔曰：「太尉體道正直，盡忠三世，南擒孟達，西破蜀虜，東滅公孫淵，功蓋海內。昔周成建保傅之官，近漢顯宗崇寵鄧禹，所以優隆雋乂，必有尊也。其以太尉為太傅，持節統兵都督諸軍事如故。」三月，以征東將軍滿寵為太尉。夏六月，以遼東東沓縣吏民渡海居齊郡界，以故縱城為新沓縣以居徙民。秋七月，上始親臨朝，聽公卿奏事。八月，大赦。冬十月，鎮南將軍黃權為車騎將軍。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Twelfth Moon [240 Dec 13 – 240 Jan 11], Edict said: “Lièzǔ Míng Huángdì in the Standard Moon relinquished and departed Heaven’s Under, the ministers and subjects will forever remember the sorrows of the tragic day, thus return to using the Xià Standard.  Although it violates the Former Emperor’s principles of continuing the Three Lineages, this also is a reason for Ritual standards to be changed and reformed. Also the Xià Standard in calculations is for obtaining Heaven’s Standard, thus use the Jiàn Yín Moon to be Zhèngshǐ Inaugural Year Standard Moon, use the Jiàn Chǒu Moon as the next Twelfth Moon.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+十二月，詔曰：「烈祖明皇帝以正月棄背天下，臣子永惟忌日之哀，其復用夏正；雖違先帝通三統之義，斯亦禮制所由變改也。又夏正於數為得天正，其以建寅之月為正始元年正月，以建丑月為後十二月。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Zhèngshǐ Inaugural Year, Spring, Second Moon [240 Mar 11 – Apr 8], Yǐchǒu,  added titles on Attendant Central Central Writers Supervisor Liú Fàng and Attendant Central Central Writers Director Sūn Zī as Left and Right Radiant Grandees. Bǐngxū [240 Mar 16], as Liáodōng’s Wèn and Běifēng counties’ people were relocating across the sea, divided along Qí prefecture’s Xī’ān, Línzī, Chāngguó counties’ borders to form Xīnwèn and Nánfēng counties to house the refugees.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+正始元年春二月乙丑，加侍中中書監劉放、侍中中書令孫資為左右光祿大夫。丙戌，以遼東汶、北豐縣民流徙渡海，規齊郡之西安、臨菑、昌國縣界為新汶、南豐縣，以居流民。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+From the previous winter Twelfth Moon reaching to this moon there was no rain. Bǐngyín [240 Apr 25], Edict ordered prison offices to urgently redress injustices, investigate and release the light and trivial, and the various Excellencies and Ministers and servicemen of honest speech and commendable plans were each to thoroughly explain their hearts. 
+Summer, Fourth Moon [240 May 9 – Jun 6], Chariots and Cavalry General Huáng Quán died.
+Autumn, Seventh Moon [240 Aug 5 – Sep 3], Edict said: “The Yì says ‘decrease above increase below,’  ‘limit by systems, do not injure wealth, do not harm people.’  Right now the Hundred Surnames do not have enough and yet the Attendant Offices  create many gold and silver trifling objects; what is it for? Now send out yellow gold and silver objects of one hundred fifty varieties, over one thousand eight hundred jīn,  to melt down to provide for military expenditures.”
+Eighth Moon [240 Sep 4 – Oct 2], the Chariot Carriage toured and inspected Luòyáng’s borders’ autumn harvest, bestowed on the highly aged and diligent-farmers each on distinct basis.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+自去冬十二月至此月不雨。丙寅，詔令獄官亟平冤枉，理出輕微；群公卿士讜言嘉謀，各悉乃心。夏四月，車騎將軍黃權薨。秋七月，詔曰：「易稱損上益下，節以制度，不傷財，不害民。方今百姓不足而御府多作金銀雜物，將奚以為？今出黃金銀物百五十種，千八百餘斤，銷冶以供軍用」八月，車駕巡省洛陽界秋稼，賜高年力田各有差。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Second Year, Spring, Second Moon [241 Feb 28 – Mar 28], the Emperor first completed the Lúnyǔ, sent the Minister of Ceremonies with Grand Offering to sacrifice to Kǒng-zǐ at Bìyōng, with Yán Yuān accompanying.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+二年春二月，帝初通論語，使太常以太牢祭孔子於辟雍，以顏淵配。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Summer, Fifth Moon [241 May 28 – Jun 25], Wú officer Zhū Rán and others besieged Xiāngyáng’s Fánchéng,  Grand Tutor Sīmǎ [Yì] Xuān-wáng led the multitudes to resist them. <a href="#annotation-3" id="source-3">[3]</a> Sixth Moon [241 Jun 26 – Jul 25], Xīnchǒu [241 Jul 24], [Zhū Rán] retreated. Jǐmǎo [241 Jul 2], appointed Campaigning East General Wáng Líng as Chariots and Cavalry General. 
+Winter, Twelfth Moon [242 Jan 19 – Feb 16], Nán’ān prefecture earthquake.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+夏五月，吳將朱然等圍襄陽之樊城，太傅司馬宣王率眾拒之〔一〕。六月辛丑，退。己卯，以征東將軍王淩為車騎將軍。冬十二月，南安郡地震。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-3" id="annotation-3">[3]</a> Gān Bǎo’s Jìn jì states: Wú officers Quán Cóng invaded Quèbēi,  Zhū Rán and Sūn Lún with fifty thousand men besieged Fánchéng, Zhūgě Jǐn and Bù Zhì invaded Zhāzhōng.  [Quán] Cóng had already been defeated and fled  but Fán’s siege was critical. [Sīmǎ Yì] Xuān-wáng said: “Zhāzhōng’s civilians and Yí are a hundred thousand, separated to the river’s south, wandering apart without a master, Fánchéng has been attacked for successive moons without resolution; this is a dangerous situation. I request to personally suppress them.” The commentators all said: “The rebels from afar besiege Fánchéng and cannot take it, repressed below firm city walls, having a momentum to be defeated on their own. It is appropriate to use a long-term strategy to deal with them.” [Sīmǎ Yì] Xuān-wáng said: “Military treatises have this: ‘[if] the officer is capable and yet to restrain him, this is a shackled army; [if] incapable and yet to appoint him, this is an overturned army.’ Now the borders are disturbed, the people’s hearts in doubt and confusion, this is a great concern for the State Altars.” Sixth Moon [241 Jun 26 – Jul 25], commanded the various armies on southern campaign, the Chariot Carriage escorting him to outside Jīnyáng city gates.  [Sīmǎ Yì] Xuān-wáng believed the south was hot and humid, not appropriate to hold for a long time, and sent light cavalry to provoke them, [Zhū] Rán did not dare move. Thereupon then ordered the various armies to rest and wash, selected the elite, recruited a first to ascend, extended orders, showing a momentum of being certain to attack. [Zhū] Rán and the rest heard this, and so in the night escaped. Pursued reaching to Sānzhōukǒu,  greatly killed and captured.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　干寶晉紀曰：吳將全琮寇芍陂，朱然、孫倫五萬人圍樊城，諸葛瑾、步騭寇柤中；琮已破走而樊圍急。宣王曰：「柤中民夷十萬，隔在水南，流離無主，樊城被攻，歷月不解，此危事也，請自討之。」議者咸言：「賊遠圍樊城不可拔，挫于堅城之下，有自破之勢，宜長策以御之。」宣王曰：「軍志有之：將能而御之，此為縻軍；不能而任之，此為覆軍。今疆埸騷動，民心疑惑，是社稷之大憂也。」六月，督諸軍南征，車駕送津陽城門外。宣王以南方暑溼，不宜持久，使輕騎挑之，然不敢動。於是乃令諸軍休息洗沐，簡精銳，募先登，申號令，示必攻之勢。然等聞之，乃夜遁。追至三州口，大殺獲。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Third Year, Spring, Standard Moon [242 Feb 17 – Mar 18], the King of Dōngpíng [Cáo] Huī died. 
+Third Moon [242 Apr 17 – May 16], Grand Commandant Mǎn Chǒng died.
+Autumn, Seventh Moon [242 Aug 14 – Sep 11], Jiǎshēn [242 Aug 31], Nán’ān prefecture earthquake. Yǐyǒu [242 Sep 1], appointed Manager of the Army General Jiǎng Jì as Grand Commandant. 
+Winter, Twelfth Moon [243 Jan 8 – Feb 6], Wèi prefecture earthquake.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+三年春正月，東平王徽薨。三月，太尉滿寵薨。秋七月甲申，南安郡地震。乙酉，以領軍將軍蔣濟為太尉。冬十二月，魏郡地震。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fourth Year, Spring, Standard Moon [243 Feb 7 – Mar 7], the Emperor was applied the foremost dress,  bestowed on the various ministers each on distinct basis.
+Summer, Fourth Moon [243 May 6 – Jun 4], Yǐmǎo [243 May 29], enthroned as Imperial Empress Zhēn-shì,  Great Amnesty.
+Fifth Moon [243 Jun 5 – Jul 3], first day of the moon, the sun was eclipsed, completely.
+Autumn, Seventh Moon [243 Aug 3 – Aug 31], Edict to sacrifice to former Marshals-in-Chief Cáo Zhēn, Cáo Xiū, Campaigning South General-in-Chief Xiàhóu Shàng, Minister of Ceremonies Huán Jiē, Excellency of Works Chén Qún, Grand Tutor Zhōng Yáo, Chariots and Cavalry General Zhāng Hé, Left General Xú Huǎng, Front General Zhāng Liáo, Right General Yuè Jìn, Grand Commandant Huà Xīn, Excellency over the Masses Wáng Lǎng, Agile Cavalry General Cáo Hóng, Campaigning West General Xiàhóu Yuān, Rear Generals Zhū Líng, Wén Pìn, Metal Mace Bearer Zāng Bà, Defeating Caitiffs General Lǐ Diǎn, Setting Righteousness General Páng Dé, Martial Fierceness Colonel Diǎn Wéi in Tàizǔ Temple Hall. 
+Winter, Twelfth Moon [243 Dec 29 – 244 Jan 26], Wō state female king Bǐmíhū sent envoy to proffer tribute.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+四年春正月，帝加元服，賜群臣各有差。夏四月乙卯，立皇后甄氏，大赦。五月朔，日有食之，既。秋七月，詔祀故大司馬曹真、曹休、征南大將軍夏侯尚、太常桓階、司空陳群、太傅鍾繇、車騎將軍張郃、左將軍徐晃、前將軍張遼、右將軍樂進、太尉華歆、司徒王朗、驃騎將軍曹洪、征西將軍夏侯淵、後將軍朱靈、文聘、執金吾臧霸、破虜將軍李典、立義將軍龐德、武猛校尉典韋於太祖廟庭。冬十二月，倭國女王俾彌呼遣使奉獻。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Year, Spring, Second Moon [244 Feb 26 – Mar 25], Edict on General-in-Chief Cáo Shuǎng to lead the multitudes to campaign against Shǔ.
+Summer, Fourth Moon [244 May 24 – Jun 22], first day of the moon, the sun was eclipsed.
+Fifth Moon [244 Jun 23 – Jul 21], Guǐsì [244 Jun 30], lectures on the Shàng Shū jīng completed, sent the Minister of Ceremonies with Grand Offering to sacrifice to Kǒng-zǐ at Bìyōng, with Yán Yuān accompanying. Bestowals on the Grand Tutor, General-in-Chief, and the attendant lecturers each on distinct basis. Bǐngwǔ [244 Jul 13], General-in-Chief Cáo Shuǎng withdrew the army and returned. 
+Autumn, Eighth Moon [244 Sep 19 – Oct 18], the King of Qín [Cáo] Xún died. Ninth Moon [244 Oct 19 – Nov 16], the Xiānbēi inwardly submitted, installed Liáodōng Dependent State and established Chānglí county to house them. 
+Winter, Eleventh Moon [244 Dec 17 – 245 Jan 14], Guǐmǎo [245 Jan 6], Edict to sacrifice to former Secretariat Writers Director Xún Yōu in Tàizǔ Temple Hall. <a href="#annotation-4" id="source-4">[4]</a> Jǐyǒu [245 Jan 12], reverted Qín state to Jīngzhào prefecture.
+Twelfth Moon [245 Jan 15 – Feb 13], Excellency of Works Cuī Lín died.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五年春二月，詔大將軍曹爽率眾征蜀。夏四月朔，日有蝕之。五月癸巳，講尚書經通，使太常以太牢祀孔子於辟雍，以顏淵配；賜太傳、大將軍及侍講者各有差。丙午，大將軍曹爽引軍還。秋八月，秦王詢薨。九月，鮮卑內附，置遼東屬國，立昌黎縣以居之。冬十一月癸卯，詔祀故尚書令荀攸于太祖廟庭。〔一〕己酉，復秦國為京兆郡。十二月，司空崔林薨。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-4" id="annotation-4">[4]</a> Your Servant Sōngzhī believes the reason the Wèi clan accompanying sacrifices did not reach Xún Yù probably was as in his final years he dissented, and also because his position was not as a Wèi minister.  As for raising Chéng Yù but omitting Guō Jiā, advancing Zhōng Yáo and afterward Xún Yōu, then the reasoning is unclear. Xú Tā plotted rebellion and Xǔ Chǔ’s heart was roused,  the utmost far-reaching loyalty and sincerity the same as [Jīn] Mìdī,  and moreover at the danger of Tóng Pass, if not for [Xǔ] Chǔ there would have been no rescue.  The achievements and exploits of [Xǔ] Chǔ surpassed those of Diǎn Wéi, now sacrificing to [Diǎn] Wéi but not [Xǔ] Chǔ also is not understandable.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　臣松之以為故魏氏配饗不及荀彧，蓋以其末年異議，又位非魏臣故也。至于升程昱而遺郭嘉，先鍾繇而後荀攸，則未詳厥趣也。（徐佗）〔徐他〕謀逆而許褚心動，忠誠之至遠同于日磾，且潼關之危，非褚不濟，褚之功烈有過典韋，今祀韋而不及褚，又所未達也。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sixth Year, Spring, Second Moon [245 Mar 15 – Apr 13], Dīngmǎo [245 Mar 31], Nán’ān prefecture earthquake.  Bǐngzǐ [245 Apr 9], appointed Agile Cavalry General Zhào Yǎn as Excellency of Works. 
+Summer, Sixth Moon [245 Jul 12 – Aug 9], [Zhào] Yǎn died.
+Eighth Moon [256 Sep 9 – Oct 7] Dīngmǎo [245 Sep 27], appointed Minister of Ceremonies Gāo Róu as Excellency of Works.  Guǐsì,  appointed Left Radiant Grandee Liú Fàng as Agile Cavalry General, Right Radiant Grandee Sūn Zī became Guard General.
+Winter, Eleventh Moon [245 Dec 6 – Jan 4], Xiá sacrifices in Tàizǔ Temple,  first sacrificing to the previously discussed ministers assisting the mandate of twenty-one men.
+Twelfth Moon [246 Jan 5 – Feb 2], Xīnhài [246 Jan 9], Edict that former Excellency over the Masses Wáng Lǎng’s composed Yì Zhuàn was to be used by scholars for classes and exams.  Yǐhài [246 Feb 2], Edict said: “Tomorrow there will be a great assembly of the various ministers, thus order the Grand Tutor to ride carriage up to the Hall.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+六年春二月丁卯，南安郡地震。丙子，以驃騎將軍趙儼為司空；夏六月，儼薨。八月丁卯，以太常高柔為司空。癸巳，以左光祿大夫劉放為驃騎將軍，右光祿大夫孫資為衛將軍。冬十一月，祫祭太祖廟，始祀前所論佐命臣二十一人。十二月辛亥，詔故司徒王朗所作易傳，令學者得以課試。乙亥，詔曰：「明日大會群臣，其令太傅乘輿上殿。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Seventh Year, Spring, Second Moon [246 Mar 5 – Apr 2], Yōu Province Inspector Guànqiū Jiǎn suppressed Gāogōulí.
+Summer, Fifth Moon [246 Jun 1 – Jun 30], suppressed Huìmò. Defeated them all. Hán, Nuóxī, and others of several tens of states each led their tribes to surrender. 
+Autumn, Eighth Moon [246 Aug 29 – Sep 27], Wùshēn [246 Sep 3], Edict said: “Recently arriving in the markets and observing the selling of expelled government slaves, their years are all seventy, some weak and ill, what is called the most destitute of all people.  Moreover for the government to have exhausted their strength and then again sell them, in advancing or withdrawing it is without meaning, thus entirely release them as free persons. If there are any that cannot support themselves, the prefectures and counties are to provide for them.”  <a href="#annotation-5" id="source-5">[5]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+七年春二月，幽州刺史毌丘儉討高句驪，夏五月，討濊貊，皆破之。韓那奚等數十國各率種落降。秋八月戊申，詔曰：「屬到巿觀見所斥賣官奴婢，年皆七十，或癃疾殘病，所謂天民之窮者也。且官以其力竭而復鬻之，進退無謂，其悉遣為良民。若有不能自存者，郡縣振給之。」〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-5" id="annotation-5">[5]</a> Your Servant Sōngzhī notes: When the Emperor first ascended the throne, there was an Edict “government slaves sixty and above are dismissed to be free persons.” If there was this edict, then it should therefore be a perpetual system. Within seven to eight years yet again there is selling of those aged seventy. Moreover slaves of seventy that are weak and ill are not things that would sell, and yet to sell them in the markets, these are all matters difficult to resolve.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　臣松之案：帝初即位，有詔「官奴婢六十以上免為良人」。既有此詔，則宜遂為永制。七八年間，而復貨年七十者，且七十奴婢及癃疾殘病，並非可售之物，而鬻之於巿，此皆事之難解。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Jǐyǒu [246 Sep 4], Edict said: “I will on the nineteenth day [246 Sep 16] personally sacrifice, but yesterday when going out I personally saw road repairs, if it rains it will have to again be rebuilt, in vain expending labor efforts. I always remember that the Hundred Surnames have little strength but much conscription, morning and night keeping it in heart. The roads should only seek to be advantageous for transportation, hearing that there is beating of the old and small to work on making lofty decorations, causing fatigue and destitution, it brings grieving sighs; how can I calmly ride on this and travel to deliver fragrant virtue to the Ancestral Temple? From now on afterward, clearly extend these orders.”
+Winter, Twelfth Moon [246 Dec 25 – 247 Jan 23], lectures on the Lǐjì completed, sent the Minister of Ceremonies with Grand Offering to sacrifice to Kǒng-zǐ at Bìyōng, with Yán Yuān accompanying. <a href="#annotation-6" id="source-6">[6]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+己酉，詔曰：「吾乃當以十九日親祠，而昨出已見治道，得雨當復更治，徒棄功夫。每念百姓力少役多，夙夜存心。道路但當期于通利，聞乃撾捶老小，務崇脩飾，疲困流離，以至哀歎，吾豈安乘此而行，致馨德于宗廟邪？自今已後，明申敕之。」冬十二月，講禮記通，使太常以太牢祀孔子於辟雍，以顏淵配。〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-6" id="annotation-6">[6]</a> Xí Zuòchǐ’s Hàn Jìn Chūnqiū states: That year, Wú officer Zhū Rán entered Zhāzhōng, killing and capturing several thousand. Zhāzhōng civilians and officials of over ten thousand families crossed the Miǎn. Sīmǎ [Yì] Xuān-wáng spoke to Cáo Shuǎng saying: “If they are again allowed to return, they will certainly again attract invasion. It is appropriate to temporarily detain them.” [Cáo] Shuǎng said: “Now to not repair the defenses of the Miǎn’s south and detain the people to the Miǎn’s north is not a long-term strategy.” [Sīmǎ Yì] Xuān-wáng said: “Not so. Generally things placed on secure ground then is secure, on endangered ground then is endangered, therefore military books say success or failure is by form, security or danger is by momentum. Form and momentum are critical to controlling the masses, and cannot be not examined. Supposing if rebels of twenty thousand men cut off the Miǎn river, thirty thousand men lock together with the various armies of the Miǎn’s south, ten thousand men on land plunder Zhāzhōng, how will you rescue them?” [Cáo] Shuǎng did not listen, in the end ordering them to return. [Zhū] Rán later attacked and defeated them. Yuán Huái  spoke to [Cáo] Shuǎng saying: “The people of Wú and Chǔ are frail and weak with few abilities, outstanding talents and great worthies do not appear in their lands. In comparing skills and measuring strength, they are not enough to compete with the central states. However that from high antiquity onward they have always been a concern for the central states, overall is because they have the Jiāng and Hàn as moats, boats and oars to use, when having the advantage then they plunder on land, when not having the advantage then they enter the waters, in attacking them the roads are far, the superior skills of the central states have no way to be used against them. Sūn Quán from since ten and several years onward has greatly cultivated the Jiāng’s north, mending and repairing armor and weapons, focusing his defenses. Repeatedly setting out to rob and plunder, daring to go far away from his waters, on land stationing on flat ground: this is what the central states should hope to hear. In the use of soldiers, value is in using the fed to wait for the hungry, using the rested to strike the fatigued, brigades do not wish for long times, marches do not wish to go far, defenses when fewer then are hardened, power when concentrated then is strong. Right now it is appropriate to abandon the Huái and Hàn on south, retreating back to avoid them. If the rebels are able to enter and occupy the center, coming to encroach the borders, then it will accord with their shortcomings and the superior skills will be able to be used. If they do not dare come, then the borders will obtain calm and be without the worry of plunder and theft. If our state is wealthy and soldiers strong, government cultivated and people unified, the subduing of their state is not enough to be considered far off. Now Xiāngyáng is isolated to the Hàn’s south, if the rebels follow the Hàn and go upstream, then it will be cut off and not connected, [if the rebels] in one battle are victorious, then without being attacked it will on its own submit, and therefore maintaining it is of no benefit to the state, losing it is not enough to be a disgrace. From Jiāngxià on east, the Huái’s south’s various prefectures from the three lords onward, that there have been so many deserters, is because they are near to the rebel borders and easy to plunder and rob. If they are relocated to the Huái’s north, long distances cutting off between them, then the people will be secure and pleased, and how where there be alarms of cries and barks?” They were not relocated.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　習鑿齒漢晉春秋曰：是年，吳將朱然入柤中，斬獲數千；柤中民吏萬餘家渡沔。司馬宣王謂曹爽曰：「若便令還，必復致寇，宜權留之。」爽曰：「今不脩守沔南，留民沔北，非長策也。」宣王曰：「不然。凡物置之安地則安，危地則危，故兵書曰，成敗，形也，安危，勢也，形勢御眾之要，不可不審。設令賊二萬人斷沔水，三萬人與沔南諸軍相持，萬人陸鈔柤中，君將何以救之？」爽不聽，卒令還。然後襲破之。袁淮言于爽曰：「吳楚之民脃弱寡能，英才大賢不出其土，比技量力，不足與中國相抗，然自上世以來常為中國患者，蓋以江漢為池，舟楫為用，利則陸鈔，不利則入水，攻之道遠，中國之長技無所用之也。孫權自十數年以來，大畋江北，繕治甲兵，精其守禦，數出盜竊，敢遠其水，陸次平土，此中國所願聞也。夫用兵者，貴以飽待飢，以逸擊勞，師不欲久，行不欲遠，守少則固，力專則彊。當今宜捐淮、漢以南，退卻避之。若賊能入居中央，來侵邊境，則隨其所短，中國之長技得用矣。若不敢來，則邊境得安，無鈔盜之憂矣。使我國富兵彊，政脩民一，陵其國不足為遠矣。今襄陽孤在漢南，賊循漢而上，則斷而不通，一戰而勝，則不攻而自服，故置之無益于國，亡之不足為辱。自江夏已東，淮南諸郡，三后已來，其所亡幾何，以近賊疆界易鈔掠之故哉！若徙之淮北，遠絕其間，則民人安樂，何鳴吠之驚乎？」遂不徙。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eighth Year, Spring, Second Moon [247 Mar 24 – Apr 21], first day of the moon, the sun was eclipsed.
+Summer, Fifth Moon [247 Jun 20 – Jul 19], divided Hédōng’s ten counties north of the Fén to form Píngyáng prefecture.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+八年春二月朔，日有蝕之。夏五月，分河東之汾北十縣為平陽郡。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Autumn, Seventh Moon [247 Aug 18 – Sep 16], Secretariat Writer Hé Yàn’s  memorial said: “Those who excel in acting for the state certainly first govern the self, those who govern the self are cautious of habits. When habits are correct then the self is correct, when the self is correct then without even commanding it yet it is enacted. When habits are not correct then the self is not correct, when the self is not correct then although it is commanded it is not obeyed. Therefore, for a lord of men, those they travel with certainly must be selected correct men, what they view certainly must be examined as correct images, discard Zhèng sounds and do not listen to it, distance from flatterers and be not close with them,  only afterward do nefarious hearts not appear and correct ways can expand. A final end’s ignorant ruler does not understand what is harmful or beneficial, rejects and distances from noble men, attracts and is close with petty men, the loyal and good are estranged and distanced, the fawning and flattering are close and intimate, chaos appears in the close and familiar, described as altar rats.  Examining their ignorance or enlightenment, it was accumulation that made it so, therefore the sagely and worthy are tirelessly devoted in taking it as the utmost consideration. Shùn warned Yǔ stating: ‘Neighbors ah! Neighbors ah!’  saying to be cautious on who is close by. Zhōu-gōng warned Chéng-wáng stating: ‘The friends! The friends!’  saying to be cautious on who to interact with. The Shū says: ‘One man has goodness; millions of people rely on it.’  Possibly from now on afterward, when the carriage visits Shìgàn Hall  and tours for recreation in the Rear Garden, all the chief ministers should attend and follow, taking advantage of when at ease in plays and feasts to simultaneously review written documents, inquire on and plan government affairs, discuss and debate the meanings of the classics, to be a law for myriad ages.”
+Winter, Twelfth Moon [248 Jan 13 – Feb 11], Cavalier Regular Attendant Remonstration Grandee Kǒng Yì’s  memorial said: “By Ritual, the Palace of Heaven’s Son has systems of carving and polishing, no decorations of vermilion and cinnabar. It is appropriate to adhere to ritual and restore the ancient ways. Now Heaven’s Under is already pacified, lord and servant clearly distinguished in status, Your Majesty should only be unremitting in position, maintain fair and correct heart, careful in reward and punishment to employ them. You can end the Rear Garden practice of riding horses, in going out you must drive carriage or ride chariot. This is a fortune for Heaven’s Under and what Your Servants desire.”
+[Hé] Yàn and [Kǒng] Yì both took advantage of deficiencies to advance to remonstrate.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+秋七月，尚書何晏奏曰：「善為國者必先治其身，治其身者慎其所習。所習正則其身正，其身正則不令而行；所習不正則其身不正，其身不正則雖令不從。是故為人君者，所與游必擇正人，所觀覽必察正象，放鄭聲而弗聽，遠佞人而弗近，然後邪心不生而正道可弘也。季末闇主，不知損益，斥遠君子，引近小人，忠良疏遠，便辟褻狎，亂生近暱，譬之社鼠；考其昏明，所積以然，故聖賢諄諄以為至慮。舜戒禹曰『鄰哉鄰哉』，言慎所近也，周公戒成王曰『其朋其朋』，言慎所與也。（詩）〔書〕云：『一人有慶，兆民賴之。』可自今以後，御幸式乾殿及游豫後園，皆大臣侍從，因從容戲宴，兼省文書，詢謀政事，講論經義，為萬世法。」冬十二月，散騎常侍諫議大夫孔乂奏曰：「禮，天子之宮，有斲礱之制，無朱丹之飾，宜循禮復古。今天下已平，君臣之分明，陛下但當不懈于位，平公正之心，審賞罰以使之。可絕後園習騎乘馬，出必御輦乘車，天下之福，臣子之願也。」晏、乂咸因闕以進規諫。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Ninth Year, Spring, Second Moon [248 Mar 12 – Apr 10], Guard General Central Writers Director Sūn Zī, Guǐzǐ [248 Apr 10], Agile Cavalry General Central Writers Supervisor Liú Fàng, Third Moon [248 Apr 11 – May 9], Jiǎwǔ [248 Apr 11], Excellency over the Masses Wèi Zhēn, each resigned their positions, as Marquesses returned to their mansions, ranked Specially Advanced. 
+Fourth Moon [248 May 10 – Jun 8], appointed Excellency of Works Gāo Róu as Excellency over the Masses, Radiant Grandee Xú Miǎo as Excellency of Works,  he firmly declined and would not accept.
+Autumn, Ninth Moon [248 Oct 5 – Nov 2], appointed Chariots and Cavalry General Wáng Líng as Excellency of Works.
+Winter, Tenth Moon [248 Nov 3 – Dec 2], heavy winds blew off roofs and broke trees.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+九年春二月，衛將軍中書令孫資，癸巳，驃騎將軍中書監劉放，三月甲午，司徒衛臻，各遜位，以侯就第，位特進。四月，以司空高柔為司徒；光祿大夫徐邈為司空，固辭不受。秋九月，以車騎將軍王淩為司空。冬十月，大風發屋折樹。
 :::
 :::
 
 ## Jiāpíng (249 - 253) {.unnumbered}
+
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+Jiāpíng Inaugural Year, Spring, Standard Moon [249 Jan 31 – Feb 28], Jiǎwǔ [249 Feb 5], the Chariot Carriage visited Gāopínglíng. <a href="#annotation-7" id="source-7">[7]</a> Grand Tutor Sīmǎ [Yì] Xuān-wáng memorialized to dismiss General-in-Chief Cáo Shuǎng and [Cáo] Shuǎng’s younger brothers Central Manager of the Army [Cáo] Xī, Martial Guard General [Cáo] Xùn, Cavalier Regular Attendant [Cáo] Yàn from office, to as Marquesses return to their mansions.  Wúxū [249 Feb 9], relevant managers memorialized to arrest Yellow Gate Zhāng Dāng to send to the Minister of Justice, to investigate and verify his testimony that he and [Cáo] Shuǎng had plotted treason.  Also Secretariat Writers Dīng Mì, Dèng Yáng, Hé Yàn, Director of Retainers Colonel Bì Guǐ, Jīng Province Inspector Lǐ Shèng, Minister of Agriculture Huán Fàn all had with [Cáo] Shuǎng communicated treacherous plans, exterminated three clans. The story is in [Cáo] Shuǎng zhuàn.  Bǐngwǔ [249 Feb 17], Great Amnesty.  Dīngwèi [249 Feb 18], appointed Grand Tutor Sīmǎ [Yì] Xuān-wáng as Assistant Chancellor, he firmly declined and so it stopped. <a href="#annotation-8" id="source-8">[8]</a>
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+嘉平元年春正月甲午，車駕謁高平陵。〔一〕太傅司馬宣王奏免大將軍曹爽、爽弟中領軍羲、武衛將軍訓、散騎常侍彥官，以侯就第。戊戌，有司奏收黃門張當付廷尉，考實其辭，爽與謀不軌。又尚書丁謐、鄧颺、何晏、司隸校尉畢軌、荊州刺史李勝、大司農桓範皆與爽通姦謀，夷三族。語在爽傳。丙午，大赦。丁未，以太傅司馬宣王為丞相，固讓乃止。〔二〕
 :::
 :::
 
-## Zhèngyuán (254 - 255) {.unnumbered}
+::: {.callout-note appearance="minimal"}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+<a href="#source-7" id="annotation-7">[7]</a> Sūn Shèng’s Wèi Shìpǔ  states: Gāopínglíng is at Luò river’s south’s Dàshí mountain, from Luò city by ninety lǐ.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+〔一〕　孫盛魏世譜曰：高平陵在洛水南大石山，去洛城九十里。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-8" id="annotation-8">[8]</a> Kǒng Yǎn’s Hàn Wèi Chūnqiū states: Edict sent Minister of Ceremonies Wáng Sù  with conferment mandate on the Grand Tutor to be Assistant Chancellor, increase fief by ten thousand households, in memorializing affairs to not call himself by personal name, like the precedent of Hàn’s Huò Guāng. The Grand Tutor sent up letter declining that said: “Your Servant personally received the deathbed mandate, the worries deep and responsibilities heavy, relied on heaven’s authority to destroy the treacherous and vicious. To rectify crimes is good fortune, the achievement is not worth discussing. Also the offices of the Three Excellencies were systemized by sagely kings, written in canon rituals. As for Assistant Chancellor, it began from Qín’s government, the Hàn clan imitated it, and did not further revise it. Now the offices of the Three Excellencies are all filled, to unreasonably further favor Your Servant is to violate and exceed former canon, reform the scriptures of the sagely and enlightened, follow the road of Qín and Hàn. Even if it were for a different person, Your Servant should correct it, all the more when it is on Your Servant’s body, if I do not firmly argue, what will the discussions of the Four Quarters say of Your Servant?” Letter was sent up over ten times, Edict then permitted it.  Further applied the rituals of the Nine Bestowments. The Grand Tutor also said: “Tàizǔ had great achievements and great virtues, the Hàn clan esteemed and valued him, and therefore applied the Nine Bestowments. This then was an exceptional affair of successive generations, not what lords and servants of later generations should discuss.” Also declined and would not accept.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　孔衍漢魏春秋曰：詔使太常王肅冊命太傅為丞相，增邑萬戶，群臣奏事不得稱名，如漢霍光故事。太傅上書辭讓曰：「臣親受顧命，憂深責重，憑賴天威，摧弊姦凶，贖罪為幸，功不足論。又三公之官，聖王所制，著之典禮。至于丞相，始自秦政。漢氏因之，無復變改。今三公之官皆備，橫復寵臣，違越先典，革聖明之經，襲秦漢之路，雖在異人，臣所宜正，況當臣身而不固爭，四方議者將謂臣何！」書十餘上，詔乃許之，復加九錫之禮。太傅又言：「太祖有大功大德，漢氏崇重，故加九錫，此乃歷代異事，非後代之君臣所得議也。」又辭不受。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Summer, Fourth Moon [249 Apr 30 – 249 May 28], Yǐchǒu [249 May 7], changed the Year. Bǐngzǐ [249 May 18], Grand Commandant Jiǎng Jì died. 
+Winter, Twelfth Moon [250 Jan 20 – Feb 18], Xīnmǎo [250 Jan 28], appointed Excellency of Works Wáng Líng as Grand Commandant. Gēngzǐ [250 Feb 6], appointed Director of Retainers Colonel Sūn Lǐ as Excellency of Works.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+夏四月乙丑，改年。丙子，太尉蔣濟薨。冬十二月辛卯，以司空王淩為太尉。庚子，以司隸校尉孫禮為司空。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Second Year, Summer, Fifth Moon [250 Jun 17 – Jul 15], appointed Campaigning West General Guō Huái as Chariots and Cavalry General.
+Winter, Tenth Moon [250 Nov 12 – Dec 10], appointed Specially Advanced Sūn Zī as Agile Cavalry General.
+Eleventh Moon [250 Dec 11 – 251 Jan 9], Excellency of Works Sūn Lǐ died.
+Twelfth Moon [251 Jan 10 – Feb 7], Jiǎchén [251 Feb 5], the King of Dōnghǎi [Cáo] Lín died.  Yǐwèi [251 Jan 27],  Campaigning South General Wáng Chǎng crossed the Jiāng, surprise attacked Wú, defeated them.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+二年夏五月，以征西將軍郭淮為車騎將軍。冬十月，以特進孫資為驃騎將軍。十一月，司空孫禮薨。十二月甲辰，東海王霖薨。乙未，征南將軍王昶渡江，掩攻吳，破之。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Third Year, Spring, Standard Moon [251 Feb 8 – Mar 9], Jīng Province Inspector Wáng Jī and Xīnchéng Administrator Zhōu Tài  attacked Wú, defeated them, the surrendered were several thousand people.
+Second Moon [251 Mar 10 – Apr 7], installed Nán prefecture’s Yílíng county to house the surrendered and submitted.
+Third Moon [251 Apr 8 – May 7], appointed Secretariat Writers Director Sīmǎ Fú as Excellency of Works. 
+Fourth Moon [251 May 8 – Jun 5], Jiǎshēn [251 May 16], appointed Campaigning South General Wáng Chǎng as Campaigning South General-in-Chief. Rénchén [251 May 24], Great Amnesty. Bǐngwǔ,  heard that Grand Commandant Wáng Lìng was plotting to depose the Emperor and enthrone the King of Chǔ [Cáo] Biāo,  Grand Tutor Sīmǎ [Yì] Xuān-wáng campaigned east against [Wáng] Líng.
+Fifth Moon [251 Jun 6 – Jul 5], Jiǎyín [251 Jun 15], [Wáng] Líng killed himself. 
+Sixth Moon [251 Jul 6 – Aug 3], [Cáo] Biāo was bestowed death. 
+Autumn, Seventh Moon [251 Aug 4 – Sep 2], Rénxū [251 Aug 22], Imperial Empress Zhēn-shì passed away. Xīnwèi [251 Aug 31], appointed Excellency of Works Sīmǎ Fú as Grand Commandant. Wùyín [251 Sep 7], Grand Tutor Sīmǎ [Yì] Xuān-wáng died,  appointed Guard General Sīmǎ [Shī] Jǐng-wáng as Succoring Army General-in-Chief, controlling Secretariat Writers affairs.  Yǐwèi [251 Sep 24], buried Empress Huái Zhēn at Tàiqīnglíng.  Gēngzǐ [251 Sep 29], Agile Cavalry General Sūn Zī died.
+Eleventh Moon [251 Dec 1 – Dec 29], relevant managers memorialized that as the various accomplished ministers that enjoyed sacrifices in Tàizǔ Temple were ordered by office, and Grand Tutor Sīmǎ [Yì] Xuān-wáng’s achievements were highest and rank most honored, he be placed as the top.
+Twelfth Moon [251 Dec 30 – 252 Jan 28], appointed Minister of Staff Zhèng Chōng as Excellency of Works.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+三年春正月，荊州刺史王基、新城太守（陳泰）〔州泰〕攻吳，破之，降者數千口。二月，置南郡之夷陵縣以居降附。三月，以尚書令司馬孚為司空。四月甲申，以征南將軍王昶為征南大將軍。壬辰，大赦。丙午，聞太尉王淩謀廢帝，立楚王彪，太傅司馬宣王東征淩。五月甲寅，淩自殺。六月，彪賜死。秋七月壬戌，皇后甄氏崩。辛未，以司空司馬孚為太尉。戊寅，太傅司馬宣王薨，以衛將軍司馬景王為撫軍大將軍，錄尚書事。乙未，葬懷甄后於太清陵。庚子，驃騎將軍孫資薨。十一月，有司奏諸功臣應饗食於太祖廟者，更以官為次，太傅司馬宣王功高爵尊，最在上。十二月，以光祿勳鄭沖為司空。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fourth Year, Spring, Standard Moon [252 Jan 29 – Feb 26], Guǐmǎo [252 Jan 30], appointed Succoring Army General-in-Chief Sīmǎ [Shī] Jǐng-wáng as General-in-Chief.
+Second Moon [252 Feb 27 – Mar 27], enthroned Imperial Empress Zhāng-shì, Great Amnesty. 
+Summer, Fifth Moon [252 May 26 – Jun 23], fish of two appeared on top of the Military Arsenal building. <a href="#annotation-9" id="source-9">[9]</a> Winter, Eleventh Moon [252 Dec 18 – 253 Jan 16], Edict on Campaigning South General-in-Chief Wáng Chǎng, Campaigning East General Hú Zūn, Defending South General Guànqiū Jiǎn and others to campaign against Wú. 
+Twelfth Moon [253 Jan 17 – Feb 14], Wú’s General-in-Chief Zhūgě Kè  resisted and battled, greatly defeating the multitudes of armies at Dōngguān.  Without success returned. <a href="#annotation-10" id="source-10">[10]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+四年春正月癸卯，以撫軍大將軍司馬景王為大將軍。二月，立皇后張氏，大赦。夏五月，魚二，見於武庫屋上。〔一〕冬十一月，詔征南大將軍王昶、征東將軍胡遵、鎮南將軍毌丘儉等征吳。十二月，吳大將軍諸葛恪拒戰，大破眾軍于東關。不利而還。〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-9" id="annotation-9">[9]</a> Hàn Jìn Chūnqiū states: Previously, Sūn Quán built Dōngxīng dike to dam Cháo lake.  Later in the Huáinán campaigns, it was damaged and not repaired. That year Zhūgě Kè led armies to restore the dike left and right to connect to the mountains, built two walled cities at the ends, sent Quán Duān and Liú Lüè  to guard them, and led the army to return. Zhūgě Dàn  spoke to Sīmǎ [Shī] Jǐng-wáng saying: “‘Delivering men but not being delivered to men,’  this is the saying. Now take advantage of their inward encroachment, send [Wáng Chǎng] Wénshū to pressure Jiānglíng and [Guànqiū Jiǎn] Zhònggōng  to head toward Wǔchāng,  to restrain Wú’s upstream, and afterward select elite troops to attack the two cities. By the time rescue arrives, there can be great gains.” [Sīmǎ Shī] Jǐng-wáng followed this.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：初，孫權築東興隄以遏巢湖。後征淮南，壞不復修。是歲諸葛恪帥軍更于隄左右結山，挾築兩城，使全端、留略守之，引軍而還。諸葛誕言於司馬景王曰：「致人而不致於人者，此之謂也。今因其內侵，使文舒逼江陵，仲恭向武昌，以羈吳之上流，然後簡精卒攻兩城，比救至，可大獲也。」景王從之。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-10" id="annotation-10">[10]</a> Hàn Jìn Chūnqiū states: Guànqiū Jiǎn and Wáng Chǎng heard the eastern armies were defeated, and each burned their garrisons and fled. The Court discussed wishes to demote and dismiss the various officers. [Sīmǎ Shī] Jǐng-wáng said: “I did not listen to [Zhūgě Dàn] Gōngxiū,  so that it came to this. This is my fault; the various officers have what crimes?” Pardoned them all. At the time Sīmǎ [Zhāo] Wén-wáng  was the Supervisor of the Army, presiding over the various armies, only removed [Sīmǎ Zhāo] Wén-wáng’s noble rank and nothing more.  That year, Yōng Province Inspector Chén Tài  requested orders for Bìng Province to combine strength to suppress the Hú, [Sīmǎ Shī] Jǐng-wáng followed this. They had not yet gathered when Yànmén and Xīnxīng two prefectures believed they were about to be distantly conscripted and therefore were alarmed and rebelled. [Sīmǎ Shī] Jǐng-wáng also apologized to the Court servicemen saying: “This is my fault, not [Chén Tài] Xuánbó’s  responsibility.” Thereupon Wèi’s men were ashamed and pleased, everyone thought to repay him.
+
+Xí Zuòchǐ states: General-in-Chief Sīmǎ [Shī] took the two defeats as his own faults, the faults disappeared and his enterprise expanded. It can be called wisdom. The people forgot their defeats, and the below thought to repay him. Even if he wished to not be prosperous, could he obtain it? If he had instead avoided speaking of defeat and pushed away the fault, assigning the blame on all others, always claiming his achievements but hiding his disappointments, above and below would separate in heart, worthy and foolish segregate in body: this is how Chǔ was twice defeated and Jìn twice successful, the increasing of error.  If a noble man is able to gather these reasonings to manage the state, then the Court is without withered government, the self does not keep transgressions, actions fail and yet fame rises, soldiers are dampened and yet in battle victorious, even a hundred defeats are tolerable, all the more for two!
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　漢晉春秋曰：毌丘儉、王昶聞東軍敗，各燒屯走。朝議欲貶黜諸將，景王曰：「我不聽公休，以至於此。此我過也，諸將何罪？」悉原之。時司馬文王為監軍，統諸軍，唯削文王爵而已。是歲，雍州刺史陳泰求敕并州併力討胡，景王從之。未集，而雁門、新興二郡以為將遠役，遂驚反。景王又謝朝士曰：「此我過也，非玄伯之責！」於是魏人愧悅，人思其報。習鑿齒曰：司馬大將軍引二敗以為己過，過消而業隆，可謂智矣。夫民忘其敗，而下思其報，雖欲不康，其可得邪？若乃諱敗推過，歸咎萬物，常執其功而隱其喪，上下離心，賢愚解體，是楚再敗而晉再克也，謬之甚矣！君人者，苟統斯理而以御國，則朝無秕政，身靡留愆，行失而名揚，兵挫而戰勝，雖百敗可也，況於再乎！
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Year, Summer, Fourth Moon [253 May 15 – Jun 13], Great Amnesty.
+Fifth Moon [253 Jun 14 – Jul 12], Wú’s Grand Tutor Zhūgě Kè besieged Héféi Xīnchéng, Edict on Grand Commandant Sīmǎ Fú to resist him. <a href="#annotation-11" id="source-11">[11]</a> Autumn, Seventh Moon [253 Aug 12 – Sep 9], [Zhūgě] Kè retreated and returned. <a href="#annotation-12" id="source-12">[12]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五年夏四月，大赦。五月，吳太傅諸葛恪圍合肥新城，詔太尉司馬孚拒之。〔一〕秋七月，恪退還。〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-11" id="annotation-11">[11]</a> Hàn Jìn Chūnqiū states: At the time Jiāng Wéi also set out to besiege Dídào.  Sīmǎ [Shī] Jǐng-wáng asked Yú Sōng  saying: “Now east and west have situations, two regions both urgent, but the various officers are discouraged. What to do?” [Yú] Sōng said: “In the past Zhōu Yàfū firmly fortified Chāngyì, and Wú and Chǔ were on their own defeated.  Situations have those seeming weak and yet strong, or seeming strong and yet weak, it cannot be not investigated. Now [Zhūgě] Kè has entirely mobilized his elite multitudes, sufficient to be unrestrained in violence, but yet sits to hold Xīnchéng, only wishing to attract a single battle. If he attacks the city and does not take it, requests battle and does not obtain it, his brigades will tire and his multitudes will weary, the momentum will on its own leave. The various officers not directly advancing then is to Your Excellency’s advantage. Jiāng Wéi has heavy soldiers but yet extends his army to answer [Zhūgě] Kè, relying on feeding on our wheat. This is not a deeply rooted enemy. Moreover he says we will focus strength to the east, the western area certainly emptied, and therefore directly advances. Now if we send Guānzhōng’s various armies on double march to urgently go, setting out where he does not expect, probably he will flee.” [Sīmǎ Shī] Jǐng-wáng said: “Excellent!” Thus sent Guō Huái and Chén Tài with all the multitudes of Guānzhōng to relieve Dídào’s siege, and ordered Guànqiū Jiǎn and the rest to restrain the soldiers and self-defend, leaving Xīnchéng to Wú. Jiāng Wéi heard [Guō] Huái was advancing soldiers, his army’s provisions were few, so he retreated to garrison Lǒngxī’s border.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：是時姜維亦出圍狄道。司馬景王問虞松曰：「今東西有事，二方皆急，而諸將意沮，若之何？」松曰：「昔周亞夫堅壁昌邑而吳楚自敗，事有似弱而彊，或似彊而弱，不可不察也。今恪悉其銳眾，足以肆暴，而坐守新城，欲以致一戰耳。若攻城不拔，請戰不得，師老眾疲，勢將自走，諸將之不徑進，乃公之利也。姜維有重兵而縣軍應恪，投食我麥，非深根之寇也。且謂我并力于東，西方必虛，是以徑進。今若使關中諸軍倍道急赴，出其不意，殆將走矣。」景王曰：「善！」乃使郭淮、陳泰悉關中之眾，解狄道之圍；敕毌丘儉等案兵自守，以新城委吳。姜維聞淮進兵，軍食少，乃退屯隴西界。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal" #zhangte}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-12" id="annotation-12">[12]</a> At the time, Zhāng Tè defended Xīnchéng.
+Wèi lüè states: [Zhāng] Tè appellation Zǐchǎn was a Zhuō prefecture man.  In former times he managed the Ivory Gate and Dispensing Affairs for Defending East Zhūgě Dàn, [Zhūgě] Dàn did not believe him capable, and wished to send him back to the Protector of the Army. It happened that Guànqiū Jiǎn replaced [Zhūgě] Dàn,  therefore sent [Zhāng] Tè to garrison and defend Héféi Xīnchéng. When Zhūgě Kè besieged the city, [Zhāng] Tè with General Yuè Fāng  and others of the Three Armies multitudes gathered and had three thousand men, the officials and soldiers that were ill with those killed in battle were over half, and [Zhūgě] Kè raised earthen mountains to pressure and attack, the city was about to fall and could not be protected. [Zhāng] Tè thus spoke to the Wú men saying: “Now we have no heart to again battle. However Wèi law is that for those who are attacked for over a hundred days with rescue not arriving, even if they surrender, their families are not punished. From since receiving an enemy onward it has already been over ninety days. Inside this city originally there were over four thousand men, but those killed in battle are already over half. Even if the city falls, there are still half of the men who do not wish to surrender. I will return and speak together with them, list the names to distinguish the good and bad, and tomorrow morning send the names. For the time being take my seal and ribbon as a pledge.” Thus he threw his seal and ribbon to give to them. The Wú men listened to his statement and did not take the seal and ribbon and did not attack. Shortly after this, [Zhāng] Tè returned and thus in the night dismantled all the houses and wooden fences, repairing the openings to make a second layer. The next day, he spoke to the Wú men saying: “I will only fight to the death!” The Wú men were greatly furious, advanced and attacked them, could not capture, and therefore withdrew and left. The Court commended him, applying title as a miscellaneous title General, enfeoffed a Ranked Marquess, also transferred to Ānfēng Administrator.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　是時，張特守新城。魏略曰：特字子產，涿郡人。先時領牙門，給事鎮東諸葛誕，誕不以為能也，欲遣還護軍。會毌丘儉代誕，遂使特屯守合肥新城。及諸葛恪圍城，特與將軍樂方等三軍眾合有三千人，吏兵疾病及戰死者過半，而恪起土山急攻，城將陷，不可護。特乃謂吳人曰：「今我無心復戰也。然魏法，被攻過百日而救不至者，雖降，家不坐也。自受敵以來，已九十餘日矣。此城中本有四千餘人，而戰死者已過半，城雖陷，尚有半人不欲降，我當還為相語之，條名別善惡，明日早送名，且持我印綬去以為信。」乃投其印綬以與之。吳人聽其辭而不取印綬。不攻。頃之，特還，乃夜徹諸屋材柵，補其缺為二重。明日，謂吳人曰：「我但有鬥死耳！」吳人大怒，進攻之，不能拔，遂引去。朝廷嘉之，加雜號將軍，封列侯，又遷安豐太守。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eighth Moon [253 Sep 10 – Oct 9], Edict said: “Former Central Cadet Xīpíng’s Guō Xiū  honed integrity and sharpened conduct, maintained heart without turning. Formerly Shǔ officer Jiāng Wéi invaded and plundered [Guō] Xiū’s prefecture, and he was seized and captured. Last year the false General-in-Chief Fèi Yī  herded and led various multitudes, secretly plotting to spy for openings, passed through Hànshòu,  invited and gathered multitudes of guests, [Guō] Xiū in the middle of the widespread seats with his own hand and blade struck [Fèi] Yī, his bravery surpassing Niè Zhèng, achievement exceeding [Fù] Jièzǐ,  and can be called one who sacrificed oneself to achieve benevolence, who gave up life to choose righteousness. The posthumous application of commendations and favor is to demonstrate and praise loyalty and righteousness, that blessings reach to posterity is to encourage the yet to come. Thus posthumously enfeoff [Guō] Xiū as Marquess of Chánglè village, fief a thousand households, posthumous name called Marquess Wēi,  his son inherits the noble title, and is additionally appointed as Serving Chariots Commandant,  bestowed silver of a thousand bǐng,  silk fabric of a thousand pǐ, to glorify and favor the surviving and the perished, forever bequeathing to coming generations.” <a href="#annotation-13" id="source-13">[13]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+八月，詔曰：「故中郎西平郭脩，砥節厲行，秉心不回。乃者蜀將姜維寇鈔脩郡，為所執略。往歲偽大將軍費禕驅率群眾，陰圖闚〈門俞〉，道經漢壽，請會眾賓，脩於廣坐之中手刃擊禕，勇過聶政，功逾介子，可謂殺身成仁，釋生取義者矣。夫追加褒寵，所以表揚忠義；祚及後胤，所以獎勸將來。其追封脩為長樂鄉侯，食邑千戶，諡曰威侯；子襲爵，加拜奉車都尉；賜銀千鉼，絹千匹，以光寵存亡，永垂來世焉。」〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal" #guoxiu}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-13" id="annotation-13">[13]</a> Wèishì Chūnqiū states: [Guō] Xiū appellation Xiàoxiān  formerly had industry and conduct, famed in the western provinces. Jiāng Wéi captured him, [Guō] Xiū would not submit. Liú Shàn  appointed him Left General. [Guō] Xiū wished to assassinate [Liú] Shàn but was not able to get close, every time when taking advantage of celebrations and congratulations he would then bow and then advance, but was by [Liú] Shàn’s Left and right restrained. The matter could not be successful, therefore he killed [Fèi] Yī.
+
+Your Servant Sōngzhī believes: In antiquity those who discarded life to choose righteousness certainly had their reasons. Some were moved by gratitude and embraced virtue, throwing away their lives without regrets. Some in advantages and disadvantages had an opportunity, fervently moving to answer a coincidence. The Edict’s naming of Niè Zhèng and Jièzǐ were these. A situation not of this sort, then falls into absurd action. Wèi’s relationship to Shǔ, though they were enemy states, it did not have the animosity of Zhào Xiāng destroying Zhì  or the urgency of Yān Dān’s danger of destruction.  Moreover Liú Shàn was a mediocre ruler, Fèi Yī a minister of middling talent, the two men surviving or perishing assuredly had no bearing on rise or decline. Guō Xiū in Wèi was only a man of the western provinces. When he was first captured by Shǔ, he was not able to resist in integrity and not be dishonored, and to Wèi he also had no responsibility of a salaried official, he was not sent by the ruler of that time, but yet without reason or plan wasted his life for no reason, no righteousness to be applied, no achievement to be established. It can be called ‘breaking the willows to fence the orchard,’  its insanity was indeed as this saying.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏氏春秋曰：脩字孝先，素有業行，著名西州。姜維劫之，脩不為屈。劉禪以為左將軍，脩欲刺禪而不得親近，每因慶賀，且拜且前，為禪左右所遏，事輒不克，故殺禕焉。臣松之以為古之舍生取義者，必有理存焉，或感恩懷德，投命無悔，或利害有機，奮發以應會，詔所稱聶政、介子是也。事非斯類，則陷乎妄作矣。魏之與蜀，雖為敵國，非有趙襄滅智之仇，燕丹危亡之急；且劉禪凡下之主，費禕中才之相，二人存亡，固無關于興喪。郭脩在魏，西州之男子耳，始獲于蜀，既不能抗節不辱，于魏又無食祿之責，不為時主所使，而無故規規然糜身于非所，義無所加，功無所立，可謂「折柳樊圃」，其狂也且，此之謂也。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+From when the Emperor succeeded the throne reaching to this year, the prefectures and states and counties and circuits had many installed and abolished, some quickly reverted, and cannot be all recorded.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+自帝即位至于是歲，郡國縣道多所置省，俄或還復，不可勝紀。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sixth Year, Spring, Second Moon [254 Mar 6 – Apr 4], Jǐchǒu [254 Mar 6], Defending East General Guànqiū Jiǎn sent up word: “In the past Zhūgě Kè besieged Héféi Xīnchéng, the city interior sent serviceman Liú Zhěng  to go out through the siege to pass news, he was captured by the rebels, interrogated about what he was passing, saying to [Liú] Zhěng: ‘Excellency Zhūgě wishes to spare you, you can completely confess.’ [Liú] Zhěng cursed them saying: ‘Dead dogs, what is this talk? I will certainly die and become Wèi state’s ghost, never frivolously seek life, so out with you. If you wish to kill me then quickly kill me.’ To the end he had no other statement. Also sent serviceman Zhèng Xiàng  out of the city to pass news, someone told [Zhūgě] Kè, [Zhūgě] Kè sent cavalry to search the encirclement for tracks, captured [Zhèng] Xiàng and returned. Four to five men bridled his head and face bound,  led him around the city exterior, ordering [Zhèng] Xiàng to have him greatly shout sand say ‘The main army has already returned to Luò, it is better to quickly surrender.’ [Zhèng] Xiàng did not follow their instructions, instead greatly shouting to those in the city saying: ‘The main army is nearby outside the encirclement! Heroic servicemen, work hard!” The rebels with a saber struck his mouth, to have him unable to speak. [Zhèng] Xiàng therefore greatly shouted, to have those in the city hear and know. [Liú] Zhěng and [Zhèng] Xiàng as soldiers were able to maintain righteousness and uphold integrity, their junior relatives should have exceptional treatment.” Edict said: “Prominent noble titles are to commend foremost achievements; heavy rewards are to favor ardent martyrs. [Liú] Zhěng and [Zhèng] Xiàng answered the call to be messengers, crossing and treading heavy encirclements, braved and charged bare blades, thinking little of themselves to maintain faith, by misfortune met with capture, their defiant integrity was all the more severe, raised up the great momentum of the Six Armies, calmed the fearful hearts of the city defenders, faced calamity without looking back, completely devoted to fulfilling the mission. In the past Xiè Yáng was captured by Chǔ, would die but would never betray,  Qí’s Central Grandee Lù by his death completed his mission;  compared to [Liú] Zhěng and [Zhèng] Xiàng, they cannot add to them. Now posthumously bestow on [Liú] Zhěng and [Zhèng] Xiàng noble rank as Marquesses Inside the Passes, each removed from servicemen registers, having their sons inherit the noble rank, as in the law for situations of division retainer commander deaths.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+六年春二月己丑，鎮東將軍毌丘儉上言：「昔諸葛恪圍合肥新城，城中遣士劉整出圍傳消息，為賊所得，考問所傳，語整曰：『諸葛公欲活汝，汝可具服。』整罵曰：『死狗，此何言也！我當必死為魏國鬼，不苟求活，逐汝去也。欲殺我者，便速殺之。』終無他辭。又遣士鄭像出城傳消息，或以語恪，恪遣馬騎尋圍跡索，得像還。四五人（的）〔靮〕頭面縛，將繞城表，敕語像，使大呼，言『大軍已還洛，不如早降。』像不從其言，更大呼城中曰：『大軍近在圍外，壯士努力！』賊以刀築其口，使不得言，像遂大呼，令城中聞知。整、像為兵，能守義執節，子弟宜有差異。」詔曰：「夫顯爵所以褒元功，重賞所以寵烈士。整、像召募通使，越蹈重圍，冒突白刃，輕身守信，不幸見獲，抗節彌厲，揚六軍之大勢，安城守之懼心，臨難不顧，畢志傳命。昔解楊執楚，有隕無貳，齊路中大夫以死成命，方之整、像，所不能加。今追賜整、像爵關中侯，各除士名，使子襲爵，如部曲將死事科。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Gēngxū [254 Mar 27], Central Writers Director Lǐ Fēng  with the Imperial Empress’s father Radiant Grandee Zhāng Qī and others plotted to change the chief ministers, having Minister of Ceremonies Xiàhóu Xuán become General-in-Chief. The matter was discovered, those connected were all submitted to execution.  Xīnhài [254 Mar 28], Great Amnesty.
+Third Moon [254 Apr 5 – May 3], deposed Imperial Empress Zhāng-shì.
+Summer, Fourth Moon [254 May 4 – Jun 2], enthroned as Imperial Empress Wáng-shì, Great Amnesty.
+Fifth Moon [254 Jun 3 – Jul 1], enfeoffed the Empress’s father Serving Chariots Commandant Wáng Kuí as Marquess of Guǎngmíng village, Radiant Grandee, ranked Specially Advanced, his wife Tián-shì as Lady of Xuānyáng village. 
+Autumn, Ninth Moon [254 Sep 29 – Oct 28], General-in-Chief Sīmǎ [Shī] Jǐng-wáng planned to depose the Emperor and informed the Imperial Dowager Empress. <a href="#annotation-14" id="source-14">[14]</a> Jiǎxū [254 Oct 17], the Dowager Empress’s Order said: “Imperial Emperor [Cáo] Fāng in springs and autumns is already grown, does not personally manage the myriad affairs, indulges in lasciviousness with the inner favorites, immersed and inundated in female charms, daily engaging with singers and performers, unleashing them in shameful performances. He invited the families of the Six Palaces  to remain and stay in the inner rooms, destroying the orderliness of human relationships, disordering the etiquettes of male and female, his respect and filial piety daily diminish, his contrarianism and arrogance grows extreme. He cannot continue Heaven’s lineage and serve the Ancestral Temples. Send concurrent Grand Commandant Gāo Róu to present the text and use one head large ox  to report to the Ancestral Temple, to send [Cáo] Fāng to return to a vassal in Qí, and vacate the Imperial Throne.” <a href="#annotation-15" id="source-15">[15]</a> That day he was moved to reside in a separate Palace, his years twenty-three. Envoy Holding Stave escorted and guarded him, building the Palace of the King of Qí at Hénèi’s Chóngmén,  the system regulations all by the rituals of a vassal state. <a href="#annotation-16" id="source-16">[16]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+庚戌，中書令李豐與皇后父光祿大夫張緝等謀廢易大臣，以太常夏侯玄為大將軍。事覺，諸所連及者皆伏誅。辛亥，大赦。三月，廢皇后張氏。夏四月，立皇后王氏，大赦。五月，封后父奉車都尉王夔為廣明鄉侯、光祿大夫，位特進，妻田氏為宣陽鄉君。秋九月，大將軍司馬景王將謀廢帝，以聞皇太后。〔一〕甲戌，太后令曰：「皇帝芳春秋已長，不親萬機，耽淫內寵，沈漫女德，日延倡優，縱其醜謔；迎六宮家人留止內房，毀人倫之敘，亂男女之節；恭孝日虧，悖傲滋甚，不可以承天緒，奉宗廟。使兼太尉高柔奉策，用一元大武告于宗廟，遣芳歸藩于齊，以避皇位。」〔二〕是日遷居別宮，年二十三。使者持節送衛，營齊王宮於河內〔之〕重門，制度皆如藩國之禮。〔三〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-14" id="annotation-14">[14]</a> Shìyǔ and Wèishì Chūnqiū both say: This autumn, Jiāng Wéi invaded Lǒngyòu.  At the time Securing East General  Sīmǎ [Zhāo] Wén-wáng defended Xǔchāng, was summoned back to strike [Jiāng] Wéi, reached the capital, and the Emperor at Pínglè Watchtower oversaw the army passing by.  Central Manager of the Army Xǔ Yǔn  with the Left and Right petty ministers planned to take advantage of [Sīmǎ Zhāo] Wén-wáng taking leave to kill him and take over his multitudes to remove the General-in-Chief [Sīmǎ Shī]. There was already a written Edict in front. [Sīmǎ Zhāo] Wén-wáng entered, the Emperor was just eating chestnuts, the performer Yún Wǔ  and others sang aloud saying: “Green-headed fowl, green-headed fowl.” A green-headed fowl is a duck.  The Emperor was afraid and did not dare mobilize. [Sīmǎ Zhāo] Wén-wáng led the soldiers to enter the city, [Sīmǎ Shī] Jǐng-wáng because of this planned to depose the Emperor
+
+Your Servant Sōngzhī notes: In Xiàhóu Xuán zhuàn and Wèi lüè,  Xǔ Yǔn in this year’s spring was with the Lǐ Fēng affair connected. When [Lǐ] Fēng was executed, at once sent out [Xǔ] Yǔn as Defending North General,  he had not yet set out when he was arrested for distributing government property and sent to the Minister of Justice, exiled to Lèláng, pursued and killed him.  [Xǔ] Yǔn in this autumn therefore could not have been Manager of the Army and established this plan.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　世語及魏氏春秋並云：此秋，姜維寇隴右。時安東將軍司馬文王鎮許昌，徵還擊維，至京師，帝於平樂觀以臨軍過。中領軍許允與左右小臣謀，因文王辭，殺之，勒其眾以退大將軍。已書詔于前。文王入，帝方食栗，優人雲午等唱曰：「青頭雞，青頭雞。」青頭雞者，鴨也。帝懼不敢發。文王引兵入城，景王因是謀廢帝。臣松之案夏侯玄傳及魏略，許允此年春與李豐事相連。豐既誅，即出允為鎮北將軍，未發，以放散官物收付廷尉，徙樂浪，追殺之。允此秋不得故為領軍而建此謀。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-15" id="annotation-15">[15]</a> Wèi shū states: That day, [Sīmǎ Shī] Jǐng-wáng presented the Imperial Dowager Empress’s Order, summoned the Excellencies and Ministers and Central Court chief ministers to gather and discuss, the various ministers lost color. [Sīmǎ Shī] Jǐng-wáng shed tears and said: “With the Imperial Dowager Empress’s Order like this, what will you sirs do for the Ruling House?” All said: “In the past Yī Yǐn removed Tài Jiǎ to pacify Yīn, Huò Guāng deposed Chāngyì to secure Hàn.  The authority to settle the State Altars to relieve the Four Seas, two dynasties enacted it in the past, Your Enlightened Excellency should accept it in the present. In today’s affairs, we will also follow Your Excellency’s mandates.” [Sīmǎ Shī] Jǐng-wáng said: “If you sirs look toward [me, Sīmǎ] Shī this heavily, how can [I, Sīmǎ] Shī avoid it?” Thereupon he then with the various ministers together made a memorial to the Yǒngníng Palace  that said: “Observing Secretariat Writers Director and Grand Commandant and Marquess of Chángshè Your Servant [Sīmǎ] Fú,  General-in-Chief and Marquess of Wǔyáng Your Servant [Sīmǎ] Shī,  Excellency over the Masses and Marquess of Wànsuì precinct Your Servant [Gāo] Róu,  Excellency of Works and Marquess of Wényáng precinct Your Servant [Zhèng] Chōng,  Acting Campaigning West Securing East General and Marquess of Xīnchéng Your Servant [Sīmǎ] Zhāo,  Radiant Grandee and Marquess Within the Passes Your Servant [Sūn] Yōng,  Minister of Ceremonies Your Servant Yàn,  Minister of the Guard and Marquess of Chāngyì Your Servant [Mǎn] Wěi,   Minister Charioteer Your Servant [Yǔ] Yí,  Minister of Justice and Marquess of Dìnglíng Your Servant [Zhōng] Yù,  Minister Herald Your Servant Zhī,  Minister of Agriculture Your Servant [Wáng] Xiàng,  Minister Treasurer Your Servant [Zhèng] Mào,  Yǒngníng Minister of the Guard Your Servant Zhēn,  Yǒngníng Minister Charioteer Your Servant [Zhāng] Gé,  Chief Prolonging Autumn Your Servant Mó,  Director of Retainers Colonel and Marquess of Yǐngchǎng Your Servant [Hé] Zēng,  Hénán Intendant and Marquess of Lánlíng Your Servant [Wáng] Sù,  City Gate Colonel Your Servant Lǜ,  Central Protector of the Army and Marquess of Yǒng’ān precinct Your Servant [Sīmǎ] Wàng,  Martial Guard General and Marquess of Ānshòu precinct Your Servant [Cáo] Yǎn,  Central Fortifications General and Marquess of Píngyuán Your Servant [Zhēn] Dé,  Central Ramparts General and Marquess of Chāngwǔ precinct your Servant Yì,  Garrison Cavalry Colonel and Marquess Within the Passes Your Servant [Wǔ] Gāi,  Infantry Colonel and Marquess of Línjìn Your Servant [Guō] Jiàn,  Shooting Sound Colonel and Marquess of Ānyáng village Your Servant [Zhēn] Wēn,  Surpassing Cavalry Colonel and Marquess of Suīyáng Your Servant [Cáo] Chū,  Cháng River Colonel and Marquess Within the Passes Your Servant Chāo,  Attendant Centrals Your Servant [Zhèng] Xiǎotóng,  Your Servant [Xún] Yǐ,  Your Servant [Zhào] Fēng,  Marquess of Bópíng Your Servant [Huà] Biǎo,  Attendant Central and Central Writers Supervisor and Marquess of Ānyáng precinct Your Servant Dàn,  Cavalier Regular Attendants Your Servant Guī,  Your Servant Yí,  Marquess Within the Passes Your Servant [Guō] Zhī,  Secretariat Writers Deputy Director and Minister of Staff and Marquess of Gāolè precinct Your Servant [Lú] Yù,  Secretariat Writers Marquess Within the Passes Your Servant [Wáng] Guàn,  Your Servant [Fù] Gǔ,  Marquess of Chánghé village Your Servant [Yuán] Liàng,  Your Servant [Cuī] Zàn,  Your Servant [Chén] Qiān,  Central Writers Director Your Servant [Mèng] Kāng,  Censorate Central Deputy Your Servant Qián,  Academic Scholars Your Servant Fàn,  Your Servant [Yǔ] Jùn,  and others bow head [to the ground] to say: Your Servants have heard that Heaven’s Son is the one to relieve and nurture living things, to forever secure the myriad states. The Three Zǔ’s  merits and exploits shines and covers the Six Directions. The Imperial Emperor succeeded the throne, gathering and continuing the vast enterprise, in springs and autumns is already grown, does not personally manage the myriad affairs, indulges in lasciviousness with the inner favorites, immersed and inundated in female charms, abandons learning and scholarship, discards and disgraces classicist scholars, daily engaging with petty performers Guō Huái and Yuán Xìn  and others in Jiànshǐ and Fúróng Halls’ front in naked performances,  having them with the Nurturing Groves and Female Secretariat and others make chaos,  personally leading the Rear Palace to view and watch. Also at the top of Guǎngwàng Watchtower  he had [Guō] Huái and [Yuán] Xìn and others below the watchtower perform ‘Liáodōng Yāofù,’  the obscenities exceeding limits, pedestrians on the road covered their eyes, the Emperor at the top of the watchtower believed it entertaining and laughed. At Língyún Terrace’s  bedrooms he placed curtains, meeting the nine relations of the women,  the Emperor oversaw Xuānqū Watchtower,  called [Guō] Huái and [Yuán] Xìn to have them enter into the curtains to together drink alcohol. [Guō] Huái and [Yuán] Xìn and others further served the alcohol, the women all were intoxicated, ridiculing and insulting without distinction. He had the Nurturing Groves Lǐ Huá and Liú Xūn  and others with [Guō] Huái and [Yuán] Xìn and others perform, Pure Music Director Línghú Jǐng  berated [Lǐ] Huá and [Liú] Xūn saying: ‘You women are the Superior’s Left and Right personnel, each have your official responsibilities, how can you be like this?’ [Lǐ] Huá and [Liú] Xūn repeatedly slandered [Línghú] Jǐng. The Emperor always enjoyed using crossbow pellets to shoot people, and because of his anger with [Línghú] Jǐng, shot [Línghú] Jǐng without avoiding his head or eyes. [Línghú] Jǐng spoke to the Emperor saying: ‘The Former Emperor worried of maintaining the family status, now Your Majesty daily leads the consorts to roam and play without limit, reaching to then together watch singers and performers, naked and making chaos, and cannot allow the Imperial Dowager Empress to hear. [I, Línghú] Jǐng do not love death and am only thinking of Your Majesty.’ The Emperor said: ‘I am Heaven’s Son; can I not do as I please? What does the Dowager Empress have to do with my affairs?’ He sent people to use hot irons to burn [Línghú] Jǐng, his body all roasted. After Empress Zhēn passed away, the Emperor wished to enthrone Noble Lady Wáng as Imperial Empress.  The Dowager Empress instead wished to seek elsewhere. The Emperor angrily said to [Línghú] Jǐng and others: ‘The Wèi family beginning to end in enthroning Imperial Empresses all only followed their affections. If the Dowager Empress will certainly oppose my intentions, do you think I will go [visit the Empress] or not?’ Later he indeed treated Imperial Empress Zhāng with distance and neglect.  When the Dowager Empress encountered the mourning for the Lady of Héyáng,  the Emperor daily was in the Rear Garden, singers and performers and music and at ease, not repeatedly going to check on [the Dowager Empress]. Pure Music Deputy Páng Xī  remonstrated the Emperor: ‘The Imperial Dowager Empress is utmostly filial, now encounters the heaviest sorrow, water and liquid not entering her mouth, Your Majesty should repeatedly go to give consolations, and cannot merely stay here making merry.’ The Emperor said: ‘I do as I will, who is able to stop me?’ The Imperial Dowager Empress returned to the North Palace, killed Zhāng Měirén and Yú Wǎn,  the Emperor was angry and resentful, and said to [Línghú] Jǐng and the rest: ‘The Dowager Empress without reason killed my favorites, this is to no longer have a relationship of mother and child.’ Repeatedly he went to their former residences to cry and wail, secretly sending the Exposure Room  to provide lavish coffins, not allowing the Dowager Empress to know. Every time he saw a women of the nine relations that had beauty, sometimes he would detain them send to the Pure Music [department]. The Emperor in arriving in the Rear Garden to frolic among the bamboo sometimes with the following officials held hands and walked together. [Páng] Xī reported: ‘Following officials should not with the Utmost Honored hold hands.’ The Emperor was angry, and further with a crossbow pellet shot [Páng] Xī. Daily roaming the Rear Garden, every time there was an outer written document entering, the Emperor did not review it, and when the Left and Right said: ‘Sending out,’ the Emperor also did not seek to read it. The Dowager Empress ordered the Emperor to always at Shìqián Hall ascend for lectures and study, he did not wish to, and when sent to come, the Emperor directly left. When the Dowager Empress came to inquire, at once he falsely ordered the Yellow Gate to only reply saying he was there.  [Línghú] Jǐng and [Páng] Xī and the rest were afraid, did not dare to again stop him, and further all became flatterers. The Emperor acts recklessly in ignorance and obscenity, destroys the orderliness of human relationships, disorders the etiquettes of male and female, respect and filial piety all the more declining, vicious influence gradually spreading. Your Servants fear and dread the overturning of Heaven’s Under, the toppling and fall of the State Altars, even killing ourselves would not be enough to fulfill the responsibilities. Now the Emperor cannot serve Heaven’s lineage, Your Servants request to comply with the precedent of Hàn’s Huò Guāng and confiscate the Emperor’s Ruler’s Seal and Ribbon. The Emperor originally as the King of Qí ascended the throne, and should return as a vassal in Qí. Send Excellency over the Masses Your Servant [Gāo] Róu Holding Stave to with the relevant managers use Grand Offering to announce and sacrifice at the Ancestral Temple. Your Servants solemnly risk death to be heard.” Memorial approved.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　魏書曰：是日，景王承皇太后令，詔公卿中朝大臣會議，群臣失色。景王流涕曰：「皇太后令如是，諸君其若王室何！」咸曰：「昔伊尹放太甲以寧殷，霍光廢昌邑以安漢，夫權定社稷以濟四海，二代行之于古，明公當之於今，今日之事，亦唯公命。」景王曰：「諸君所以望師者重，師安所避之？」於是乃與群臣共為奏永寧宮曰：「守尚書令太尉長社侯臣孚、大將軍武陽侯臣師、司徒萬歲亭侯臣柔、司空文陽亭侯臣沖、行征西安東將軍新城侯臣昭、光祿大夫關內侯臣邕、太常臣晏、衛尉昌邑侯臣偉、太僕臣嶷、廷尉定陵侯臣（繁）〔毓〕、大鴻臚臣芝、大司農臣祥、少府臣（褒）〔袤〕、永寧衛尉臣（禎）〔楨〕、永寧太僕臣（閎）〔閣〕、大長秋臣模、司隸校尉潁昌侯臣曾、河南尹蘭陵侯臣肅、城門校尉臣慮、中護軍永安亭侯臣望、武衛將軍安壽亭侯臣演、中堅將軍平原侯臣德、中壘將軍昌武亭侯臣廙、屯騎校尉關內侯臣陔、步兵校尉臨晉侯臣建、射聲校尉安陽鄉侯臣溫、越騎校尉睢陽侯臣初、長水校尉關內侯臣超、侍中臣小同、臣顗、臣酆、博平侯臣表、侍中中書監安陽亭侯臣誕、散騎常侍臣瑰、臣儀、關內侯臣芝、尚書僕射光祿大夫高樂亭侯臣毓、尚書關內侯臣觀、臣嘏、長合鄉侯臣亮、臣贊、臣騫、中書令臣康、御史中丞臣鈐、博士臣範、臣峻等稽首言：臣等聞天子者，所以濟育群生，永安萬國，三祖勳烈，光被六合。皇帝即位，纂繼洪業，春秋已長，未親萬機，耽淫內寵，沈漫女色，廢捐講學，棄辱儒士，日延小優郭懷、袁信等於建始芙蓉殿前裸袒游戲，使與保林女尚等為亂，親將後宮瞻觀。又於廣望觀上，使懷、信等於觀下作遼東妖婦，嬉褻過度，道路行人掩目，帝於觀上以為讌笑。於陵雲臺曲中施帷，見九親婦女，帝臨宣曲觀，呼懷、信使入帷共飲酒。懷、信等更行酒，婦女皆醉，戲侮無別。使保林李華、劉勳等與懷、信等戲，清商令令狐景呵華、勳曰：『諸女，上左右人，各有官職，何以得爾？』華、勳數讒毀景。帝常喜以彈彈人，以此恚景，彈景不避首目。景語帝曰：『先帝持門戶急，今陛下日將妃后游戲無度，至乃共觀倡優，裸袒為亂，不可令皇太后聞。景不愛死，為陛下計耳。』帝言：『我作天子，不得自在邪？太后何與我事！』使人燒鐵灼景，身體皆爛。甄后崩後，帝欲立王貴人為皇后。太后更欲外求，帝恚語景等：『魏家前後立皇后，皆從所愛耳，太后必違我意，知我當往不也？』後卒待張皇后疏薄。太后遭（合）〔郃〕陽君喪，帝日在後園，倡優音樂自若，不數往定省。清商丞龐熙諫帝：『皇太后至孝，今遭重憂，水漿不入口，陛下當數往寬慰，不可但在此作樂。』帝言：『我自爾，誰能奈我何？』皇太后還北宮，殺張美人及禺婉，帝恚望，語景等：『太后橫殺我所寵愛，此無復母子恩。』數往至故處啼哭，私使暴室厚殯棺，不令太后知也。每見九親婦女有美色，或留以付清商。帝至後園竹間戲，或與從官攜手共行。熙白：『從官不宜與至尊相提挈。』帝怒，復以彈彈熙。日游後園，每有外文書入，帝不省，左右曰『出』，帝亦不索視。太后令帝常在式乾殿上講學，不欲，使行來，帝徑去；太后來問，輒詐令黃門答言『在』耳。景、熙等畏恐，不敢復止，更共諂媚。帝肆行昏淫，敗人倫之敘，亂男女之節，恭孝彌頹，凶德寖盛。臣等憂懼傾覆天下，危墜社稷，雖殺身斃命不足以塞責。今帝不可以承天緒，臣請依漢霍光故事，收帝璽綬。帝本以齊王踐祚，宜歸藩于齊。使司徒臣柔持節，與有司以太牢告祀宗廟。臣謹昧死以聞。」奏可。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-16" id="annotation-16">[16]</a> (3)	Wèilüè states: [Sīmǎ Shī] Jǐng-wáng was about to depose the Emperor and sent Guō Zhī to enter to inform the Dowager Empress. The Dowager Empress with the Emperor were seated facing one another. [Guō] Zhī spoke to the Emperor saying: “The General-in-Chief wishes to depose Your Majesty and enthrone the King of Péngchéng [Cáo] Jù.”  The Emperor thus rose and left. The Dowager Empress was not pleased. [Guō] Zhī said: “You the Dowager Empress had a son but could not instruct him. Now the General-in-Chief’s intentions are already complete, and he also leads soldiers to the outside to prepare for the out of the ordinary. You should merely follow the direction. What else is there to say?” The Dowager Empress said: “I wish to meet the General-in-Chief, I have something to say verbally.” [Guō] Zhī said: “How can you meet? You should merely quickly fetch the Ruler’s Seal and Ribbon.” The Dowager Empress’s will was broken, and so she sent her close attendant to go fetch the Ruler’s Seal and Ribbon and place it beside her seat. [Guō] Zhī went out to report to [Sīmǎ Shī] Jǐng-wáng. [Sīmǎ Shī] Jǐng-wáng was extremely pleased. Also sent envoy to confer the Seal and Ribbon of the King of Qí and send him out to the West Palace. The Emperor received the command and therefore rode a King’s chariot, with the Dowager Empress took leave, shedding tears, first from Tàijí Hall’s south exiting, the various ministers escorting were several tens of people. Grand Commandant Sīmǎ Fú could not contain his grief, excessively shedding tears. After the King exited, [Sīmǎ Shī] Jǐng-wáng also sent envoy to request the Ruler’s Seal and Ribbon. The Dowager Empress said: “The King of Péngchéng is my junior uncle. Now if he comes and is enthroned, what will become of me? Moreover is Míng Huángdì to have his succession cut off? I believe that the Duke of Gāoguì village is Wén Huángdì’s eldest grandson, Míng Huángdì’s younger brother’s son. By Ritual, the lesser clan branch has the relationship of succeeding the main clan branch, thus in detail discuss it.” [Sīmǎ Shī] Jǐng-wáng thus again summoned the various ministers, showed them the Imperial Dowager Empress’s Order, and so settled on inviting the Duke of Gāoguì village. At the time the Minister of Ceremonies had already set out for two days, waiting for the Ruler’s Seal and Ribbon at Wēn.  The matter was settled, again requested the Ruler’s Seal and Ribbon. The Dowager Empress’s Order said: “I have met the Duke of Gāoguì village and from his youth have known him. Tomorrow I personally wish to with my own hand have the Ruler’s Seal and Ribbon conferred on him.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔三〕　魏略曰：景王將廢帝，遣郭芝入白太后，太后與帝對坐。芝謂帝曰：「大將軍欲廢陛下，立彭城王據。」帝乃起去。太后不悅。芝曰：「太后有子不能教，今大將軍意已成，又勒兵于外以備非常，但當順旨，將復何言！」太后曰：「我欲見大將軍，口有所說。」芝曰：「何可見邪？但當速取璽綬。」太后意折，乃遣傍侍御取璽綬著坐側。芝出報景王，景王甚歡。又遣使者授齊王印綬，當出就西宮。帝受命，遂載王車，與太后別，垂涕，始從太極殿南出，群臣送者數十人，太尉司馬孚悲不自勝，餘多流涕。王出後，景王又使使者請璽綬。太后曰：「彭城王，我之季叔也，今來立，我當何之！且明皇帝當絕嗣乎？吾以為高貴鄉公者，文皇帝之長孫，明皇帝之弟子，於禮，小宗有後大宗之義，其詳議之。」景王乃更召群臣，以皇太后令示之，乃定迎高貴鄉公。是時太常已發二日，待璽綬於溫。事定，又請璽綬。太后令曰：「我見高貴鄉公，小時識之，明日我自欲以璽綬手授之。」
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Dīngchǒu [254 Oct 20], Order said: “The King of Dōnghǎi [Cáo] Lín was Gāozǔ Wén Huángdì’s son. [Cáo] Lín’s various sons to the state are the closest kin. The Duke of Gāoguì village [Cáo] Máo has the capacity for great achievement, thus appoint him as Míng Huángdì’s successor.” <a href="#annotation-17" id="source-17">[17]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+丁丑，令曰：「東海王霖，高祖文皇帝之子。霖之諸子，與國至親，高貴鄉公髦有大成之量，其以為明皇帝嗣。」〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-17" id="annotation-17">[17]</a> Wèi shū states: [Sīmǎ Shī] Jǐng-wáng again with the various ministers together memorialized the Yǒngníng Palace stating: “Your Servants have heard that human ways are to be close with parents and therefore to honor ancestors, to honor ancestors and therefore to respect the clan. By Ritual, when the main clan is without a successor, then select the worthy of the branch sons. To be someone’s posterity is to be a son. King Dìng of Dōnghǎi’s son  the Duke of Gāoguì village is Wén Huángdì’s grandson, and should serve the standard succession, to be successor to Lièzǔ Míng Huángdì’s posterity. All the lands will have support, the myriad countries extreme in fortune. Your Servants request to summon the Duke to visit Luòyáng Palace.” The memorial was approved. Sent Central Protector of the Army [Sīmǎ] Wàng and concurrent Minister of Ceremonies and Hénán Intendant [Wáng] Sù Holding Stave, with Minister Treasurer [Zhèng] Mào, Secretariat Writer [Yuán] Liàng, Attendant Central [Huà] Biǎo and others to present the Regulation Carriage, welcoming the Duke at Yuánchéng. 
+
+Wèi Shìpǔ states: Jìn received the abdication, enfeoffed the King of Qí as Duke of Shàolíng county.  His years forty-three, in Tàishǐ Tenth Year died, posthumous name Duke Lì. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏書曰：景王復與群臣共奏永寧宮曰：「臣等聞人道親親故尊祖，尊祖故敬宗。禮，大宗無嗣，則擇支子之賢者；為人後者，為之子也。東海定王子高貴鄉公，文皇帝之孫，宜承正統，以嗣烈祖明皇帝後。率土有賴，萬邦幸甚，臣請徵公詣洛陽宮。」奏可。使中護軍望、兼太常河南尹肅持節，與少府（褒）〔袤〕、尚書亮、侍中表等奉法駕，迎公于元城。魏世譜曰：晉受禪，封齊王為邵陵縣公。年四十三，泰始十年薨，諡曰厲公。
+:::
+:::
+:::
+
+## Zhèngyuán (254 - 255) {#caomao .unnumbered}
+
+::: {.columns}
+::: {.column width="70%"}
+The Duke of Gāoguì village forbidden name Máo appellation Yànshì  was Emperor Wén's grandson, Dōnghǎi King Dìng [Cáo] Lín’s son. Zhèngshǐ Fifth Year, enfeoffed as Tán county’s Gāoguì village’s Duke.  As a youth he enjoyed study and was early to mature. The King of Qí was deposed, the Excellencies and Ministers discussed welcoming and enthroning the Duke.
+Tenth Moon [254 Oct 29 – Nov 26], Jǐchǒu [254 Nov 1], the Duke reached Xuánwǔ Lodge,  the various ministers memorialized to invite him to reside in the Front Hall, the Duke because it had been the Former Emperor’s old residence avoided it and stopped in the west side room. The various ministers also requested to use the Regulation Carriage for the welcome, the Duke did not listen.  Gēngyín [254 Nov 2], the Duke entered Luòyáng, the various ministers welcomed and bowed at the west side gate’s south. The Duke dismounted carriage and was about to return the bow. The ceremony manager requested saying: “By the ceremonies [the Emperor] does not bow.” The Duke said: “I am a servant of men.” Therefore he returned the bow. Reaching the Stopping Chariot Gate he dismounted carriage. The Left and Right said: “The old way is to ride the carriage to enter.”  The Duke said: “I have been summoned by the Imperial Dowager Empress and do not know what she will do.” Therefore he walked to reach Tàijí East Room and met with the Dowager Empress. That day ascended the Imperial Emperor’s throne in Tàijí Front Hall, the hundred bureaus in accompanying seats were all joyous. <a href="#annotation-18" id="source-18">[18]</a> Edict said: “In the past the Three Zǔ had divine martial power and sagely virtue, answered Heaven to receive the blessings, the King of Qí [Cáo Fāng] succeeded the throne, acted recklessly without limit, overturning his virtue. The Imperial Dowager Empress deeply pondered the weight of the State Altars, extended and accepted the plan of the governing assistant [Sīmǎ Shī],  employed a replacement of this throne, gathering the great mandate on my one person. With my minuscule self, entrusted to be above the kings and dukes, morning and night I am reverent and fearful, afraid I cannot inherit and maintain the great teachings of my ancestors, expand the vast enterprise of an internal restoration, ‘shaking and trembling, like overlooking a ravine.’  Now the various Excellencies and Ministers and servicemen are assistants as legs and arms, the Four Quarters Campaigning and Defending are aides for spreading strength, all accumulated virtue and amassed achievements, loyal and diligent to the Emperor’s House, hoping to depend on my late grandfather and late father’s ministers of virtue, Left and Right to my petty self, employed to protect and govern the Imperial House, to enable Our ignorant self to fold hands and yet govern. Overall it is heard that the way of a lord of men, is in virtue equal in depth to Heaven and Earth, favor distributed on the Four Seas, leading them with affection and love, showing them what is good and bad, only afterward is teaching and cultivation enacted above, the millions people listen below. Though We are not virtuous, ignorant of great principles, I hope to with those within the realm together reach this road. Does the Shū not say: ‘Securing the people is kindness, the numerous people cherish it.’”  Great Amnesty, changed the Inaugural. Reduced the carriages and clothing, the Rear Palace expenses, and abolished the Crafters and Inventory Offices hundreds of laborers skilled in making extravagant and beautiful but useless objects.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+高貴鄉公諱髦，字彥士，文帝孫，東海定王霖子也。正始五年，封郯縣高貴鄉公。少好學，夙成。齊王廢，公卿議迎立公。十月己丑，公至于玄武館，群臣奏請舍前殿，公以先帝舊處，避止西廂；群臣又請以法駕迎，公不聽。庚寅，公入于洛陽，群臣迎拜西掖門南，公下輿將答拜，儐者請曰：「儀不拜。」公曰：「吾人臣也。」遂答拜。至止車門下輿。左右曰：「舊乘輿入。」公曰：「吾被皇太后徵，未知所為！」遂步至太極東堂，見于太后。其日即皇帝位於太極前殿，百僚陪位者欣欣焉。〔一〕詔曰：「昔三祖神武聖德，應天受祚。齊王嗣位，肆行非度，顛覆厥德。皇太后深惟社稷之重，延納宰輔之謀，用替厥位，集大命于余一人。以眇眇之身，託于王公之上，夙夜祗畏，懼不能嗣守祖宗之大訓，恢中興之弘業，戰戰兢兢，如臨于谷。今群公卿士股肱之輔，四方征鎮宣力之佐，皆積德累功，忠勤帝室；庶憑先祖先父有德之臣，左右小子，用保乂皇家，俾朕蒙闇，垂拱而治。蓋聞人君之道，德厚侔天地，潤澤施四海，先之以慈愛，示之以好惡，然後教化行於上，兆民聽於下。朕雖不德，昧於大道，思與宇內共臻茲路。書不云乎：『安民則惠，黎民懷之。』」大赦，改元。減乘輿服御，後宮用度，及罷尚方御府百工技巧靡麗無益之物。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-18" id="annotation-18">[18]</a> Wèishì Chūnqiū states: The Duke was divinely intelligent and profoundly talented, virtuous tone [of voice] resonant and clear. After Court, [Sīmǎ Shī] Jǐng-wáng privately said: “What sort of ruler is the Superior?” Zhōng Huì  replied saying: “Talent like Chén Sī, martial as Tàizǔ.”  [Sīmǎ Shī] Jǐng-wáng said: “If it is as you say, it is the State Altar’s fortune.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏氏春秋曰：公神明爽雋，德音宣朗。罷朝，景王私曰：「上何如主也？」鍾會對曰：「才同陳思，武類太祖。」景王曰：「若如卿言，社稷之福也。」
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Zhèngyuán  Inaugural Year, Winter, Tenth Moon, Rénchén [254 Nov 4], sent Attendant Centrals Holding Stave separately out to the Four Quarters to observe social customs, express appreciations to servicemen and civilians, investigate injustices and derelictions of duties. Guǐsì [254 Nov 5], Lent to General-in-Chief Sīmǎ [Shī] Jǐng-wáng Yellow Battle-Ax,  in entering Court to not hasten, in memorializing affairs to not use personal name, with sword and shoes ascend the Hall.  Wùxū [254 Nov 10], Yellow Dragon sighted at Yè inside a well. Jiǎchén [254 Nov 16], mandated relevant managers to discuss the achievement of settling the plans of the deposing and the enthroning, enfeoffed noble titles, increased fiefs, advanced ranks, granted bestowals, each on distinct basis.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+正元元年冬十月壬辰，遣侍中持節分適四方，觀風俗，勞士民，察冤枉失職者。癸巳，假大將軍司馬景王黃鉞，入朝不趨，奏事不名，劍履上殿。戊戌，黃龍見于鄴井中。甲辰，命有司論廢立定策之功，封爵、增邑、進位、班賜各有差。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Second Year, Spring, Standard Moon [255 Jan 25 – Feb 23], Yǐchǒu [255 Feb 5], Defending East General Guànqiū Jiǎn and Yáng Province Inspector Wén Qīn rebelled.  Wùyín [255 Feb 18], General-in-Chief Sīmǎ [Shī] Jǐng-wáng campaigned against them. Guǐwèi [255 Feb 23], Chariots and Cavalry General Guō Huái died.
+Intercalary Moon [255 Feb 24 – Mar 24], Jǐhài [255 Mar 11], defeated [Wén] Qīn at Yuèjiā.  [Wén] Qīn escaped and fled, and therefore ran away to Wú. Jiǎchén [255 Mar 16], the Ānfēngjīn Commandant beheaded [Guànqiū] Jiǎn,  sending the head to the capital city. <a href="#annotation-19" id="source-19">[19]</a> Rénzǐ [255 Mar 24], again specially pardoned Huáinán’s servicemen and civilians that all had been deceived by [Guànqiū] Jiǎn and [Wén] Qīn. Appointed Defending South General Zhūgě Dàn as Defending East General-in-Chief. Sīmǎ [Shī] Jǐng-wáng died in Xǔchāng. 
+Second Moon [255 Mar 25 – Apr 23], Dīngsì [255 Mar 29], appointed Guard General Sīmǎ [Zhāo] Wén-wáng as General-in-Chief, controlling Secretariat Writers affairs.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+二年春正月乙丑，鎮東將軍毌丘儉、揚州刺史文欽反。（戊戌）〔戊寅〕，大將軍司馬景王征之。癸未，車騎將軍郭淮薨。閏月己亥，破欽于樂嘉。欽遁走，遂奔吳。甲辰，（安風淮津）〔安風津〕都尉斬儉，傳首京都。〔一〕壬子，復特赦淮南士民諸為儉、欽所詿誤者。以鎮南將軍諸葛誕為鎮東大將軍。司馬景王薨于許昌。二月丁巳，以衛將軍司馬文王為大將軍，錄尚書事。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-19" id="annotation-19">[19]</a> Shìyǔ states: The General-in-Chief brought Heaven’s Son to campaign against [Guànqiū] Jiǎn, reached Xiàng.  When [Guànqiū] Jiǎn was defeated, Heaven’s Son returned first.
+
+Your Servant Sōngzhī has examined that various other books are all without this matter. Reaching to Zhūgě Dàn’s rebellion, Sīmǎ [Zhāo] Wén-wáng only then coerced the Dowager Empress and the Emperor to travel together. Therefore the issued Edict cited Hàn’s Two Zǔ and Emperor Míng personally campaigning as the former comparisons, so one knows that from Emperor Míng on afterward this was the first that there was this travel. In the cases of Zhāng Fán, Yú Pǔ, Guō Bān, all were Jìn’s Director-Scribes,  [Zhāng] Fán and [Guō] Bān were sent out as governing chiefs, [Yú] Pǔ was Póyáng’s Inner Scribe.  [Zhāng] Fán compiled Hòu Hàn jì, though it seems incomplete, its rhetoric is impressive. [Yú] Pǔ wrote Jiāngbiǎo zhuàn, also roughly having coherent arrangement. Only [Guō] Bān’s compiled Wèi Jìn Shìyǔ is lacking and deficient, completely without tone and grace,  the most crude and inferior, but because at times it has unusual stories, therefore it tends to be spread in the world. Gān Bǎo, Sūn Shèng, and others often took its words into their Jìn shū,  in their contents the false and mistaken like this are many.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　世語曰：大將軍奉天子征儉，至項；儉既破，天子先還。臣松之檢諸書都無此事，至諸葛誕反，司馬文王始挾太后及帝與俱行耳。故發詔引漢二祖及明帝親征以為前比，知明帝已後始有此行也。案張璠、虞溥、郭頒皆晉之令史，璠、頒出為官長，溥，鄱陽內史。璠撰後漢紀，雖似未成，辭藻可觀。溥著江表傳，亦粗有條貫。惟頒撰魏晉世語，蹇乏全無宮商，最為鄙劣，以時有異事，故頗行於世。干寶、孫盛等多采其言以為晉書，其中虛錯如此者，往往而有之。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Jiǎzǐ [255 Apr 5], Wú’s chief officer Sūn Jùn  and others with multitudes claimed as a hundred thousand reached Shòuchūn. Zhūgě Dàn resisted, struck, and defeated them, beheaded Wú’s Left General Liú Zàn,  presenting the winnings to the capital city.
+Third Moon [255 Apr 24 – May 22], enthroned as Imperial Empress Biàn-shì, Great Amnesty. 
+Summer, Fourth Moon [255 May 23 – Jun 21], Jiǎyín [255 May 25], enfeoffed the Empress’s father Biàn Lóng as a Ranked Marquess.  Jiǎxū [255 Jun 14], appointed Campaigning South General-in-Chief Wáng Chǎng as Agile Cavalry General.
+Autumn, Seventh Moon [255 Aug 20 – Sep 17], appointed Campaigning East General-in-Chief Hú Zūn as Guard General, Defending East General-in-Chief Zhūgě Dàn as Campaigning East General-in-Chief.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+甲子，吳大將孫峻等眾號十萬至壽春，諸葛誕拒擊破之，斬吳左將軍留贊，獻捷于京都。三月，立皇后卞氏，大赦。夏四月甲寅，封后父卞隆為列侯。甲戌，以征南大將軍王昶為驃騎將軍。秋七月，以征東大將軍胡遵為衛將軍，鎮東大將軍諸葛誕為征東大將軍。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eighth Moon [255 Sep 18 – Oct 17], Xīnhài [255 Sep 19], Shǔ’s General-in-Chief Jiāng Wéi invaded Dídào, Yōng Province Inspector Wáng Jīng battled with him at Táoxī,  [Wáng] Jīng was greatly defeated, returned to protect Dídào city. Xīnwèi [255 Oct 9], appointed Cháng River Colonel Dèng Ài  as Acting Securing West General, with Campaigning West General Chén Tài joining forces to resist [Jiāng] Wéi. Wùchén [255 Oct 6],  further sent Grand Commandant Sīmǎ Fú as the rear support.
+Ninth Moon [255 Oct 18 – Nov 16], Gēngzǐ [255 Nov 7], lectures on the Shàng Shū education completed, bestowed on the personal teachers the Excellency of Works Zhèng Chōng and Attendant Central Zhèng Xiǎotóng and others each on distinct basis. Jiǎchén [255 Nov 11], Jiāng Wéi retreated and returned [to Shǔ].
+Winter, Tenth Moon [255 Nov 17 – Dec 15], Edict said: “As We are of scant virtue, unable to restrain bandit cruelties, thus it allowed the Shǔ rebels to be unrestrained on the borders. The Battle of Táoxī reached to defeat, the officers and soldiers dead and lost are calculated in the thousands, some losing lives on the battle field, vengeful spirits unable to return, some bound and dragged by caitiff hands, drifting exiles in a foreign land. I am deeply pained and grieved, for them having mournful heart. Thus order the local prefectures’ managers of agriculture and the Securing and Succoring the Yí two Protectors of the Army  every division of chief clerks to console and give relief to their families, with no taxation or conscription for one year. For those that fought hard and died in battle, all are to follow the old laws, and do not have any omissions.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+八月辛亥，蜀大將軍姜維寇狄道，雍州刺史王經與戰洮西，經大敗，還保狄道城。辛未，以長水校尉鄧艾行安西將軍，與征西將軍陳泰并力拒維。戊辰，復遣太尉司馬孚為後繼。九月庚子，講尚書業終，賜執經親授者司空鄭沖、侍中鄭小同等各有差。甲辰，姜維退還。冬十月，詔曰：「朕以寡德，不能式遏寇虐，乃令蜀賊陸梁邊陲。洮西之戰，至取負敗，將士死亡，計以千數，或沒命戰場，冤魂不反，或牽掣虜手，流離異域，吾深痛愍，為之悼心。其令所在郡典農及安撫夷二護軍各部大吏慰卹其門戶，無差賦役一年；其力戰死事者，皆如舊科，勿有所漏。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eleventh Moon, [255 Dec 16 – 256 Jan 14] Jiǎwǔ [255 Dec 31], as Lǒngyòu four prefectures  and Jīnchéng had for continuous years received enemies, some deserting and rebelling to throw in with the rebels, their family relations remaining in their home lands were not as ease, specially pardoned them all. Guǐchǒu [256 Jan 19],  Edict said: “Formerly at the Battle of Táoxī, of the officers and officials and servicemen and civilians, some facing the lines in battle perished, some were drowned in the Táo river, the skeletal bones are not gathered, abandoned in the wilderness. I am always pained by this. Thus inform the Campaigning West and Securing West Generals  to each order their division men to at the battle location and river banks dredge and search for the bodies, collect for burial, to console the surviving and the perished.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+十一月甲午，以隴右四郡及金城，連年受敵，或亡叛投賊，其親戚留在本土者不安，皆特赦之。癸丑，詔曰：「往者洮西之戰，將吏士民或臨陳戰亡，或沈溺洮水，骸骨不收，棄於原野，吾常痛之。其告征西、安西將軍，各令部人於戰處及水次鉤求屍喪，收斂藏埋，以慰存亡。」
 :::
 :::
 
 ## Gānlù (256 - 259) {.unnumbered}
+
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+Gānlù Inaugural Year, Spring, Standard Moon [256 Feb 13 – Mar 13], Xīnchǒu [256 Mar 7], green dragon sighted at Zhǐ county inside a well. Yǐsì [256 Mar 11], the King of Pèi [Cáo] Lín died. <a href="#annotation-20" id="source-20">[20]</a>
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+甘露元年春正月辛丑，青龍見軹縣井中。乙巳，沛王林薨。〔一〕
 :::
 :::
 
-## Jǐngyuán (260 - 263) {.unnumbered}
+::: {.callout-note appearance="minimal"}
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+<a href="#source-20" id="annotation-20">[20]</a> Wèishì Chūnqiū states: Second Moon [256 Mar 14 – Apr 11], Bǐngchén [256 Mar 22], the Emperor feasted the various ministers at Tàijí East Room, with Attendant Central Xún Yǐ, Secretariat Writers Cuī Zàn, Yuán Liàng, Zhōng Yù, Dispensing Affairs Central and Central Writers Director Yú Sōng and others together discussed the ritual canon,  and therefore spoke of the differences in the merits and deficiencies of Emperors and Kings. The Emperor admired Xià Shàokāng,  and therefore asked [Xún] Yǐ and the rest saying: “When Yǒu Xià had declined, Hòu Xiāng thus exterminated, Shàokāng gathered Xià’s multitudes and restored the achievement of Yǔ.  Gāozǔ rose out from the farm fields, driving and leading the heroic and exceptional, cutting down Qín and Xiàng, rolling up the realm’s interior.  These two rulers can be said to have had exceptional talent and extraordinary strategy, commanding the world’s great worthies. Examining their achievements and virtues, who should be considered superior?” [Xún] Yǐ and the rest replied saying: “Heaven’s Under is the heaviest vessel, rulership conferred by Heaven, sagely virtue complies with the times, and only afterward is one able to receive the mandate and found the enterprise. As for ascending to continue former lineages, raising and restoring old achievements, to create something compared to continuing it, the difficult and ease are not the same. Though Shàokāng’s achievements and virtues are beautiful, yet he was a lord of an internal restoration, and can be considered of the same sort as Shìzǔ.  As for Gāozǔ, Your Servants believe him superior.” The Emperor said: “Since antiquity the Emperors and Kings in achievements and virtue and in speech and conduct each had their high and low. It is not necessarily that the founders of the enterprises were all superior and the continuers of the lineage were all inferior. Although Tāng, Wǔ, and Gāozǔ all received the mandate, their amounts of worthiness and sagacity have noticeable differences.  The beauty of the internal restorations of Shàokāng and Yīn Zōng,  the magnificence of Xià Qǐ and Zhōu Chéng maintaining the traditions,  in discussing virtue and comparing results, contrasted with Hàn [Gāo] Zǔ, I see the superiorities, and do not hear of inferiorities. Considering that the times they encountered were different, therefore the fame of their achievements are different and that is all. Shàokāng was born after a destruction, fallen to a slave of the vassal lords, crossed through dangers to escape troubles, only barely surviving, but was able to spread his virtues and begin his plans, in the end exterminating Guō and Gē,  restoring Yǔ’s achievement, sacrificing to Xià in accompaniment to Heaven, not losing the old heritage. If he was not utmost virtue and vast benevolence, how could he have reached this accomplishment? Hàn Zǔ took advantage of the momentum of the lands collapsing, relied on a one-time situation, solely employing cleverness and strength to accomplish his achievements and enterprise. His conduct and affairs in movement and rest often violated sagely restraints: as a son of a man then he repeatedly endangered his parents,  as a lord of men then he imprisoned and shackled a worthy minister,  as a father of men then he was unable to protect his children.  After he died, the State Altars were almost overturned.  If he and Shàokāng exchanged time and place, perhaps he would not have been able to restore the achievement of Dà Yǔ. By this speaking of it, one should have Xià [Shào] Kāng higher and Hàn [Gāo] Zǔ lower. You sirs provide opinions in detail.” The next day Dīngsì [256 Mar 23], the discussions had completed, [Xún] Yǐ and [Yuán] Liàng and others commented saying: “The Three Dynasties established [fief] states, dividing the territory for government, so at their decline, there was no momentum of the lands collapsing, and it was possible to embrace with virtue, difficult to subdue with strength. Reaching to the Warring States, the strong and weak conquered one another, discarding morality and virtue and instead employing cleverness and strength. Therefore at Qín’s fall one could use strength to contest it. Shàokāng spread virtue and was the outstanding of the benevolent. Gāozǔ employed strength and was the exceptional of the clever. Benevolence and cleverness are not the same, the two emperors are different. The Shī and Shū in telling of Yīn Zhōngzōng and Gāozōng all arrange them in the Dà Yǎ.  Shàokāng’s achievements and beauty surpass the two Zōng, that he should be in the Dà Yǎ is clear. Shàokāng is superior, and should be as the Edict directs.” [Cuī] Zàn, [Zhōng] Yù, [Yú] Sōng, and others commented saying: “Although Shàokāng accumulated virtues and amassed benevolence, however above he continued Dà Yǔ’s bequeathed favor and remnant fortunes, inside he had the assistance of Yú and Réng,  outside he had the help of Mí and Ài,  Hán Zhuó was malicious and evil, not virtuous to the people, Jiāo and Yì were without any close,  outside and inside abandoned them, by this the possession of the state overall had its causes. As for Hàn Zǔ, he rose up from the plain clothed, led servicemen of a crow gathering,  and by this accomplished an Emperor’s enterprise. In discussing virtues then Shàokāng was superior, in reviewing achievements then Gāozǔ had more, in discussing resources than Shàokāng had it easier, in comparing times then Gāozǔ had it harder.” The Emperor said: “You sirs assert that Shàokāng took advantage of resources and Gāozǔ built up himself, and truly it was so. However you do not know if in the era of the Three Dynasties employing virtue to reach merits was as difficult as that, or if in the interval of Qín and Xiàng employing strength to accomplish achievement was as easy as this. Moreover, ‘the highest established virtue, the next established achievement.’  Hàn Zǔ’s achievements were high, but does not compare to the abundance to Shàokāng’s magnificent virtue. Moreover one of benevolence certainly has valor, to execute the cruel certainly there is use of warfare. The power of Shàokāng’s martial intensity, why must it certainly be lower than Hàn Zǔ? It is only that the Xià histories are lost, the old texts damaged and deficient, therefore the merits and beauties are lacking and not recorded. There is only Wǔ Yuán roughly narrating the overall summary,  his statements of restoring the achievement of Yǔ, of not losing the old inheritances, of honoring and continuing sagely enterprises, of old regulations not transgressed. If not one of combined talents [worthy of] the Dà Yǎ, who would be able to do this? Supposing if the ancient canons were all preserved, conduct and affairs provided in detail, also how would there be discussions on differences and comparisons?” Thereupon the various ministers all happily conceded. Central Writers Director [Yú] Sōng advanced and said: “The matters of Shàokāng were very long ago, its texts concealed thus, and therefore from antiquity to the present, in the discussions of servicemen none spoke of it, the virtues and beauties hidden and not announced. Your Majesty bequeaths heart on far-reaching reflection, investigates in detail past antiquity, and also sounds virtuous tone, praising and making clear the beauty of Shàokāng, allowing it to be prominent after a thousand years, it should be recorded to complete an essay, to forever bequeath to posterity.” The Emperor said: “My learning is not extensive, what I have heard shallow and narrow, and I fear what I have discussed is not yet enough to be appropriate. Even if there is anything worth collecting, ‘to guess and then be frequently correct,’  also is not enough to be valued. It is nothing more than to attract the ridicule of later worthies, and make conspicuous my own ignorance.” Thereupon Attendant Cadet Zhōng Huì withdrew and compiled the discussions.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+〔一〕　魏氏春秋曰：二月丙辰，帝宴群臣於太極東堂，與侍中荀顗、尚書崔贊、袁亮、鍾毓、給事中中書令虞松等並講述禮典，遂言帝王優劣之差。帝慕夏少康，因問顗等曰：「有夏既衰，后相殆滅，少康收集夏眾，復禹之績，高祖拔起隴畝，驅帥豪雋，芟夷秦、項，包舉宇內，斯二主可謂殊才異略，命世大賢者也。考其功德，誰宜為先？」顗等對曰：「夫天下重器，王者天授，聖德應期，然後能受命創業。至於階緣前緒，興復舊績，造之與因，難易不同。少康功德雖美，猶為中興之君，與世祖同流可也。至如高祖，臣等以為優。」帝曰：「自古帝王，功德言行，互有高下，未必創業者皆優，紹繼者咸劣也。湯、武、高祖雖俱受命，賢聖之分，所覺縣殊。少康、殷宗中興之美，夏啟、周成守文之盛，論德較實，方諸漢祖，吾見其優，未聞其劣；顧所遇之時殊，故所名之功異耳。少康生於滅亡之後，降為諸侯之隸，崎嶇逃難，僅以身免，能布其德而兆其謀，卒滅過、戈，克復禹績，祀夏配天，不失舊物，非至德弘仁，豈濟斯勳？漢祖因土崩之勢，仗一時之權，專任智力以成功業，行事動靜，多違聖檢；為人子則數危其親，為人君則囚繫賢相，為人父則不能衛子；身沒之後，社稷幾傾，若與少康易時而處，或未能復大禹之績也。推此言之，宜高夏康而下漢祖矣。諸卿具論詳之。」翌日丁巳，講業既畢，顗、亮等議曰：「三代建國，列土而治，當其衰弊，無土崩之勢，可懷以德，難屈以力。逮至戰國，強弱相兼，去道德而任智力。故秦之弊可以力爭。少康布德，仁者之英也；高祖任力，智者之雋也。仁智不同，二帝殊矣。詩、書述殷中宗、高宗，皆列大雅，少康功美過于二宗，其為大雅明矣。少康為優，宜如詔旨。」贊、毓、松等議曰：「少康雖積德累仁，然上承大禹遺澤餘慶，內有虞、仍之援，外有靡、艾之助，寒浞讒慝，不德于民，澆、豷無親，外內棄之，以此有國，蓋有所因。至於漢祖，起自布衣，率烏合之士，以成帝者之業。論德則少康優，課功則高祖多，語資則少康易，校時則高祖難。」帝曰：「諸卿論少康因資，高祖創造，誠有之矣，然未知三代之世，任德濟勳如彼之難，秦、項之際，任力成功如此之易。且太上立德，其次立功，漢祖功高，未若少康盛德之茂也。且夫仁者必有勇，誅暴必用武，少康武烈之威，豈必降于高祖哉？但夏書淪亡，舊文殘缺，故勳美闕而罔載，唯有伍員粗述大略，其言復禹之績，不失舊物，祖述聖業，舊章不愆，自非大雅兼才，孰能與於此，向令墳、典具存，行事詳備，亦豈有異同之論哉？」於是群臣咸悅服。中書令松進曰：「少康之事，去世久遠，其文昧如，是以自古及今，議論之士莫有言者，德美隱而不宣。陛下既垂心遠鑒，考詳古昔，又發德音，贊明少康之美，使顯於千載之上，宜錄以成篇，永垂于後。」帝曰：「吾學不博，所聞淺狹，懼於所論，未獲其宜；縱有可采，億則屢中，又不足貴，無乃致笑後賢，彰吾闇昧乎！」於是侍郎鍾會退論次焉。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Summer, Fourth Moon [256 May 12 – Jun 9], Gēngxū [256 May 15], bestowed on Sīmǎ [Zhāo] Wén-wáng the dress of Robe and Cap, with Red Shoes to match.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+夏四月庚戌，賜大將軍司馬文王兗冕之服，赤舄副焉。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Bǐngchén [256 May 21], the Emperor visited the Grand Academy, and asked the various classicists saying: “The sagely man in seclusion was aided by the divine intelligence, looking up to observe and looking down to examine, first creating the Eight Trigrams. The later sage doubled them into Sixty-Four, establishing the yáo for utmost calculations,  so overall these great meanings, none are not provided. But Xià had the Lián Shān, Yīn had the Guī Zàng, Zhōu had the Zhōu Yì.  These Yì books, what were their reasons?” Yì Academic Scholar Chúnyú Jùn  replied saying: “Bāoxī employed Suìhuáng’s charts and so formed the Eight Trigrams, Shénnóng developed them into Sixty-Four,  Huáng-dì, Yáo, Shùn communicated their transformations, the Three Dynasties followed the times of simple or refined, each interpreting their affairs.  Therefore ‘Yì’ means ‘to change.’ The name Lián Shān is to resemble a mountain appearing inside cloud vapors, connecting Heaven and Earth.  Guī Zàng is that of all myriad things none do not return to be contained within it.”  The Emperor said: “If Bāoxī followed Suìhuáng to compose the Yì, why does Kǒng-zǐ not say that [after] Suìrén-shì perished Bāoxī-shì created?”  [Chúnyú] Jùn was unable to answer. The Emperor also asked saying: “Kǒng-zǐ composed the Tuàn and Xiàng. Zhèng Xuán composed the Zhù. Although the sage and the worthy were not the same, their explanations of the meanings of the classic were the same. Now the Tuàn and Xiàng are not with the classic’s writings connected together, but the Zhù are connected to it. Why?”  [Chúnyú] Jùn replied saying: “Zhèng Xuán combined the Tuàn and Xiàng into the classic, wishing to allow scholars to easily consult them completely.” The Emperor said: “If Zhèng Xuán combined them for the convenience of scholarship, then why did Kǒng-zǐ not combine them for completeness of scholarship?” [Chúnyú] Jùn replied saying: “Kǒng-zǐ feared it would be confused with [the writing of] Wén-wáng, and therefore did not merge. This was the sagely man not merging out of modesty.” The Emperor said: “If the sagely man did not combine out of modesty, then why was Zhèng Xuán alone not modest?” [Chúnyú] Jùn replied saying: “Ancient meanings are vast and deep, Your Sagely inquiries are obscure and profound, not what Your Servant is able to in detail explain.” The Emperor also asked saying: “The Xì Cí says: ‘Huáng-dì, Yáo, Shùn bequeathed clothing  and Heaven’s Under was governed.’ This means in the era of Bāoxī and Shénnóng there was no clothing. But for the sagely men in their civilizing of Heaven’s Under, why would it be as different as this?” [Chúnyú] Jùn replied saying: “In the time of the Three Augusts, men were few but birds and beasts were numerous, and therefore they took their feathers and furs and Heaven’s Under had enough for use. Reaching to Huáng-dì, men were numerous but birds and beasts were few, and therefore they created clothing to address the time’s changes.” The Emperor also asked: “Qián means Heaven, but it also means metal, means jade, means old horse. Why is it with trifling objects joined?”  [Chúnyú] Jùn replied saying: “The sagely men in finding symbols sometimes used the distant and sometimes used the near, for the near using various objects, for the distant then Heaven and Earth.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+丙辰，帝幸太學，問諸儒曰：「聖人幽贊神明，仰觀俯察，始作八卦，後聖重之為六十四，立爻以極數，凡斯大義，罔有不備，而夏有連山，殷有歸藏，周曰周易，易之書，其故何也？」易博士淳于俊對曰：「包羲因燧皇之圖而制八卦，神農演之為六十四，黃帝、堯、舜通其變，三代隨時，質文各繇其事。故易者，變易也，名曰連山，似山出內〔雲〕氣，連天地也；歸藏者，萬事莫不歸藏于其中也。」帝又曰：「若使包羲因燧皇而作易，孔子何以不云燧人氏沒包羲氏作乎？」俊不能答。帝又問曰：「孔子作彖、象，鄭玄作注，雖聖賢不同，其所釋經義一也。今彖、象不與經文相連，而注連之，何也？」俊對曰；「鄭玄合彖、象于經者，欲使學者尋省易了也。」帝曰：「若鄭玄合之，於學誠便，則孔子曷為不合以了學者乎？」俊對曰：「孔子恐其與文王相亂，是以不合，此聖人以不合為謙。」帝曰：「若聖人以不合為謙，則鄭玄何獨不謙邪？」俊對曰：「古義弘深，聖問奧遠，非臣所能詳盡。」帝又問曰：「繫辭云『黃帝、堯、舜垂衣裳而天下治』，此包羲、神農之世為無衣裳。但聖人化天下，何殊異爾邪？」俊對曰：「三皇之時，人寡而禽獸眾，故取其羽皮而天下用足，及至黃帝，人眾而禽獸寡，是以作為衣裳以濟時變也。」帝又問：「乾為天，而復為金，為玉，為老馬，與細物並邪？」俊對曰：「聖人取象，或遠或近，近取諸物，遠則天地。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+The discussions on the Yì completed, further mandated discussions on the Shàng Shū. The Emperor asked saying: “Zhèng Xuán states: ‘Investigating antiquity is alike to Heaven, is saying that Yáo was alike to Heaven.’ Wáng Sù says: ‘Yáo followed and investigated the ancient ways and enacted them.’ The two explanations are not the same. Which is correct?”  Academic Scholar Yǔ Jùn  replied saying: “The interpretations of the former classicists each have their disagreements, Your Servant is not sufficient to settle them. However the Hóng Fàn says: ‘[When] three men make divinations, follow the words of the two men [that agree].’  Jiǎ [Kuí] and Mǎ [Róng] with [Wáng] Sù all believe it is ‘followed and investigated the ancient ways.’  Using the Hóng Fàn to speak of it, [Wáng] Sù’s explanation is superior.” The Emperor said: “Zhòngní said: ‘Only Heaven is Great, only Yáo emulated it.’  Yáo’s great beauty was in emulating Heaven, following and investigating the ancient ways was not his pinnacle. Now to open books and explain meanings in order to understand sagely virtue, is to yet abandon the large and instead praise the small; how is that the author’s intention?” [Yǔ] Jùn replied saying: “Your Servant presents what teachers explain, not describing the great principles. As for determining the correct, the decision is by Your Sagely considerations.” Next [the discussion] reached to the Sìyuè recommending Gǔn,  the Emperor also asked saying: “A great man is one who with Heaven and Earth combines in virtue, with Sun and Moon combines in enlightenment, in thoughts none are not complete, in enlightenment none are not illuminated. Now Wáng Sù says: ‘Yáo’s thinking could not be enlightened of Gǔn, and therefore tested in employment.’ By this, was the sagely man’s enlightenment in some ways not exhaustive?” [Yǔ] Jùn replied saying: “Even with the vastness of the sagely man, yet there are some ways it is not exhaustive, therefore Yǔ said: ‘Knowing men then is wisdom, even the Emperor finds it difficult.’  However in the end he was able to change the conferment to a sagely worthy, accumulating and glorifying numerous merits, and also in this way became a sage.” The Emperor said: “Having beginning and having completion, only this is a sagely man. If one is unable to have a beginning, how can one be a sage? The saying is ‘even the Emperor finds it difficult,’ however that in the end he was able to change the conferment, probably is to say he understood men. What a sagely man finds difficult is not to be said to be not exhaustive. The classic says: ‘Understanding men then is sagacity, able to give office on men.’  If Yáo doubted Gǔn, tested him for nine years, the giving of office on men failed in coherence; how was he able to be called a sage?” [Yǔ] Jùn said: “Your Servant humbly observes the classics, sagely men in conduct and affairs are unable to be without failures, therefore Yáo failed in the Four Evils,  Zhōu-gōng failed in the two Shū,  Zhòngní failed in Zǎi Yú.”  The Emperor said: “Yáo’s appointment of Gǔn was nine years without success, disordering the standards of the Five Transitions, the people engulfed by flooding. As for Zhòngní failing in Zǎi Yú, a discrepancy in words and conduct, the lightness and severity is not the same. As for Zhōu-gōng, the matters of Guǎn and Cài, also are by the Shàng Shū recorded, and all are what you the Academic Scholar should comprehend.” [Yǔ] Jùn replied saying: “This all is what former worthies have doubted, not what Your Servant of few observations is able to investigate and explain.” Next [the discussion] reached to ‘There is a bachelor below called Yú Shùn.’  The Emperor asked: “In the time of Yáo, flood waters did harm, Four Evils were at Court, it was a time when one should quickly promote the worthy and sagely to relieve the people. Shùn for years was already established,  sagely virtue radiant and clear, but for a long time was not advanced and employed. Why?” [Yǔ] Jùn replied saying: “Yáo heaved signs in his search for worthies, wishing to abdicate his own throne, [Sì]Yuè said: ‘One not of virtue would shame the Emperor’s throne.’  Yáo further sent the [Sì]Yuè to raise up and nominate from the lowly, and only afterward did he recommend Shùn. The root of the recommendation of Shùn was in fact by Yáo. This probably was the sagely man wishing to exhaustively consider everyone’s hearts.” The Emperor said: “Yáo had already heard of Shùn but had not promoted and employed him, and further the loyal ministers of the time also did not advance and convey him, so that he had the [Sì]Yuè raise up from the lowly and only afterward was there the nomination.  This is not to be called urgently employing sages and giving relief to the people.” [Yǔ] Jùn replied saying: “This is not what Your Servant’s humble observations are able to match.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+講易畢，復命講尚書。帝問曰：「鄭玄曰『稽古同天，言堯同於天也』。王肅云『堯順考古道而行之』。二義不同，何者為是？」博士庾峻對曰：「先儒所執，各有乖異，臣不足以定之。然洪範稱『三人占，從二人之言』。賈、馬及肅皆以為『順考古道』。以洪範言之，肅義為長。」帝曰：「仲尼言『唯天為大，唯堯則之』。堯之大美，在乎則天，順考古道，非其至也。今發篇開義以明聖德，而舍其大，更稱其細，豈作者之意邪？」峻對曰：「臣奉遵師說，未喻大義，至于折中，裁之聖思。」次及四嶽舉鯀，帝又問曰：「夫大人者，與天地合其德，與日月合其明，思無不周，明無不照，今王肅云『堯意不能明鯀，是以試用』。如此，聖人之明有所未盡邪？」峻對曰：「雖聖人之弘，猶有所未盡，故禹曰『知人則哲，惟帝難之』，然卒能改授聖賢，緝熙庶績，亦所以成聖也。」帝曰：「夫有始有卒，其唯聖人。若不能始，何以為聖？其言『惟帝難之』，然卒能改授，蓋謂知人，聖人所難，非不盡之言也。經云：『知人則哲，能官人。』若堯疑鯀，試之九年，官人失敘，何得謂之聖哲？」峻對曰：「臣竊觀經傳，聖人行事不能無失，是以堯失之四凶，周公失之二叔，仲尼失之宰予。」帝曰：「堯之任鯀，九載無成，汨陳五行，民用昏墊。至於仲尼失之宰予，言行之間，輕重不同也。至于周公、管、蔡之事，亦尚書所載，皆博士所當通也。」峻對曰：「此皆先賢所疑，非臣寡見所能究論。」次及「有鰥在下曰虞舜」，帝問曰：「當堯之時，洪水為害，四凶在朝，宜速登賢聖濟斯民之時也。舜年在既立，聖德光明，而久不進用，何也？」峻對曰：「堯咨嗟求賢，欲遜己位，嶽曰『否德忝帝位』。堯復使嶽揚舉仄陋，然後薦舜。薦舜之本，實由於堯，此蓋聖人欲盡眾心也。」帝曰：「堯既聞舜而不登用，又時忠臣亦不進達，乃使獄揚仄陋而後薦舉，非急於用聖恤民之謂也。」峻對曰：「非臣愚見所能逮及。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Thereupon it was again mandated to discuss the Lǐjì. The Emperor asked saying: “‘The highest establish virtue, the next attend to distribution and repayment.’  In enacting governance why are these ways of instruction and influence different? What cultivation of government is able to reach to establishment of virtue, to distribute and yet not repay?” Academic Scholar Mǎ Zhào  replied saying: “‘The highest establish virtue,’ is speaking of the era of the Three Augusts and Five Emperors using virtue to civilize people. ‘The next repay distribution,’ is speaking of the era of the Three Kings using ritual to enact governance.”  The Emperor said: “The two in delivering civilization in superficiality or depth are not the same. Was it that the rulers had goods and bads? Did the times make it so?” [Mǎ] Zhào replied saying: “Truly by the times there is simplicity or ornamentation, and therefore civilizing has its thin and thick.” <a href="#annotation-21" id="source-21">[21]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+於是復命講禮記。帝問曰：「『太上立德，其次務施報』。為治何由而教化各異；皆脩何政而能致于立德，施而不報乎？」博士馬照對曰：「太上立德，謂三皇五帝之世以德化民，其次報施，謂三王之世以禮為治也。」帝曰：「二者致化薄厚不同，將主有優劣邪？時使之然乎？」照對曰：「誠由時有樸文，故化有薄厚也。」〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-21" id="annotation-21">[21]</a> The Emperor’s Collected Works  records the Emperor’s self-narration of the auspicious omens of his birth stating: “In the past in the births of Emperors and Kings, some had auspicious omens, probably in order to make clear their divine uniqueness. Considering that I am a petty boy, a branch descendant’s resultant flow, erroneously from the spirits and deities receiving blessings, how dare I compare myself to the former sages? I only record it to show to later generations. The report states: On Zhèngshǐ Second Year,  Ninth Moon, Xīnwèi was first of the moon [241 Oct 22], the Twenty-Fifth Day Yǐwèi [251 Nov 15], Zhì Chéng,  I was born. At the time, the weather was pure and bright, sun and moon shining and radiant, then there was yellow mist, smoke vapor in the hall, illuminating the room, its color brilliant. The appraisal discussing it said: ‘Wèi is earth, the Transition of Wèi.  This day is Zhí Chéng, in correspondence to auspicious name. Mist of smoke vapor is the essence of divinity. No disaster no harm, covered by divine spirits.’ The King of Qí was not virtuous, overturning his limits, the various Excellencies received me, to continue and inherit the Imperial blessings. With my minute self, my character stubborn, not yet able to tread the way, yet I follow the great road, face the deep like treading on ice, shedding tears in apprehension. The ancients had a saying: ‘To fear then is to not perish.’ With my petty self, how dare I be negligent? I will not shame and dishonor, but forever present and burn the sacrifices.”
+
+Fù Chàng’s Jìn Zhūgōng zàn  states: The Emperor always with Central Protector of the Army Sīmǎ Wàng, Attendant Central Wáng Chén, Cavalier Regular Attendant Péi Xiù, Yellow Gate Attendant Cadet Zhōng Huì  and others conversed and feasted in the East Hall, together composing prose and discourses. Named [Péi] Xiù as Rúlín Zhàngrén, [Wáng] Chén as Wénjí Xiānshēng,  [Sīmǎ] Wàng and [Zhōng] Huì also each had monikers. The Emperor by nature was impatient, in inviting and summoning wished to be quick. [Péi] Xiù and others had inner offices and were able to arrive on time. As [Sīmǎ] Wàng was outside, he was specially giving Pursuing Advance Chariot,  Tiger Elite troops of five men. Every time there was a gathering, [Sīmǎ] Wàng at once galloped and arrived.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　帝集載帝自敘始生禎祥曰：「昔帝王之生，或有禎祥，蓋所以彰顯神異也。惟予小子，支胤末流，謬為靈祇之所相祐也，豈敢自比于前哲，聊記錄以示後世焉。其辭曰：惟正始三年九月辛未朔，二十五日乙未直成，予生。于時也，天氣清明，日月輝光，爰有黃氣，煙熅于堂，照曜室宅，其色煌煌。相而論之曰：未者為土，魏之行也；厥日直成，應嘉名也；煙熅之氣，神之精也；無災無害，蒙神靈也。齊王不弔，顛覆厥度，群公受予，紹繼祚皇。以眇眇之身，質性頑固，未能涉道，而遵大路，臨深履冰，涕泗憂懼。古人有云，懼則不亡。伊予小子，曷敢怠荒？庶不忝辱，永奉烝嘗。」傅暢晉諸公贊曰：帝常與中護軍司馬望、侍中王沈、散騎常侍裴秀、黃門侍郎鍾會等講宴於東堂，并屬文論。名秀為儒林丈人，沈為文籍先生，望、會亦各有名號。帝性急，請召欲速。秀等在內職，到得及時，以望在外，特給追鋒車，虎賁卒五人，每有集會，望輒奔馳而至。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Moon [256 Jun 10 – Jul 9], Yè and Shàngluò both reported Sweet Dew falling. 
+Summer, Sixth Moon [256 Jul 10 – Aug 7], Bǐngwǔ [256 Jul 10], changed the Inaugural to Gānlù.  Yǐchǒu [256 Jul 29], green dragon sighted at Yuánchéng county border inside a well. 
+Autumn, Seventh Moon [256 Aug 8 – Sep 6], Jǐmǎo [256 Aug 12], Guard General Hú Zūn died.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五月，鄴及（上谷）〔上洛〕並言甘露降。夏六月丙午，改元為甘露。乙丑，青龍見元城縣界井中。秋七月己卯，衛將軍胡遵薨。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Guǐwèi [256 Aug 16], Securing West General Dèng Ài greatly defeated Shǔ chief officer Jiāng Wéi at Shàngguī.  Edict said: “The soldiers had not even reached utmost martial power, the loathsome caitiffs were broken and defeated, the cut off heads and the captured alive are in the tens of thousands. From since recent battle victories, none compare to this. Now send envoy to reward and bestow on the officers and soldiers, greatly gather to oversee a feast, drink and eat to end of day, to accord with Our intentions.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+癸未，安西將軍鄧艾大破蜀大將姜維于上邽，詔曰：「兵未極武，醜虜摧破，斬首獲生，動以萬計，自頃戰克，無如此者。今遣使者犒賜將士，大會臨饗，飲宴終日，稱朕意焉。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eighth Moon [256 Sep 7 – Oct 5], Gēngwǔ [256 Oct 2], mandated General-in-Chief Sīmǎ [Zhāo] Wén-wáng be added title as Overall Commander-in-Chief, in memorializing affairs to not use personal name, Lent Yellow Battle-Ax.  Guǐyǒu [256 Oct 5], appointed Grand Commandant Sīmǎ Fú as Grand Tutor.
+Ninth Moon [256 Oct 6 – Nov 4], appointed Excellency over the Masses Gāo Róu as Grand Commandant.
+Winter, Tenth Moon [256 Nov 5 – Dec 3], appointed Excellency of Works Zhèng Chōng as Excellency over the Masses, Secretariat Writers Left Deputy Director Lú Yù as Excellency of Works.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+八月庚午，命大將軍司馬文王加號大都督，奏事不名，假黃鉞。癸酉，以太尉司馬孚為太傅。九月，以司徒高柔為太尉。冬十月，以司空鄭沖為司徒，尚書左僕射盧毓為司空。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Second Year, Spring, Second Moon [257 Mar 3 – Apr 1], green dragon sighted in Wēn county inside a well. 
+Third Moon [257 Apr 2 – Apr 30], Excellency of Works Lú Yù died.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+二年春二月，青龍見溫縣井中。三月，司空盧毓薨。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Summer, Fourth Moon [257 May 1 – May 30], Guǐmǎo [257 May 3], Edict said: “Xuántù prefecture’s Gāoxiǎn county’s officials and people rebelled, the Chief Zhèng Xī was killed by the rebels.  Civilian Wáng Jiǎn  carried [Zhèng] Xī’s body on his back, morning and night traveling, distantly conveying it to the base province,  the loyalty and integrity can be praised. Thus specially appoint [Wáng] Jiǎn as Loyal Righteousness Commandant,  to exhibit the exceptional conduct.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+夏四月癸卯，詔曰：「玄菟郡高顯縣吏民反叛，長鄭熙為賊所殺。民王簡負擔熙喪，晨夜星行，遠致本州，忠節可嘉。其特拜簡為忠義都尉，以旌殊行。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Jiǎzǐ [257 May 24], appointed Campaigning East General-in-Chief Zhūgě Dàn as Excellency of Works.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+甲子，以征東大將軍諸葛誕為司空。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Moon [257 May 31 – Jun 28], Xīnwèi [257 May 31], the Emperor visited Bìyōng, gathering and mandating the various ministers to compose poems. Attendant Central Hé Yóu and Secretariat Writer Chén Qiān and others in composing poems tarried and delayed, relevant managers memorialized to dismiss them from office.  Edict said: “As I am ignorant, fond of literary elegance, I widely sought poetry and rhapsodies, in order to understand our successes and failures, but to be as confused and muddled as this, it makes one very uneasy. Thus pardon [Hé] Yóu and the rest. Managers should order that from now on afterward, the various ministers all should engage with and be practiced in ancient meanings, cultivate and understand the classic canon, to accord with Our intentions.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五月辛未，帝幸辟雍，會命群臣賦詩。侍中和逌、尚書陳騫等作詩稽留，有司奏免官，詔曰：「吾以暗昧，愛好文雅，廣延詩賦，以知得失，而乃爾紛紜，良用反仄。其原逌等。主者宜敕自今以後，群臣皆當玩習古義，脩明經典，稱朕意焉。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Yǐhài [257 Jun 4], Zhūgě Dàn did not accept the summons, mobilized soldiers and rebelled, killing Yáng Province Inspector Yuè Chēn.  Bǐngzǐ [257 Jun 5], pardoned Huáinán’s officers and officials and servicemen and civilians that had been by [Zhūgě] Dàn deceived. Dīngchǒu [257 Jun 6],  Edict said: “Zhūgě Dàn creates vicious chaos, overturning Yáng Province. In the past Qíng Bù rebelled and Hàn Zǔ personally went to war,   Wěi Áo disobeyed and Guāng-Wǔ attacked west,  reaching to Lièzǔ Míng Huángdì personally campaigning against Wú and Shǔ,  all in order to exert and raise up this awe-inspiring [fury],  shake and shine martial power. Now it is appropriate for the Imperial Dowager Empress and Myself to temporarily together face the war, quickly settle the loathsome caitiffs, and timely pacify the eastern Xià.”  Jǐmǎo [257 Jun 8], Edict said: “Zhūgě Dàn crafts and forms rebellion and chaos, coercing the loyal and righteous, Pacifying Bandits General and Marquess of Línwèi precinct Páng Huì  and Cavalry Commander Auxiliary General Lù Fán  each commanded their Left and Right, cutting through the gates to charge out, the loyal strength and valorous intensity should be commended and distinguished. Thus advance [Páng] Huì’s noble title to a village Marquess, [Lù] Fán enfeoffed as a precinct Marquess.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+乙亥，諸葛誕不就徵，發兵反，殺揚州刺史樂綝。丙子，赦淮南將吏士民為誕所詿誤者。丁丑，詔曰：「諸葛誕造為凶亂，盪覆揚州。昔黥布逆叛，漢祖親戎，隗囂違戾，光武西伐，及烈祖明皇帝躬征吳、蜀，皆所以奮揚赫斯，震耀威武也。今宜皇太后與朕暫共臨戎，速定醜虜，時寧東夏。」己卯，詔曰：「諸葛誕造構逆亂，迫脅忠義，平寇將軍臨渭亭侯龐會、騎督偏將軍路蕃，各將左右，斬門突出，忠壯勇烈，所宜嘉異。其進會爵鄉侯，蕃封亭侯。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sixth Moon [257 Jun 29 – Jul 28], Yǐsì [257 Jul 4], Edict said: “Wú’s Envoy Holding Stave Overall Commander of Xiàkǒu’s various army affairs Defending Army General and Marquess of Shāxiàn Sūn Yī is of the rebel’s family branch,  ranked as a high officer, feared Heaven and understood the Mandate, deeply reflected on disasters and fortunes, suddenly turned to raise his multitudes, to distantly submit to our great state, even Wēi-zǐ leaving Yīn and Yuè Yì fleeing Yān have nothing to add to it.  Thus appoint [Sūn] Yī as Attendant Central, Chariots and Cavalry General, Lent Stave, Jiāo Province Governor, Marquess of Wú,  Opening Office to recruit and summon, Ceremonies Equal to the Three Excellencies,  in accordance with the ancient marquesses and earls, the rituals of eighth mandate,  Robe and Cap and Red Shoes, in affairs follow the ample and generous.” <a href="#annotation-22" id="source-22">[22]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+六月乙巳，詔：「吳使持節都督夏口諸軍事鎮軍將軍沙羡侯孫壹，賊之枝屬，位為上將，畏天知命，深鑒禍福，翻然舉眾，遠歸大國，雖微子去殷，樂毅遁燕，無以加之。其以壹為侍中車騎將軍、假節、交州牧、吳侯，開府辟召儀同三司，依古侯伯八命之禮，兗冕赤舄，事從豐厚。」〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-22" id="annotation-22">[22]</a> Your Servant Sōngzhī believes [Sūn] Yī out of fear and pressure submitted to the mandate, the situation has nothing that can be praised.  Citing ancient examples wishing to cover it up instead made it more obvious. What was appropriate at that time was not to distantly follow the forms of canon, assuredly it was to receive rewards in correspondence to capacity and talent, enough to compensate the sentiment of his coming and nothing more. As for radiant bestowments of the Eighth Mandate, rituals equal to the terrace tripod,  was it not also very excessive! It was to recruit and attract the distant, but also obtained nothing. Why? Supposing if their officers and defenders at the time were without resentment, in the end they would not be pleased with special favors in connection to conceiving rebellious hearts, to rebel and so be disgraced, what dishonor would be more extreme? If they worried of danger and so arrived, to not flee being to not escape, then they would certainly flee from death for a useless life, with no hopes for glory or profit. That being the case high rank and generous salary would be for what? Wèi first had Mèng Dá and Huáng Quán,  in Jìn there were Sūn Xiù and Sūn Kǎi.  [Mèng] Dá and [Huáng] Quán in noble titles and rewards when compared to [Sūn] Yī were light, [Sūn] Xiù and [Sūn] Kǎi in ritual courtesy were exceptionally extreme. Reaching to when Wú was pacified, then they were demoted several ranks, not continuing their original positions, how was it not due to it being incorrect from the beginning?
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　臣松之以為壹畏逼歸命，事無可嘉，格以古義，欲蓋而名彰者也。當時之宜，未得遠遵式典，固應量才受賞，足以酬其來情而已。至乃光錫八命，禮同台鼎，不亦過乎！於招攜致遠，又無取焉。何者？若使彼之將守，與時無嫌，終不悅于殊寵，坐生叛心，以叛而愧，辱孰甚焉？如其憂危將及，非奔不免，則必逃死苟存，無希榮利矣，然則高位厚祿何為者哉？魏初有孟達、黃權，在晉有孫秀、孫楷；達、權爵賞，比壹為輕，秀、楷禮秩，優異尤甚。及至吳平，而降黜數等，不承權輿，豈不緣在始失中乎？
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Jiǎzǐ [257 Jul 23] Edict said: “Now the Chariot Carriage stations Xiàng, the General-in-Chief respectfully enacts Heaven’s punishments, ahead overlooking the Huái and Pǔ. In the past when the Chancellor of State and Marshal-in-Chief [Sīmǎ Shī] went on campaign,  he always with the Secretariat Writers together travelled. Now it is appropriate to follow the old ways. Thus order Cavalier Regular Attendant Péi Xiù and Dispensing Affairs Yellow Gate Attendant Cadet Zhōng Huì to both with the General-in-Chief together travel.”
+Autumn, Eighth Moon [257 Aug 27 – Sep 25], Edict said: “In the past Yān King Là plotted rebellion, Hán Yì and others remonstrated and so died, the Hàn Court prominently promoted their sons.  Zhūgě Dàn created vicious rebellion, his Registrar Xuān Lóng and Division Retainer Commander Qín Jié upheld integrity and maintained righteousness,  facing the situation with firm argument, and were killed by [Zhūgě] Dàn, what is called to be without the kinship of Bǐ Gān and yet receive his murder.  Thus appoint [Xuān] Lóng and [Qín] Jié’s sons as Cavalry Commandants, apply with posthumous bestowments, to clearly show to the far and near, to distinguish the loyal righteousness.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+甲子，詔曰：「今車駕駐項，大將軍恭行天罰，前臨淮浦。昔相國大司馬征討，皆與尚書俱行，今宜如舊。」乃令散騎常侍裴秀、給事黃門侍郎鍾會咸與大將軍俱行。秋八月，詔曰：「昔燕刺王謀反，韓誼等諫而死，漢朝顯登其子。諸葛誕創造凶亂，主簿宣隆、部曲督秦絜秉節守義，臨事固爭，為誕所殺，所謂無比干之親而受其戮者。其以隆、絜子為騎都尉，加以贈賜，光示遠近，以殊忠義。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Ninth Moon [257 Sep 26 – Oct 24], Great Amnesty.
+Winter, Twelfth Moon [258 Jan 22 – Feb 19], Wú chief officers Quán Duān and Quán Yì and others led their multitudes to surrender.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+九月，大赦。冬十二月，吳大將全端、全懌等率眾降。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Third Year, Spring, Second Moon [258 Mar 22 – Apr 19], General-in-Chief Sīmǎ [Zhāo] Wén-wáng captured Shòuchūn city, beheaded Zhūgě Dàn. 
+Third Moon, Edict said: “The ancients in subduing enemies collected their corpses to form mound towers,  in order to punish the foolish rebellion and demonstrate the military achievement. During Hàn Xiào-Wǔ’s Yuándǐng [116 – 111 BC], changed Tóngxiāng to Wénxǐ, Xīnxiāng to Huòjiā, in order to declare the destruction of Nán Yuè.  The General-in-Chief personally led the Six Armies, camp occupying Qiūtóu,  inside destroying the crowds of vicious, outside exterminating bandit caitiffs, achievements relieving the millions of people, fame shaking the Four Seas. The land of the subduing of the enemy should have a good name, thus change Qiūtóu to Wǔqiū, to make clear the use of warfare to pacify chaos,  for later generations to never forget, it is also of the meaning of mound towers and the two cities.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+三年春二月，大將軍司馬文王陷壽春城，斬諸葛誕。三月，詔曰：「古者克敵，收其屍以為京觀，所以懲昏逆而章武功也。漢孝武元鼎中，改桐鄉為聞喜，新鄉為獲嘉，以著南越之亡。大將軍親總六戎，營據丘頭，內夷群凶，外殄寇虜，功濟兆民，聲振四海。克敵之地，宜有令名，其改丘頭為武丘，明以武平亂，後世不忘，亦京觀二邑之義也。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Summer, Fifth Moon [258 Jun 18 – Jul 17], mandated General-in-Chief Sīmǎ [Zhāo] Wén-wáng be Chancellor of State, enfeoffed Duke of Jìn, fief of eight prefectures, applied the Nine Bestowments, [Sīmǎ Zhāo] Wén-wáng beginning to end declined nine times and then it stopped.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+夏五月，命大將軍司馬文王為相國，封晉公，食邑八郡，加之九錫，文王前後九讓乃止。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sixth Moon [258 Jul 18 – Aug 16], Bǐngzǐ [258 Jul 30], Edict said: “In the past Nányáng prefecture mountain bandits made disturbances, wishing to take hostage the former Administrator Dōnglǐ Gǔn, Merit Officer Yīng Yú alone defended [Dōnglǐ] Gǔn, and therefore [Dōnglǐ Gǔn] escaped the troubles.  [Yīng] Yú fell and died, sacrificing himself to save his lord. Thus send down to the Excellency over the Masses to appoint [Yīng] Yú’s grandson [Yīng] Lún  as a clerk, to have him be immersed in the repayment for the sacrifice for integrity.” <a href="#annotation-23" id="source-23">[23]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+六月丙子，詔曰：「昔南陽郡山賊擾攘，欲劫質故太守東里袞，功曹應余獨身捍袞，遂免於難。余顛沛殞斃，殺身濟君。其下司徒，署余孫倫吏，使蒙伏節之報。」〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal" #yingyu}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-23" id="annotation-23">[23]</a> Chǔ guó Xiānxián zhuàn states: [Yīng] Yú appellation Zǐzhèng  had natural beauty and firm resolution, his will esteemed benevolence and righteousness. Jiàn’ān Twenty-Third Year [218] he became the prefecture’s Merit Officer. At the time Wú and Shǔ did not submit, the borders had many apprehensions. Wǎn officer Hóu Yīn  mobilized the mountain peoples, occupying the city to rebel. [Yīng] Yú with Administrator Dōnglǐ Gǔn were in the midst of the disturbance, and burst through and were able to escape. [Hóu] Yīn at once sent cavalry to pursue, from the city by ten lǐ reaching them, the rebels then shot at [Dōnglǐ] Gǔn, flying arrows flowing through. [Yīng] Yú stood in front to use his body to block the arrows, was wounded seven times, and therefore spoke to the pursuing rebels saying: “Hóu Yīn is insane and treacherous, creating vicious rebellion, the main army will soon arrive, the punishment and extermination already near. It is said that you sirs originally were good men, formerly without evil heart, and should think to return to the good, why accept his directions? I use myself to substitute for my lord, and so receive heavy wounds, if I die but my lord is preserved, I will fall and perish without regrets.” Therefore he looked up to the heavens and shouted wails and wept tears, blood and tears both flowing down. The rebels observed his righteous intensity, released [Dōnglǐ] Gǔn and did not harm him. After the rebels left, [Yīng] Yú also died. Campaigning South General Cáo Rén suppressed and pacified [Hóu] Yīn, memorialized report of [Yīng] Yú’s conduct, and also prepared sacrifices and libations. Tàizǔ [Cáo Cāo] heard of this, and sighed for a long time, sending down to Jīng Province to further place banners at his gates,  bestow grain of a thousand hú. [Dōnglǐ] Gǔn later became Yú Jīn’s Major, see Wèi lüè’s Yóushuì zhuàn.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　楚國先賢傳曰：余字子正，天姿方毅，志尚仁義，建安二十三年為郡功曹。是時吳、蜀不賓，疆埸多虞。宛將侯音扇動山民，保城以叛。余與太守東里袞當擾攘之際、迸竄得出。音即遣騎追逐，去城十里相及，賊便射袞，飛矢交流。余前以身當箭，被七創，因謂追賊曰：「侯音狂狡，造為凶逆，大軍尋至，誅夷在近。謂卿曹本是善人，素無惡心，當思反善，何為受其指揮？我以身代君，以被重創，若身死君全，隕沒無恨。」因仰天號哭泣涕，血淚俱下。賊見其義烈，釋袞不害。賊去之後，余亦命絕。征南將軍曹仁討平音，表余行狀，并脩祭醊。太祖聞之，嗟歎良久，下荊州復表門閭，賜穀千斛。袞後為于禁司馬，見魏略游說傳。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Xīnmǎo [258 Aug 14], great discussion of the achievements of Huáinán, enfeoffed noble titles and enacted rewards each on distinct basis.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+辛卯，大論淮南之功，封爵行賞各有差。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Autumn, Eighth Moon [258 Sep 15 – Oct 14], Jiǎxū [258 Sep 26], appointed Agile Cavalry General Wáng Chǎng as Excellency of Works. Bĭngyín [258 Sep 18],  Edict said: “The caring for the elderly and raising of instruction is how the Three Dynasties cultivated public morals to bequeath without decay, certainly there must be a Three-Elder and Five-Experienced to esteem with utmost respect,  to beg for advice and receive teachings, written in honest histories, and afterward the Six Directions will follow the flow, subordinates observe and be influenced. There must be careful choice of virtue and conduct to fill these selections. Marquess Within the Passes Wáng Xiáng walks benevolence and upholds righteousness, elegant will pure and firm.  Marquess Within the Passes Zhèng Xiǎotóng is warm and respectful, filial-fraternal, uses rituals without erring.  Thus appoint [Wáng] Xiáng as Three-Elder, [Zhèng] Xiǎotóng as Five-Experienced.” The Chariot Carriage personally led the various directors, personally enacted the ancient rituals. <a href="#annotation-24" id="source-24">[24]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+秋八月甲戌，以驃騎將軍王昶為司空。丙寅，詔曰：「夫養老興教，三代所以樹風化垂不朽也，必有三老、五更以崇至敬，乞言納誨，著在惇史，然後六合承流，下觀而化。宜妙簡德行，以充其選。關內侯王祥，履仁秉義，雅志淳固。關內侯鄭小同，溫恭孝友，帥禮不忒。其以祥為三老，小同為五更。」車駕親率群司，躬行古禮焉〔一〕。
+:::
+:::
+
+::: {.callout-note appearance="minimal" #zhengxiaotong}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-24" id="annotation-24">[24]</a> Hàn Jìn Chūnqiū states: The Emperor begged for advice from [Wáng] Xiáng, [Wáng] Xiáng replied saying: “In the past the enlightened kings prepared ritual and music, added to it loyal sincerity. Loyal sincerity was issued, taking form in word and conduct. A great man in conduct moves Heaven and Earth; if even Heaven does not oppose, all the more for Man.”
+
+For [Wáng] Xiáng’s affairs separately see Lǚ Qián zhuàn. [Zhèng] Xiǎotóng was Zhèng Xuán’s grandson.
+
+Xuán Biézhuàn  states: [Zhèng] Xuán had a son who became Kǒng Róng’s clerk, nominated Filial-Incorruptible. When [Kǒng] Róng was besieged, he went to the rescue and was harmed by the rebels. He had a posthumous son, born on a Dīngmǎo day, and [Zhèng] Xuán was born in a Dīngmǎo year, therefore he was named Xiǎotóng [Little Same]. 
+
+Wèi Míng Chén zòu records Grand Commandant Huà Xīn’s memorial stating: “Your Servant has heard that in encouraging customs and spreading civilization, nothing is ahead of demonstrating the good; that in ranking salary and ordering noble titles, nothing is as beautiful as making prominent the capable. Therefore the Chǔ men in recollection of Zǐwén’s governance also appointed his descendant,  the Hàn House commended Jiāng Gōng’s virtue and prominently employed his heirs.  In prostration I observe that the former Hàn’s Minister of Agriculture Běihǎi’s Zhèng Xuán at that time in scholarship had fame crowning the Huáxià, for the era a classicist exemplar. Wén Huángdì [Cáo Pī] to make prominent and remember former worthies appointed [Zhèng] Xuán’s successor grandson [Zhèng] Xiǎotóng as a Cadet Central with extended leave at home. [Zhèng] Xiǎotóng’s years have exceeded thirty, from youth he had good character, his studies include the Six Classics,  his conduct is famed in his hometown. Of the people of Hǎi and Dài  none do not praise his self-nature and deem beautiful his spirit and magnanimity. The footprints of his tread have the nature of upright character unchanging. However he is respectful and quiet, happily nurtures his parents, not attending to beauties that can be seen, not competing among people for fame. This truly is what a pure time should systemically rank, what beginning to end enlightened edicts have deliberated on and sought. Your Servant is old and ill, bowed and worn, of no benefit to sight or hearing, and solemnly present this to be heard.”
+
+Wèishì Chūnqiū states: [Zhèng] Xiǎotóng visited Sīmǎ [Zhāo] Wén-wáng, [Sīmǎ Zhāo] Wén-wáng had a secret document he had not yet filed. He went to the lavatory and returned, and spoke to him saying: “Did you see my document?” Replied saying: “No.” [Sīmǎ Zhāo] Wén-wáng was suspicious and poisoned him, and he died. 
+
+Zhèng Xuán’s annotation to Wén-wáng Shìzǐ  states: “Three-Elder and Five-Experienced are each one man, both elder in years and experienced in affairs and retired from government service.” Annotation to Yuèjì  states: “Both are elder men experienced and knowledgeable of the three virtues and five affairs.” Cài Yōng’s Míngtáng lùn  says: ‘Experienced’ should be ‘senior.’ ‘Senior’ is a term for an aged elder, the character with ‘experienced’ resemble one another, the writers therefore mistakenly made it ‘experienced.’ The character ‘older brother’s wife’ is ‘woman’ next to ‘senior.’ Now also it is made into ‘experienced.’ By this verifying it one knows it should be ‘senior.’ 
+
+Your Servant Sōngzhī believes [Cài] Yōng saying ‘experienced’ should be ‘senior’ truly appears correct, but of the various classicists none follow him, it is unknown who is correct.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：帝乞言於祥，祥對曰：「昔者明王禮樂既備，加之以忠誠，忠誠之發，形于言行。夫大人者，行動乎天地；天且弗違，況於人乎？」祥事別見呂虔傳。小同，鄭玄孫也。玄別傳曰：「玄有子，為孔融吏，舉孝廉。融之被圍，往赴，為賊所害。有遺腹子，以丁卯日生；而玄以丁卯歲生，故名曰小同。」魏名臣奏載太尉華歆表曰：「臣聞勵俗宣化，莫先於表善，班祿敘爵，莫美於顯能，是以楚人思子文之治，復命其胤，漢室嘉江公之德，用顯其世。伏見故漢大司農北海鄭玄，當時之學，名冠華夏，為世儒宗。文皇帝旌錄先賢，拜玄適孫小同以為郎中，長假在家。小同年踰三十，少有令質，學綜六經，行著鄉邑。海、岱之人莫不嘉其自然，美其氣量。跡其所履，有質直不渝之性，然而恪恭靜默，色養其親，不治可見之美，不競人間之名，斯誠清時所宜式敘，前後明詔所斟酌而求也。臣老病委頓，無益視聽，謹具以聞。」魏氏春秋曰：小同詣司馬文王，文王有密疏，未之屏也。如廁還，謂之曰：「卿見吾疏乎？」對曰：「否。」文王猶疑而鴆之，卒。鄭玄注文王世子曰「三老、五更各一人，皆年老更事致仕者也」。注樂記曰「皆老人更知三德五事者也」。蔡邕明堂論云：「更」應作「叟」。叟，長老之稱，字與「更」相似，書者遂誤以為「更」。「嫂」字「女」傍「叟」，今亦以為「更」，以此驗知應為「叟」也。臣松之以為邕謂「更」為「叟」，誠為有似，而諸儒莫之從，未知孰是。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+That year, green dragons and yellow dragons were repeatedly seen at Dùnqiū, Guànjūn, Yángxià county borders inside wells.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+是歲，青龍、黃龍仍見頓丘、冠軍、陽夏縣界井中。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fourth Year, Spring, Standard Moon [259 Feb 10 – Mar 10], yellow dragons of two sighted in Nínglíng county  border inside a well. <a href="#annotation-25" id="source-25">[25]</a> Summer, Sixth Moon [259 Jul 7 – Aug 5], Excellency of Works Wáng Chǎng died.
+Autumn, Seventh Moon [259 Aug 6 – Sep 3], the King of Chénliú [Cáo] Jùn died. 
+Winter, Tenth Moon [259 Nov 3 – Dec 1], Bǐngyín [259 Nov 12], divided Xīnchéng prefecture, again installed a Shàngyōng prefecture.
+Eleventh Moon [259 Dec 2 – Dec 31], Guǐmǎo [259 Dec 19], Chariots and Cavalry General Sūn Yī was killed by his maidservants.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+四年春正月，黃龍二，見寧陵縣界井中。〔一〕夏六月，司空王昶薨。秋七月，陳留王峻薨。冬十月丙寅，分新城郡，復置上庸郡。十一月癸卯，車騎將軍孫壹為婢所殺。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-25" id="annotation-25">[25]</a> Hàn Jìn Chūnqiū states: At the time dragons had frequently been seen, all believed it auspicious omens. The Emperor said: “The dragon is the lord’s virtue. Above it is not in the heavens, below it is not in the fields, but repeatedly is subdued in wells: it is not an auspicious sign.” He therefore made a poem about submerged dragons to satirize himself, Sīmǎ [Zhāo] Wén-wáng saw and hated it.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：是時龍仍見，咸以為吉祥。帝曰：「龍者，君德也。上不在天，下不在田，而數屈於井，非嘉兆也。」仍作潛龍之詩以自諷，司馬文王見而惡之。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Year, Spring, Standard Moon [260 Jan 30 – Feb 28], first day of the moon, the sun was eclipsed. 
+Summer, Fourth Moon [260 Apr 28 – May 26], Edict on relevant managers to observe the previous mandate, again advanced General-in-Chief Sīmǎ [Zhāo] Wén-wáng’s rank to Chancellor of State, enfeoffed as Duke of Jìn, applied the Nine Bestowments.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五年春正月朔，日有蝕之。夏四月，詔有司率遵前命，復進大將軍司馬文王位為相國，封晉公，加九錫。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Moon [260 May 27 – Jun 25], Jǐchǒu [260 June 2], the Duke of Gāoguì village died, his years twenty. <a href="#annotation-26" id="source-26">[26]</a> The Imperial Dowager Empress’s Order said: “As I am not virtuous, the family affairs encountered misfortune. In the past I chose to enthrone the King of Dōnghǎi's son [Cáo] Máo to be Emperor Míng's [Cáo Ruì’s] successor, observing that he enjoyed writing and perusing documents, and I hoped that he could be successful, but by nature he was cruel and ruthless, and by day and moon grew more extreme. I repeatedly rebuked him, therefore his wrath increased, and so he created shamefully rebellious and unspeakable words to slander me, therefore estranging the two Palaces. His words cannot be tolerated to be heard, and are not to be covered by Heaven or carried by Earth. I at once secretly sent an Order to tell the General-in-Chief [Sīmǎ Zhāo] that he could not serve the Ancestral Temple, that I feared he would overturn the State Altars, and in death I would have no face to meet the Former Emperor [Cáo Ruì]. The General-in-Chief because he was still young said that his heart could be corrected to the good and rigorously instructed. But this boy was hateful and evil, his conduct became more extreme, he lifted a crossbow and from afar shot at my Palace, praying for it to strike my neck, the arrow landed right in front of me. I said to the General-in-Chief that I could not but depose him, and we argued back and forth several tens of times. This boy heard of this, himself knew his crimes were heavy, plotted to murder his parent and to rebel, bribed my Left and Right personnel, ordered them to take advantage of when I took medicine, to secretly take advantage to poison me, and he repeatedly had such plans. The situation was already discovered, he directly wished to take advantage of an opportunity to lead soldiers to enter the West Palace to kill me, set out to capture the General-in-Chief, calling on Attendant Central Wáng Chén, Cavalier Regular Attendant Wáng Yè, <a href="#annotation-27" id="source-27">[27]</a> Secretariat Writer Wáng Jīng,  producing from his chest a yellow silk Edict to show them, saying that today he would put it into effect. My grave danger surpassed that of a pile of eggs. I am an old widow; how can I overly begrudge my remaining life? It is only that I would be aggrieved by the Former Emperor’s remaining wishes not being fulfilled, that the State Altars being overturned would be too painful and that is all. Relying on the spirits of the Ancestral Temple, [Wáng] Chén and [Wáng] Yè at once hurried to tell the General-in-Chief, so we were able to be forewarned and alert, but this boy still commanded his Left and Right to set out Yúnlóng Gate,  thundering war drums, personally wielding blade, with his Left and Right mixed with the guard together entering into the battle lines, and on the front lines came to harm. This boy in conduct was rebellious and without principles,  and also brought on himself great disaster, doubling my grief in heart that cannot be spoken of. In the past Hàn’s King of Chāngyì for his crimes was deposed to a commoner,  this boy also should be buried by a civilian’s Rituals. Now inside and outside are all to know of this boy’s conduct. Also Secretariat Writer Wáng Jīng was a vicious traitor of insolence, thus arrest [Wáng] Jīng with his family and dependents to all be sent to the Minister of Justice.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五月己丑，高貴鄉公卒，年二十。〔一〕皇太后令曰：「吾以不德，遭家不造，昔援立東海王子髦，以為明帝嗣，見其好書疏文章，冀可成濟，而情性暴戾，日月滋甚。吾數呵責，遂更忿恚，造作醜逆不道之言以誣謗吾，遂隔絕兩宮。其所言道，不可忍聽，非天地所覆載。吾即密有令語大將軍，不可以奉宗廟，恐顛覆社稷，死無面目以見先帝。大將軍以其尚幼，謂當改心為善，殷勤執據。而此兒忿戾，所行益甚，舉弩遙射吾宮，祝當令中吾項，箭親墮吾前。吾語大將軍，不可不廢之，前後數十。此兒具聞，自知罪重，便圖為弒逆，賂遺吾左右人，令因吾服藥，密因酖毒，重相設計。事已覺露，直欲因際會舉兵入西宮殺吾，出取大將軍，呼侍中王沈、散騎常侍王業、〔二〕尚書王經，出懷中黃素詔示之，言今日便當施行。吾之危殆，過于累卵。吾老寡，豈復多惜餘命邪？但傷先帝遺意不遂，社稷顛覆為痛耳。賴宗廟之靈，沈、業即馳語大將軍，得先嚴警，而此兒便將左右出雲龍門，雷戰鼓，躬自拔刃，與左右雜衛共入兵陳間，為前鋒所害。此兒既行悖逆不道，而又自陷大禍，重令吾悼心不可言。昔漢昌邑王以罪廢為庶人，此兒亦宜以民禮葬之，當令內外咸知此兒所行。又尚書王經，凶逆無狀，其收經及家屬皆詣廷尉。」
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-26" id="annotation-26">[26]</a> Hàn Jìn Chūnqiū states: The Emperor observed that his authority was daily leaving him, and could not contain his anger. Thus he summoned Attendant Central Wáng Chén, Secretariat Writer Wáng Jīng, Cavalier Regular Attendant Wáng Yè, and said: “Sīmǎ Zhāo’s heart, the people on the roads all know. I cannot sit by and receive the disgrace of being deposed. Today I will with you sirs personally set out to suppress him.” Wáng Jīng said: “In the past Lǔ Duke Zhāo could not tolerate the Jì clan, was defeated and fled and lost his state, laughed at by Heaven’s Under.  Now power is with their gates, and has been for many days. The Court and Four Quarters all will serve them to the death, with no regard to the logic of rebellion or obedience, and it has not been so only for one day. Moreover the Residential Guard is empty and deficient, weapons and armor few and weak,  what resources does Your Majesty have to use, to yet in one morning be like this, it is nothing more than to wish to remove an illness but instead make it more extreme! The disaster and danger are immeasurable, it is appropriate to be reconsidered in detail.” The Emperor thus produced from his chest the written order and threw it to the ground, saying: “Enacting it is decided. Even if I die, what is there to fear? All the more when death is not certain.” Thereupon he entered to inform the Dowager Empress. [Wáng] Chén and [Wáng] Yè fled to inform [Sīmǎ Zhāo] Wén-wáng, [Sīmǎ Zhāo] Wén-wáng made preparations for this. The Emperor therefore commanded boy servants of several hundred, drumming and trumpeting and setting out. [Sīmǎ Zhāo] Wén-wáng’s younger brother Garrison Cavalry Colonel [Sīmǎ] Zhòu entered,  encountered the Emperor at the East Stopping Carriages Gate, [the Emperor’s] Left and Right rebuked them, [Sīmǎ] Zhòu’s multitudes fled. Central Protector of the Army Jiǎ Chōng  also opposed the Emperor in battle below the South Watchtower.  The Emperor personally used sword. The multitudes wished to retreat, Heir-Apparent’s Resident Chéng Jì  asked [Jiǎ] Chōng: “The situation is critical, what do you say?” [Jiǎ] Chōng said: “The raising of you all was precisely speaking of today. In today’s affairs, there is nothing to ask about.” [Chéng] Jì at once advanced and stabbed the Emperor, the blade piercing out the back. [Sīmǎ Zhāo] Wén-wáng heard, was greatly alarmed, threw himself on the ground and said: “What will Heaven’s Under say of me?” Grand Tutor [Sīmǎ] Fú ran to go, pillowed the Emperor on his thighs and wept, his sorrow extreme, saying: “Your Majesty’s murder is Your Servant’s crime.”
+
+Your Servant Sōngzhī believes Xí Zuòchǐ’s book, though it was the last produced, however its narration of this event distinctly has structured sequence. Therefore I first record Xí’s report, and have the minor differences in other reports placed after it.
+
+Shìyǔ states: Wáng Chén and Wáng Yè hurried to inform [Sīmǎ Zhāo] Wén-wáng, Secretariat Writer Wáng Jīng to be upright would not go out, having [Wáng] Chén and [Wáng] Yè explain his intentions.
+
+Jìn Zhūgōng zàn states: [Wáng] Chén and [Wáng] Yè were about to go out and called on Wáng Jīng. [Wáng] Jīng would not follow and said: “You my good sirs go.”
+
+Gān Bǎo’s Jìn jì states: Chéng Jì asked Jiǎ Chōng saying: “The situation is critical, what do we do?” [Jiǎ] Chōng said: “The Duke’s raising of you all was for today’s affair. Why hesitate?” [Chéng] Jì said: “Right.” Then he thrust his spear and violated the Emperor’s path.
+
+Wèishì Chūnqiū states: Wùzǐ [260 Jun 1], night, the Emperor personally led Surplus Followers Deputy Director Lǐ Zhāo and Yellow Gate Following Official Jiāo Bó  and others to below Língyún Terrace, giving armor and weapons to the soldiers, wishing to take advantage of an opportunity to personally set out to suppress [Sīmǎ Zhāo] Wén-wáng. It happened to rain, the relevant managers memorialized to delay the date. Therefore he met Wáng Jīng and the rest and produced a yellow silk Edict from his chest and said: “If this can be tolerated, what cannot be tolerated?  Today I will decisively enact this affair.” He entered to inform the Dowager Empress, and therefore drew sword and mounted carriage, commanding the Residential Guard in the Hall, ash-haired officials and servant boys, to beat the war drums, setting out Yúnlóng Gate. Jiǎ Chōng from the outside entered [the Palace], the Emperor’s brigade was routed and dispersed, but he declared himself Heaven’s Son, hand wielding saber to exert and strike, of the multitudes none dared draw near. [Jiǎ] Chōng commanded and urged the officers and soldiers, Cavalry Commander Chéng Cuì’s  younger brother Chéng Jì with a pike advanced, the Emperor passed away in the brigade. At the time there was torrential rain and thunder and lightning, dark as night.
+
+Wèi Mò zhuàn states: Jiǎ Chōng shouted at bannermen commander Chéng Jì saying: “If the Sīmǎ family’s affairs fail, how will you all have any descendants? Why not go out to strike!” [Chéng] Cuì and his brother two men thus lead the bannermen out, turned back and said: “Do we kill? Do we capture?” [Jiǎ] Chōng said: “Kill him!” The soldiers engaged, the Emperor said: “Drop your weapons!” The General-in-Chief’s soldiers all dropped their weapons. [Chéng] Jì and his brothers took advantage to advance and stabbed the Emperor, the Emperor fell below the chariot.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：帝見威權日去，不勝其忿。乃召侍中王沈、尚書王經、散騎常侍王業，謂曰：「司馬昭之心，路人所知也。吾不能坐受廢辱，今日當與卿〔等〕自出討之。」王經曰：「昔魯昭公不忍季氏，敗走失國，為天下笑。今權在其門，為日久矣，朝廷四方皆為之致死，不顧逆順之理，非一日也。且宿衛空闕，兵甲寡弱，陛下何所資用，而一旦如此，無乃欲除疾而更深之邪！禍殆不測，宜見重詳。」帝乃出懷中版令投地，曰：「行之決矣。正使死，何所懼？況不必死邪！」於是入白太后，沈、業奔走告文王，文王為之備。帝遂帥僮僕數百，鼓譟而出。文王弟屯騎校尉伷入，遇帝於東止車門，左右呵之，伷眾奔走。中護軍賈充又逆帝戰於南闕下，帝自用劍。眾欲退，太子舍人成濟問充曰：「事急矣。當云何？」充曰：「畜養汝等，正謂今日。今日之事，無所問也。」濟即前刺帝，刃出於背。文王聞，大驚，自投于地曰：「天下其謂我何！」太傅孚奔往，枕帝股而哭，哀甚，曰：「殺陛下者，臣之罪也。」臣松之以為習鑿齒書，雖最後出，然述此事差有次第。故先載習語，以其餘所言微異者次其後。世語曰：王沈、王業馳告文王，尚書王經以正直不出，因沈、業申意。晉諸公贊曰：沈、業將出，呼王經。經不從，曰：「吾子行矣！」干寶晉紀曰：成濟問賈充曰：「事急矣。若之何？」充曰：「公畜養汝等，為今日之事也。夫何疑！」濟曰：「然。」乃抽戈犯蹕。魏氏春秋曰：戊子夜，帝自將宂從僕射李昭、黃門從官焦伯等下陵雲臺，鎧仗授兵，欲因際會，自出討文王。會雨，有司奏卻日，遂見王經等出黃素詔於懷曰：「是可忍也，孰不可忍也！今日便當決行此事。」入白太后，遂拔劍升輦，帥殿中宿衛蒼頭官僮擊戰鼓，出雲龍門。賈充自外而入，帝師潰散，猶稱天子，手劍奮擊，眾莫敢逼。充帥厲將士，騎督成倅弟成濟以矛進，帝崩于師。時暴雨雷霆，晦冥。魏末傳曰：賈充呼帳下督成濟謂曰：「司馬家事若敗，汝等豈復有種乎？何不出擊！」倅兄弟二人乃帥帳下人出，顧曰：「當殺邪？執邪？」充曰：「殺之。」兵交，帝曰：「放仗！」大將軍士皆放仗。濟兄弟因前刺帝，帝倒車下。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-27" id="annotation-27">[27]</a> Shìyǔ states: [Wáng] Yè was a Wǔlíng man, later became Jìn’s Central Protector of the Army.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　世語曰：業，武陵人，後為晉中護軍。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Gēngyín [260 Jun 3], Grand Tutor [Sīmǎ] Fú, General-in-Chief [Sīmǎ Zhāo] Wén-wáng, Grand Commandant [Gāo] Róu, Excellency over the Masses [Zhèng] Chōng bowed head and said: “In prostration seeing the Central Order, that the former Duke of Gāoguì village was rebellious and without principles, brought on himself great disaster, and following the precedent of Hàn's King of Chāngyì being deposed for his crimes, he is to be buried by a civilian's Rituals. We Your Servants merely filled seats, could not rectify and rescue the disaster and chaos, restrain the treacherous rebellion, and receive the Order with trembling fear, liver and heart lamenting and cold. By the principles of the Chūnqiū, the ruler has no exterior, and so it writes: ‘King Xiāng went out to reside at Zhèng.’  He could not serve his mother; therefore he was cut off from the throne.  Now the Duke of Gāoguì village acted recklessly without course, almost endangered the State Altars, upon himself brought downfall, cut off from Man and Divinity, burial by a civilian’s Rituals truly accords to the ancient canons. However, We Your Servants in prostration consider that Your Highness has benevolence and mercy surpassing all, and even though you maintain great righteousness, yet you bequeath sorrow and pity. We Your Servants in our hearts truly cannot bear it, and believe you can apply your grace to use a King’s Rituals to bury him.” The Dowager Empress followed this. <a href="#annotation-28" id="source-28">[28]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+庚寅，太傅孚、大將軍文王、太尉柔、司徒沖稽首言：「伏見中令，故高貴鄉公悖逆不道，自陷大禍，依漢昌邑王罪廢故事，以民禮葬。臣等備位，不能匡救禍亂，式遏姦逆，奉令震悚，肝心悼慄。春秋之義，王者無外，而書『襄王出居于鄭』，不能事母，故絕之于位也。今高貴鄉公肆行不軌，幾危社稷，自取傾覆，人神所絕，葬以民禮，誠當舊典。然臣等伏惟殿下仁慈過隆，雖存大義，猶垂哀矜，臣等之心實有不忍，以為可加恩以王禮葬之。」太后從之。〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-28" id="annotation-28">[28]</a> Hàn Jìn Chūnqiū states: Dīngmǎo [Xīnmǎo, 260 Jun 4],  buried the Duke of Gāoguì village to Luòyáng’s northwest by thirty lǐ at the shore of Chán stream. Inferior chariots of a few carts, not setting banners or flags. The Hundred Surnames gathered together and watched it, saying: “That is Heaven’s Son who was killed the day before yesterday.” Some covered their faces and sobbed, unable to control their grief.
+
+Your Servant Sōngzhī believes if it was inferior chariots of few carts and did no setting of banners or flags, how was it a burial by a King’s rituals? This probably was excessive words from disgust, what is called ‘not as extreme in fact.’
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：丁卯，葬高貴鄉公于洛陽西北三十里瀍澗之濱。下車數乘，不設旌旐，百姓相聚而觀之，曰：「是前日所殺天子也。」或掩面而泣，悲不自勝。臣松之以為若但下車數乘，不設旌旐，何以為王禮葬乎？斯蓋惡之過言，所謂不如是之甚者。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sent Envoy Holding Stave the Acting Central Protector of the Army and Central Ramparts General Sīmǎ Yán  north to welcome the Duke of Chángdào village [Cáo] Huáng  to succeed as Emperor Míng’s posterity. Xīnmǎo [260 Jun 4], the various Excellencies memorialized the Dowager Empress stating: “Your Highness’s sagely virtue radiates and swells, calming and relieving the Six Directions, yet you only make ‘Orders,’ the same as a vassal state. We request that from now on Your Highness’s written Orders all be called Edicts and Regulations, following the precedent of the previous dynasty.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+使使持節行中護軍中壘將軍司馬炎北迎常道鄉公璜嗣明帝後。帝卯，群公奏太后曰：「殿下聖德光隆，寧濟六合，而猶稱令，與藩國同。請自今殿下令書，皆稱詔制，如先代故事。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Guǐmǎo [260 Jun 16], the General-in-Chief firmly declined the honors of Chancellor of State, Duke of Jìn, and Nine Bestowments.  The Dowager Empress’s Edict said: “To have achievements and not conceal it is a great principle of the Zhōu Yì, to complete a man’s beauty is what the ancient worthies esteemed. Now listen to the request, and send it out to show to the outside, to make clear the glory of Your Excellency’s modesty.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+癸卯，大將車固讓相國、晉公、九錫之寵。太后詔曰：「夫有功不隱，周易大義，成人之美，古賢所尚，今聽所執，出表示外，以章公之謙光焉。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Wùshēn [260 Jun 21], General-in-Chief [Sīmǎ Zhāo] Wén-wáng sent up word: “The Duke of Gāoguì village led his following carriage men and soldiers, drawing blade and beating metal drums to head toward where Your Servant was located. Fearing that weapon blades would join together, at once I ordered the officers and soldiers to not do injury or harm, and violations of orders would be dealt with by Military Law. Cavalry Commander Chéng Cuì’s younger brother Heir-Apparent’s Resident [Chéng] Jì unexpectedly entered the battle lines and injured the Duke to the point that he lost his life. At once I arrested [Chéng] Jì and enacted Military Law.  Your Servant has heard that the integrity of a servant of men is to accept death without second thought, the righteousness of serving superiors is to not dare to flee from troubles. Formerly the disaster suddenly arrived, the calamity like shooting a trigger, truly I wished to devote myself to accept death, by what command had decided. However considering that the original plan then was to above endanger the Imperial Dowager Empress, overturning the Ancestral Temple, Your Servant is shamed to bear my great appointment, righteousness is in securing the state, and I fear that even if I die, the crime would only be all the more serious. I wished to comply with the power of Yī and Zhōu,  to calm the troubles of the State Altars, at once with relay stations I extended orders to not approach the [Emperor’s] carriage, but [Chéng] Jì hurriedly entered into the battle lines, so delivering a great change. Grief and distress and pain and regret, my five internal organs broken and torn apart, not knowing on what land I can fall upon. By the law for Grand Treason Without Principles,  father and mother and wives and children and those of the same womb are all beheaded. [Chéng] Jì was vicious and cruel in rebellion, violating the state and disordering coherence, the punishment cannot merely be execution. At once order the Attendant Censor to arrest [Chéng] Jì’s family and dependents to send to the Minister of Justice, to bind and correct the crimes.” <a href="#annotation-29" id="source-29">[29]</a> The Dowager Empress’s Edict said: “Of the crimes that receive the Five Punishments,  none are greater than to not be filial. If someone has a son that is not filial, one should report and punish him. How can this boy again be considered a ruler of men? I am a woman and do not understand Great Principles, and so said that [Chéng] Jì should not be considered Grand Treason. However the General-in-Chief’s intentions are sincere, speaking words sorrowful and mournful, therefore listen to what has been memorialized. Send it down to far and near, to have all know the beginning to end.” <a href="#annotation-30" id="source-30">[30]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+戊申，大將軍文王上言：「高貴鄉公率將從駕人兵，拔刃鳴金鼓向臣所止；懼兵刃相接，即敕將士不得有所傷害，違令以軍法從事。騎督成倅弟太子舍人濟，橫入兵陳傷公，遂至隕命；輒收濟行軍法。臣聞人臣之節，有死無二，事上之義，不敢逃難。前者變故卒至，禍同發機，誠欲委身守死，唯命所裁。然惟本謀乃欲上危皇太后，傾覆宗廟。臣忝當大任，義在安國，懼雖身死，罪責彌重。欲遵伊、周之權，以安社稷之難，即駱驛申敕，不得迫近輦輿，而濟遽入陳間，以致大變。哀怛痛恨，五內摧裂，不知何地可以隕墜？科律大逆無道，父母妻子同產皆斬。濟凶戾悖逆，干國亂紀，罪不容誅。輒敕侍御史收濟家屬，付廷尉，結正其罪。」〔一〕太后詔曰：「夫五刑之罪，莫大於不孝。夫人有子不孝，尚告治之，此兒豈復成人主邪？吾婦人不達大義，以謂濟不得便為大逆也。然大將軍志意懇切，發言惻愴，故聽如所奏。當班下遠近，使知本末也。」〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-29" id="annotation-29">[29]</a> Wèishì Chūnqiū states: Chéng Jì and his brother did not accept the punishment, climbed up to the roof naked, shamefully shouting obscenities. From below they were shot, and so died.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏氏春秋曰：成濟兄弟不即伏罪，袒而升屋，醜言悖慢；自下射之，乃殪。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-30" id="annotation-30">[30]</a> Shìyǔ states: Previously during Qīnglóng [233 – 237], Shí Bāo  sold iron in Cháng’ān, was able to meet Sīmǎ [Yì] Xuān-wáng, [Sīmǎ Yì] Xuān-wáng became aware of him. Later he was selected out to be a Secretariat Writers Cadet, served as Qīng Province Inspector and Defending East General. During Gānlù [256 – 260] he entered Court, was about to return, took leave of the Duke of Gāoguì village, and stayed inside all day. [Sīmǎ Zhāo] Wén-wáng sent someone to intercept him and have him pass by. [Sīmǎ Zhāo] Wén-wáng asked [Shí] Bāo: “Why did you stay so long?” [Shí] Bāo said: “He is no ordinary man.”  The next day he set out and reached Xíngyáng. A few days later the disaster occurred.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　世語曰：初，青龍中，石苞鬻鐵於長安，得見司馬宣王，宣王知焉。後擢為尚書郎，歷青州刺史、鎮東將軍。甘露中入朝，當還，辭高貴鄉公，留中盡日。文王遣人要令過。文王問苞：「何淹留也？」苞曰：「非常人也。」明日發至滎陽，數日而難作。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sixth Moon [260 Jun 26 – Jul 24], Guǐchǒu [260 Jun 26], Edict said: “In antiquity the names and appellations of the lords of men were difficult to violate and easy to avoid. Now the Duke of Chángdào village’s forbidden name and appellation are extremely difficult to avoid,  thus the Court ministers are to widely discuss changing it and present memorials.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+六月癸丑，詔曰：「古者人君之為名字，難犯而易諱。今常道鄉公諱字甚難避，其朝臣博議改易，列奏。」
+:::
+:::
+
+## Jǐngyuán (260 - 263) {#caohuan .unnumbered}
+
+::: {.columns}
+::: {.column width="70%"}
+The King of Chénliú forbidden name Huàn appellation Jǐngmíng  was Emperor Wǔ’s grandson, King of Yān [Cáo] Yǔ’s son.  Gānlù Third Year, enfeoffed as Āncì county’s Chángdào village’s Duke.  The Duke of Gāoguì village died, the Excellencies and Ministers discussed and welcomed to enthrone the Duke. Sixth Moon [260 Jun 26 – Jul 24], Jiǎyín [Jun 27], entered Luòyáng, met the Imperial Dowager Empress, that day ascended the Imperial Emperor’s throne in Tàijí Front Hall, Great Amnesty, changed the Year, bestowed on the people noble titles and grain and silk each on distinct basis.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+陳留王諱奐，字景明，武帝孫，燕王宇子也。甘露三年，封安次縣常道鄉公。高貴鄉公卒，公卿議迎立公。六月甲寅，入于洛陽，見皇太后，是日即皇帝位于太極前殿，大赦，改年，賜民爵及穀帛各有差。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Jǐngyuán Inaugural Year, Summer, Sixth Moon [260 Jun 26 – Jul 24], Bǐngchén [260 Jun 29], advanced General-in-Chief Sīmǎ [Zhāo] Wén-wáng’s rank to Chancellor of State, enfeoffed Duke of Jìn, increased fief by two prefectures, adding to the previous to total ten, applied the gifts of the Nine Bestowments, entirely as in the previous Edict; all his various junior relatives that were not yet Marquesses all were enfeoffed as Marquesses of precincts, bestowed cash of ten million, silk of ten thousand pǐ, [Sīmǎ Zhāo] Wén-wáng firmly declined and so it stopped. Jǐwèi [260 Jul 2], former Hàn Emperor Xiàn’s consort [Cáo] Jié died, the Emperor oversaw [mourning] in Huálín Garden, sending Envoy Holding Stave to posthumously title the consort as Xiàn-Mù Huánghòu.  The burial, chariots and dress regulation systems all followed the Hàn clan precedents. Guǐhài [260 Jul 6], appointed Secretariat Writers Right Deputy Director Wáng Guàn as Excellency of Works. Winter, Tenth Moon, [Wáng] Guàn died.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+景元元年夏六月丙辰，進大將軍司馬文王位為相國，封晉公，增封二郡，并前滿十，加九錫之禮，一如前（奏）〔詔〕；諸群從子弟，其未有侯者皆封亭侯，賜錢千萬，帛萬匹，文王固讓乃止。己未，故漢獻帝夫人節薨，帝臨于華林園，使使持節追諡夫人為獻穆皇后。及葬，車服制度皆如漢氏故事。癸亥，以尚書右僕射王觀為司空，冬十月，觀薨。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eleventh Moon [260 Dec 20 – 261 Jan 17], the King of Yān sent up a memorial of congratulations for the Winter Solstice, calling himself a Servant.  Edict said: “The rulers of antiquity sometimes had those that were not Servants;  the King should follow this principle. Can he in memorials not call himself Servant? Also what should be the reply? One who becomes the posterity for the main clan reduces his treatment of his personal parents; all the more when succeeding one of importance. But if then you are the same as the Servants, also my feelings will not be at ease. Thus all consult the ritual canons standards, to attend to thoroughly finding what is appropriate.” Relevant managers memorialized, believing: “In Rituals none are as esteemed as honoring ancestors, in regulations none are greater than the standard canon. Your Majesty examines virtue by allotted fate, succoring and overseeing the myriad states, succeeding to the importance of the main clan, expanding the foundations of the Three Zǔ.  In prostration we consider that the King of Yān in body is honored as a relation, his correct rank as a vassal subject, he personally maintained reverent respect, compliantly walked in deferential virtue to be an example to the myriad states, his compliance to standard canon, expressing and conveying great obedience, and could not be restrained. The Sagely Court truly should honor him with exceptional regulations, treated with the rituals of not being a Servant. We Your Servants have settled discussions and believe that the King of Yān in Response Memorials can follow the old style. Of the Central Edicts applied, if they are inquiries on wellness, set them by the category of meaning as ‘respect for addressing Yān,’ it can slightly express your sagely respect, increase the lofty ceremonial forms of address, showing that you do not dare presume, and should say: ‘The Imperial Emperor respectfully inquires on the Great King’s attendant managers.’  As for Regulation letters, the state’s standard canon is how the Court distinguishes and displays public systems, announcing and spreading the courses of ceremonies to Heaven’s Under. It is appropriate to adhere to the law, and therefore say: ‘Regulation Edict on the King of Yān.’ Altogether the Edict mandates, Regulation letters, memorializing of affairs, sending up letters in addressing the King of Yān can all use High Level [format].  The affairs not of the Ancestral Temple and assisting sacrifices, all will not call the King by personal name, the memorializing of affairs, sent up letters, written documents, and officials and people are all to not touch on the King’s forbidden name, to make clear his exceptional rituals, above the various lords.  Above it complies with the regulations of the ruler’s canon and honoring ancestors, below it follows your sagely respectful and expansive heart. The two are not transgressed, the ritual truly should be as this, and it can be widely announced and put into effect.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+十一月，燕王上表賀冬至，稱臣。詔曰：「古之王者，或有所不臣，王將宜依此義。表不稱臣乎！又當為報。夫後大宗者，降其私親，況所繼者重邪！若便同之臣妾，亦情所未安。其皆依禮典處，當務盡其宜。」有司奏，以為「禮莫崇于尊祖，制莫大于正典。陛下稽德期運，撫臨萬國，紹大宗之重，隆三祖之基。伏惟燕王體尊戚屬，正位藩服，躬秉虔肅，率蹈恭德以先萬國；其于正典，闡濟大順，所不得制。聖朝誠宜崇以非常之制，奉以不臣之禮。臣等平議以為燕王章表，可聽如舊式。中詔所施，或存好問，準之義類，則『（宴）〔燕〕覿之（族）〔敬〕』也，可少順聖敬，加崇儀稱，示不敢斥，宜曰『皇帝敬問大王侍御』。至于制書，國之正典，朝廷所以辨章公制，宣昭軌儀于天下者也，宜循法，故曰『制詔燕王』。凡詔命、制書、奏事、上書諸稱燕王者，可皆上平。其非宗廟助祭之事，皆不得稱王名，奏事、上書、文書及吏民皆不得觸王諱，以彰殊禮，加于群后。上遵王典尊祖之制，俯順聖敬烝烝之心，二者不愆，禮實宜之，可普告施行。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Twelfth Moon [261 Jan 18 – Feb 16], Jiǎshēn [261 Jan 23], yellow dragon sighted at Huáyīn county inside a well.  Jiǎwǔ [261 Feb 2], appointed Director of Retainers Colonel Wáng Xiáng as Excellency of Works.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+十二月甲申，黃龍見華陰縣井中。甲午，以司隸校尉王祥為司空。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Second Year, Summer, Fifth Moon [261 Jun 15 – Jul 14], first day of the moon, the sun was eclipsed.
+Autumn, Seventh Moon [261 Aug 13 – Sep 11], Lèláng’s outer Yí, Hán and Huìmò, each led their subordinates to come to Court with tribute. 
+Eighth Moon [261 Sep 12 – Oct 10], Wùyín [261 Sep 14], the King of Zhào [Cáo] Gàn died.  Jiǎyín,  again mandated General-in-Chief be advanced in noble title to Duke of Jìn, added rank as Chancellor of State, prepared the gifts of the honored bestowments, all like in previous Edicts. Again he firmly declined and so it stopped.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+二年夏五月朔，日有食之。秋七月，樂浪外夷韓、濊貊各率其屬來朝貢。八月戊寅，趙王幹薨。甲寅，復命大將軍進爵晉公，加位相國，備禮崇錫，一如前詔；又固辭乃止。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Third Year, Spring, Second Moon [262 Mar 8 – Apr 5], green dragon sighted at Zhǐ county inside a well. 
+Summer, Fourth Moon [262 May 6 – Jun 3], Liáodōng prefecture reported that the Sùshèn state had sent envoy with relay translators to enter with tribute, proffering their state’s bows of thirty sets, length three chǐ five cùn, wooden arrows length one chǐ eight cùn, stone crossbows of three hundred sets, leather and bone and iron miscellaneous armor of twenty sets, mink furs of four hundred sets. 
+Winter, Tenth Moon [262 Oct 30 – Nov 28], Shǔ’s chief officer Jiāng Wéi invaded Táoyáng, Defending West General Dèng Ài resisted him, defeated [Jiāng] Wéi at Hóuhé.  [Jiāng] Wéi escaped and fled.
+That year, Edict to sacrifice to former Army Libationer Guō Jiā in Tàizǔ Temple Hall.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+三年春二月，青龍見于軹縣井中。夏四月，遼東郡言肅慎國遣使重譯入貢，獻其國弓三十張，長三尺五寸，楛矢長一尺八寸，石弩三百枚，皮骨鐵雜鎧二十領，貂皮四百枚。冬十月，蜀大將姜維寇洮陽，鎮西將軍鄧艾拒之，破維于侯和，維遁走。是歲，詔祀故軍祭酒郭嘉於太祖廟庭。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fourth Year, Spring, Second Moon [263 Feb 25 – Mar 26], again mandated General-in-Chief [Sīmǎ Zhāo] be advanced in rank and noble title and bestowed all like in previous Edicts, again he firmly declined and so it stopped. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+四年春二月，復命大將軍進位爵賜一如前詔，又固辭乃止。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Summer, Fifth Moon [263 Jun 23 – Jul 22], Edict said: “Shǔ is a petty and small state, its lands narrow and people few, but Jiāng Wéi oppressively uses his multitudes, never once abandoning his ambitions, after years of being defeated, yet he again plows and plants in Tàzhōng,  exploiting the multitudes of Qiāng, conscripting and toiling without end, the people cannot bear his commands. Conquering the weak and attacking the ignorant is an excellent principle of warfare, delivering men but not being delivered to men is the highest strategy of the military schools. What Shǔ relies and depends on is only [Jiāng] Wéi and nothing more, taking advantage of his going far from his nests and caves, employing our strength is easy. Now send Campaigning West General Dèng Ài to command his various armies toward Gānsōng  and Tázhōng to trap and capture [Jiāng] Wéi. Yōng Province Inspector Zhūgě Xù to command his various armies toward Wǔdū and Gāolóu,  head and tail of the suppression. If [Jiāng] Wéi is captured, then east and west together advance, to sweep away and exterminate Bā-Shǔ.” Also mandated Defending West General Zhōng Huì to through Luògǔ attack Shǔ.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+夏五月，詔曰：「蜀，蕞爾小國，土狹民寡，而姜維虐用其眾，曾無廢志；往歲破敗之後，猶復耕種沓中，刻剝眾羌，勞役無已，民不堪命。夫兼弱攻昧，武之善經，致人而不致於人，兵家之上略。蜀所恃賴，唯維而已，因其遠離巢窟，用力為易。今使征西將軍鄧艾督帥諸軍，趣甘松、沓中以羅取維，雍州刺史諸葛緒督諸軍趣武都、高樓，首尾蹵討。若擒維，便當東西並進，掃滅巴蜀也。」又命鎮西將軍鍾會由駱谷伐蜀。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Autumn, Ninth Moon [263 Oct 20 – Nov 17], Grand Commandant Gāo Róu died.
+Winter, Tenth Moon [263 Nov 18 – Dec 17], Jiǎyín [263 Dec 9], again mandated General-in-Chief [Sīmǎ Zhāo] to be advanced in rank and noble title and bestowals all as in previous Edicts. 
+Guǐmǎo [263 Nov 28], enthroned as Imperial Empress Biàn-shì.  Eleventh Moon [263 Dec 18 – 264 Jan 15], Great Amnesty.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+秋九月，太尉高柔薨。冬十月甲寅，復命大將軍進位爵賜一如前詔。癸卯，立皇后卞氏，十一月，大赦。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+From since Dèng Ài and Zhōng Huì led the multitudes to attack Shǔ, wherever they reached was at once conquered.  That moon, Shǔ ruler Liú Shàn visited [Dèng] Ài to surrender. Bā-Shǔ was all pacified. 
+Twelfth Moon [264 Jan 16 – Feb 14], Gēngxū [264 Feb 3], appointed Excellency over the Masses Zhèng Chōng as Grand Protector.  Rénzǐ [264 Feb 5], divided Yì Province to form Liáng Province.  Guǐchǒu [264 Feb 6], specially pardoned Yì Province’s servicemen and civilians, further exempted taxes by half for five years.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+自鄧艾、鍾會率眾伐蜀，所至輒克。是月，蜀主劉禪詣艾降，巴蜀皆平。十二月庚戌，以司徒鄭沖為太保。壬子，分益州為梁州。癸丑，特赦益州士民，復除租賦之半五年。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Yǐmǎo [264 Feb 8], appointed Campaigning West General Dèng Ài as Grand Commandant, Defending West General Zhōng Huì as Excellency over the Masses. The Imperial Dowager Empress passed away.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+乙卯，以征西將軍鄧艾為太尉，鎮西將軍鍾會為司徒。皇太后崩。
 :::
 :::
 
 ## Xiánxī (264 - 265) {.unnumbered}
+
 ::: {.columns}
 ::: {.column width="70%"}
-[TO DO]
+Xiánxī  Inaugural Year, Spring, Standard Moon [264 Feb 15 – Mar 14], Rénxū [264 Feb 15], caged cart summoned Dèng Ài.  Jiǎzǐ [264 Feb 17], [the Emperor] traveled to visit Cháng’ān.  Rénshēn [264 Feb 25], sent envoys with jade rings and silk to sacrifice to Huà mountain.  That moon, Zhōng Huì rebelled in Shǔ, was by the multitudes suppressed, Dèng Ài also was killed. 
+Second Moon [264 Mar 15 – Apr 13], Xīnmǎo [264 Mar 15], specially pardoned all that were in Yì territory. Gēngshēn [264 Apr 13], buried Míng-Yuán Empress Guō. 
+Third Moon [264 Apr 14 – May 12], Dīngchǒu [264 Apr 30], appointed Excellency of Works Wáng Xiáng as Grand Commandant, Campaigning North General Hé Zēng as Excellency over the Masses, Secretariat Writer Left Deputy Director Xún Yǐ as Excellency of Works. Jǐmǎo [264 May 2], advanced the Duke of Jìn’s [Sīmǎ Zhāo’s] noble title to King, enfeoffed ten prefectures, adding to the previous to twenty. <a href="#annotation-31" id="source-31">[31]</a> Dīnghài [264 May 10], enfeoffed Liú Shàn as Duke of Ānlè. 
+Summer, Fifth Moon [264 Jun 12 – Jul 10], Gēngshēn [264 Jun 12], the Chancellor of State and King of Jìn [Sīmǎ Zhāo] memorialized to restore the Five Ranks of Nobility.  Jiǎxū [264 Jun 26], changed the Year. Guǐwèi [264 Jul 5], posthumously mandated that Wǔyáng Marquess Xuān-Wén [Sīmǎ Yì] be Jìn King Xuān, Wǔyāng Marquess Zhōng-Wǔ [Sīmǎ Shī] be Jìn King Jǐng. 
+Sixth Moon [264 Jul 11 – Aug 9], Defending West General Wèi Guàn  sent up a jade ring and seal found by a Yōng Province soldier in Chéngdū county, one of each, the seal’s inscription resembling the characters “Chéng Xìn.”  In accordance with the meaning of Zhōu Chéng-wáng giving over grain,  announced and showed them to the hundred officials and stored them in the Chancellor of State’s office. <a href="#annotation-32" id="source-32">[32]</a>
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-[TO DO]
+咸熙元年春正月壬戌，檻車徵鄧艾。甲子，行幸長安。壬申，使使者以璧幣祀華山。是月，鍾會反于蜀，為眾所討；鄧艾亦見殺。二月辛卯，特赦諸在益土者。庚申，葬明元郭后。三月丁丑，以司空王祥為太尉，征北將軍何曾為司徒，尚書左僕射荀顗為司空。己卯，進晉公爵為王，封十郡，并前二十。〔一〕丁亥，封劉禪為安樂公。夏五月庚申，相國晉王奏復五等爵。甲戌，改年。癸未，追命舞陽宣文侯為晉宣王，舞陽忠武侯為晉景王。六月，鎮西將軍衛瓘上雍州兵于成都縣獲璧玉印各一，印文似「成信」字，依周成王歸禾之義，宣示百官，藏于相國府。〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-31" id="annotation-31">[31]</a> Hàn Jìn Chūnqiū states: The Duke of Jìn had been advanced in noble title to King, Grand Commandant Wáng Xiáng, Excellency over the Masses Hé Zēng, Excellency of Works Xún Yǐ together visited the King. [Xún] Yǐ said: “The Chancellor and King is esteemed and valued, Marquess Hé [Zēng] and the ministers of the entire Court already are all exhaustively respectful. Today then when we face him together we should bow. Have no doubts.” [Wáng] Xiáng said: “The Chancellor of State’s rank is powerful, truly honored and respected; however he is Wèi’s prime minister, and we are Wèi’s Three Excellencies. Excellency and King are separated by one step and nothing more. In the ranking and organization of all society, how can it be that Heaven’s Son’s Three Excellencies can bow to someone? It will decrease the prestige of the Wèi Court and damage the virtue of the King of Jìn. A noble man cares for men through ritual. I will not do it.” When they entered, [Xún] Yǐ therefore bowed, but [Wáng] Xiáng alone only saluted.  The King spoke to [Wáng] Xiáng saying: “From today afterward I understand the heaviness of how you consider me.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　漢晉春秋曰：晉公既進爵為王，太尉王祥、司徒何曾、司空荀顗並詣王。顗曰：「相王尊重，何侯與一朝之臣皆已盡敬，今日便當相率而拜，無所疑也。」祥曰：「相國位勢，誠為尊貴，然要是魏之宰相，吾等魏之三公；公、王相去，一階而已，班列大同，安有天子三公可輒拜人者！損魏朝之望，虧晉王之德，君子愛人以禮，吾不為也。」及入，顗遂拜，而祥獨長揖。王謂祥曰：「今日然後知君見顧之重！」
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-32" id="annotation-32">[32]</a> Sūn Shèng states: In the past Gōngsūn Shù because he rose in Chéngdū declared Chéng. The inscriptions of the two jades probably was made by [Gōngsūn] Shù.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　孫盛曰：昔公孫述自以起成都，號曰成。二玉之文，殆述所作也。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Previously, from since after the pacification of Shǔ, Wú invaders garrisoned and pressured Yǒng’ān.  Sent the various armies of Jīng and Yù [provinces] to drag and horn as rescue.  Seventh Moon [264 Aug 10 – Sep 7], the rebels all escaped and retreated.
+Eighth Moon [264 Sep 8 – Oct 7], Gēngyín [264 Sep 10], mandated that Central Succorer of the Army Sīmǎ Yán assist as aide to Chancellor of State affairs, to agree with the meaning of the Duke of Lǔ being appointed afterward. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+初，自平蜀之後，吳寇屯逼永安，遣荊、豫諸軍掎角赴救。七月，賊皆遁退。八月庚寅，命中撫軍司馬炎副貳相國事，以同魯公拜後之義。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Guǐsì [264 Sep 13], Edict said: “Formerly the traitor minister Zhōng Huì created rebellion and chaos, assembling the campaign officers and soldiers, forcing them with military power, beginning to spit out villainous plots, speaking out cruel treachery, pressuring and coercing the multitudes, having them all send down discussions, in the sudden hurried interval, none were not frightened and intimidated. The Chancellor of State’s Left Major Xiàhóu Hé,  Cavalry Soldiers Department Associate Zhū Fǔ  at the time were sent to Chéngdū, Central Manager of the Army’s Major Jiǎ Fǔ  and Cadet Central Yáng Xiù  each were participating in military affairs. [Xiàhóu] Hé, [Yáng] Xiù, [Zhū] Fǔ all resisted in integrity and would not yield, refusing [Zhōng] Huì’s vicious words, faced danger with no concerns, statement and direction upright and stern. [Jiǎ] Fǔ spoke to surplus officer Wáng Qǐ  saying: ‘[Zhōng] Huì is treacherous and brutal, wishing to completely kill the officers and soldiers.’ He also said: ‘The Chancellor of State has already led multitudes of three hundred thousand to travel west to suppress [Zhōng] Huì,’ wishing to by this exaggerate the situation to encourage the hearts of the masses. [Wáng] Qǐ went out, and had [Jiǎ] Fǔ’s words announced and told to the various armies, and therefore had the officers and soldiers increased in their thoughts of exertion and encouragement. It is appropriate to apply prominent favor, to make clear the loyalty and righteousness. Thus advance [Xiàhóu] Hé and [Jiǎ] Fǔ in noble title to Marquesses of villages, [Yáng] Xiù and [Zhū] Fǔ in noble title to Marquesses Within the Passes. [Wáng] Qǐ spread and passed [Jiǎ] Fǔ’s words, informing the officers and soldiers, and should have exceptional rewards. Thus appoint [Wáng] Qǐ as Division Retainer Officer.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+癸巳，詔曰：「前逆臣鍾會構造反亂，聚集征行將士，劫以兵威，始吐姦謀，發言桀逆，逼脅眾人，皆使下議，倉卒之際，莫不驚懾。相國左司馬夏侯和、騎士曹屬朱撫時使在成都，中領軍司馬賈輔、郎中羊琇各參會軍事；和、琇、撫皆抗節不撓，拒會凶言，臨危不顧，詞指正烈。輔語散將王起，說『會姦逆凶暴，欲盡殺將士』，又云『相國已率三十萬眾西行討會』，欲以稱張形勢，感激眾心。起出，以輔言宣語諸軍，遂使將士益懷奮勵。宜加顯寵，以彰忠義。其進和、輔爵為鄉侯，琇、撫爵關內侯。起宣傳輔言，告令將士，所宜賞異。其以起為部曲將。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Guǐmǎo [264 Sep 23], appointed Guard General Sīmǎ Wàng as Agile Cavalry General. Ninth Moon [264 Oct 8 – Nov 5], Wùwǔ [264 Oct 8], appointed Central Succorer of the Army Sīmǎ Yán as Succoring Army General-in-Chief.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+癸卯，以衛將軍司馬望為驃騎將軍。九月戊午，以中撫軍司馬炎為撫軍大將軍。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Xīnwèi [264 Oct 21], Edict said: “The Wú rebels’ government and punishments are oppressive and cruel, taxation and exploitation without limit. Sūn Xiū  sent envoy Dèng Gōu  to order the Jiāozhǐ Administrator  to use chains to send its people, to mobilize into soldiers. Wú officer Lǚ Xīng  because the hearts of the people were enraged, and also as the ruler’s brigades had pacified and settled Bā-Shǔ, at once joined together towering heroes, executing and eliminating [Dèng] Gōu and the rest, expelling the Administrator and chief clerks, succoring and harmonizing the officials and people, to wait for the state’s commands.  Jiǔzhēn and Rìnán prefectures heard that [Lǚ] Xīng had left rebellion to join obedience,  and also joined hearts in answer, with [Lǚ] Xīng uniting together. [Lǚ] Xīng sent letters to Rìnán provinces and prefectures, spreading and showing great plans, soldiers overlooking Hépǔ,  informing them of disasters and fortunes, sent Commandant Táng Pǔ and others to visit Jìnchéng county,  and therefore Nánzhōng Overall Commander and Protector of the Army Huò Yì  sent up the memorial explaining himself. Also Jiāozhǐ officers and officials each sent up memorials, saying: ‘[Lǚ] Xīng began the enterprise, large and small follow his commands. The prefecture has mountain bandits entering to join the various prefectures, fear that their intentions differ, each having doubts of betrayal. For the time being it is appropriate to appoint [Lǚ] Xīng as Commander of Jiāozhǐ’s various military affairs, Upper General-in-Chief, Marquess of Dìng’ān county.  We beg for bestowal of commendations and rewards, to reassure the desolate borders.’ The heartfelt sincerity took form in these statements. In the past Yífù attended Court in Lǔ and the Chūnqiū deemed it beautiful,  Dòu Róng submitted to Hàn and was treated with exceptional courtesy.  Now the state’s authority shakes the distant, succoring and embracing the Six Directions, about to roll up the frontiers, unite as one the four borders. [Lǚ] Xīng turns his head toward the ruler’s influence, leading multitudes to bow and submit, across ten thousand lǐ hurrying to righteousness, requesting official and serving duties, and should be applied favorable treatment, esteemed with noble title and rank. This will allow [Lǚ] Xīng and the rest to embrace loyalty and feel joy, distant men to hear of it, and certainly all will be encouraged. Thus appoint [Lǚ] Xīng as Envoy Holding Stave, Overall Commander of Jiāo Province’s various military affairs, Nánzhōng General-in-Chief, enfeoffed Marquess of Dìng’ān county, able to by the suitability of affairs first act and only afterward send up report.” The conferment mandate had not yet arrived, [Lǚ] Xīng was killed by his subordinates.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+辛未，詔曰：「吳賊政刑暴虐，賦斂無極。孫休遣使鄧句，敕交阯太守鎖送其民，發以為兵。吳將呂興因民心憤怒，又承王師平定巴蜀，即糾合豪傑，誅除句等，驅逐太守長吏，撫和吏民，以待國命。九真、日南郡聞興去逆即順，亦齊心響應，與興協同。興移書日南州郡，開示大計，兵臨合浦，告以禍福；遣都尉唐譜等詣進乘縣，因南中都督護軍霍弋上表自陳。又交阯將吏各上表，言『興創造事業，大小承命。郡有山寇，入連諸郡，懼其計異，各有攜貳。權時之宜，以興為督交阯諸軍事、上大將軍、定安縣侯，乞賜褒獎，以慰邊荒』。乃心款誠，形于辭旨。昔儀父朝魯，春秋所美；竇融歸漢，待以殊禮。今國威遠震，撫懷六合，方包舉殊裔，混一四表。興首向王化，舉眾稽服，萬里馳義，請吏帥職，宜加寵遇，崇其爵位。既使興等懷忠感悅，遠人聞之，必皆競勸。其以興為使持節、都督交州諸軍事、南中大將軍，封定安縣侯，得以便宜從事，先行後上。」策命未至，興為下人所殺。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Winter, Tenth Moon [264 Nov 6 – Dec 5], Dīnghài [264 Nov 6], Edict said: “In the past the sagely emperors and enlightened kings pacified chaos and relieved the world, protected the important and settled achievement.  The civil and the military are different in application, but the merits and exploits are the same. Therefore some danced with shield and ax to admonish those that would not submit,  some lined up brigades and regiments to awe the cruel and arrogant. As for loving the people and preserving the state, giving kindness to all sorts, certainly one must first cultivate culture and instruction, show them the proper course, when one has no other alternative and only then using troops, this is the same for all flourishing virtue. Formerly the end of Hàn was divided and collapsed, the nine lands  overturned, Liú Bèi and Sūn Quán took advantage of the openings to create calamities. The Three Zǔ pacified the central Xià,  but were not given enough days, and therefore allowed the remnant bandits to usurp and rebel for successive generations. By good fortune relying on the authoritative spirits of the Ancestral Temple, the governing assistant’s [Sīmǎ Zhāo’s] loyalty and martial power then spreading to the Four Quarters, opening and subduing Yōng and Shǔ,  the campaign did not take a season,  one expedition and then success. Since shortly ago the Jiāng’s exterior is declined and weakened, government and punishment desolate and ignorant, with Bā and Hàn pacified and settled,  isolated and endangered without support, Jiāo, Jīng, Yáng, Yuè  are thus turning to our influence. Now Jiāozhǐ false officer Lǚ Xīng  already commanded three prefectures, across ten thousand lǐ submitted to the mandate, Wǔlíng’s fief Marquess’s Chancellor Yán and others joined together five counties,  requesting to be servant and subject. Yùzhāng’s and Lúlíng’s mountain peoples led multitudes to rebel against Wú, taking Assisting North General as title.  Also Sūn Xiū of illness died, the ruler and commanders changed, the state’s interior disordered and rebellious, each person having their own intentions.  False officer Shī Jì, the rebel’s famed minister, is suspicious and doubtful of himself, deeply meeting with fear and hatred.  The multitudes are rebelling and the close are deserting, none have firm wills, from antiquity to the present, there has never been signs of destruction as extreme as this. If the Six Armies shake and dazzle, to the south overlooking the Jiāng and Hàn, the region of Wú and Kuài  certainly would support their old and carry their young to welcome the ruler’s brigades, an inevitable result. However raising and mobilizing great multitudes yet has labors and costs, it is appropriate to announce and explain power and virtue, openly demonstrate benevolence and faith, to allow them to understand the advantages of obedience and unification. Chancellor of State’s Advisor to Army affairs Xú Shào  and River Department Official Sūn Yù  in the past were at Shòuchūn, both met with capture.  [Xú] Shào originally was false Nánlíng Commander,  talent and character open and strong. [Sūn] Yù is Sūn Quán’s branch relation,  loyal and good and discerning in affairs. Thus send [Xú] Shào south to return, with [Sūn] Yù as his aide, to spread and declare the state’s commands, inform and explain to the Wú men, all that is to be revealed and spoken of is all to be by the facts. If they are informed and aware, it will not damage the planning for campaigns; overall the temple victory’s  far-reaching calculation is the way since antiquity. Thus appoint [Xú] Shào as concurrent Cavalier Regular Attendant, added Serving Chariots Commandant, enfeoffed a city precinct Marquess, [Sūn] Yù as concurrent Dispensing Affairs Yellow Gate Attendant Cadet, bestowed noble title as Marquess Within the Passes. The concubines bestowed on [Xú] Shào and the rest, with the male and female family servants that are here, are to all be permitted to accompany them, to make clear the state’s grace, and they are not required to return, to widely spread great faith.”
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+冬十月丁亥，詔曰：「昔聖帝明王，靜亂濟世，保大定功，文武殊塗，勳烈同歸。是故或舞干戚以訓不庭，或陳師旅以威暴慢。至于愛民全國，康惠庶類，必先脩文教，示之軌儀，不得已然後用兵，此盛德之所同也。往者季漢分崩，九土顛覆，劉備、孫權乘間作禍。三祖綏寧中夏，日不暇給，遂使遺寇僭逆歷世。幸賴宗廟威靈，宰輔忠武，爰發四方，拓定庸、蜀，役不浹時，一征而克。自頃江表衰弊，政刑荒闇，巴、漢平定，孤危無援，交、荊、揚、越，靡然向風。今交阯偽將呂興已帥三郡，萬里歸命；武陵邑侯相嚴等糾合五縣，請為臣妾；豫章廬陵山民舉眾叛吳，以助北將軍為號。又孫休病死，主帥改易，國內乖違，人各有心。偽將施績，賊之名臣，懷疑自猜，深見忌惡。眾叛親離，莫有固志，自古及今，未有亡徵若此之甚。若六軍震曜，南臨江、漢，吳會之域必扶老攜幼以迎王師，必然之理也。然興動大眾，猶有勞費，宜告喻威德，開示仁信，使知順附和同之利。相國參軍事徐紹、水曹掾孫彧，昔在壽春，並見虜獲。紹本偽南陵督，才質開壯；彧，孫權支屬，忠良見事。其遣紹南還，以彧為副，宣揚國命，告喻吳人，諸所示語，皆以事實，若其覺悟，不損征伐之計，蓋廟勝長算，自古之道也。其以紹兼散騎常侍，加奉車都尉，封都亭侯；彧兼給事黃門侍郎，賜爵關內侯。紹等所賜妾及男女家人在此者，悉聽自隨，以明國恩，不必使還，以開廣大信。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Bǐngwǔ [264 Nov 25], mandated Succoring Army General-in-Chief and Marquess of Xīnchāng village [Sīmǎ] Yán be Jìn’s Heir Presumptive.  That year, abolished Garrison Farm offices to standardize government and conscription, all the Managers of Agriculture all became Administrators, Commandants all became Magistrates and Chiefs.  Encouraged and recruited Shǔ men that were able to move inward to be given government grain for two years, further exempted twenty years. Ānmí, Fúlù counties each reported Auspicious Grain growing. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+丙午，命撫軍大將軍新昌鄉侯炎為晉世子。是歲，罷屯田官以均政役，諸典農皆為太守，都尉皆為令長；勸募蜀人能內移者，給廩二年，復除二十歲。安彌、福祿縣各言嘉禾生。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Second Year, Spring, Second Moon [265 Mar 5 – Apr 2], Jiǎchén [265 Mar 23], Qúrěn county caught a Spirit Turtle to proffer, submitted it to the Chancellor of State’s office.  Gēngxū [265 Mar 29], as Tiger Elite Zhāng Xiū had in the past at Chéngdū rode quick horse to the various camps to warn of Zhōng Huì's rebellion, and in the end lost his life, bestowed on [Zhāng] Xiū's younger brother Zhāng Yǐ noble title as Marquess Within the Passes. 
+Summer, Fourth Moon [265 May 3 – May 31] Nánshēnzé county reported Sweet Dew falling.  Wú sent envoys Jǐ Zhì and Hóng Qiú to ask for peace.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+二年春二月甲辰，朐〈月忍〉縣獲靈龜以獻，歸之于相國府。庚戌，以虎賁張脩昔於成都馳馬至諸營言鍾會反逆，以至沒身，賜脩弟倚爵關內侯。夏四月，南深澤縣言甘露降。吳遣使紀陟、弘璆請和。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Fifth Moon [265 Jun 1 – Jun 30], Edict said: “The Chancellor of State and King of Jìn [Sīmǎ Zhāo] widely spreads divine considerations, radiance covering the Four Seas, in shaking and dazzling martial achievements, then his power covers separate desolations, in flowing and striding influence, then he contacts with no exterior. Grieving and sympathizing with the Jiāng’s exterior,  he attends to giving relief and nurturing, restraining warfare to esteem benevolence, demonstrating it with power and virtue. Where his written declaration was applied, receiving the influence they turned to admiration, sending envoy to offer tribute, to make clear their submission to obedience, regional gems and exquisite treasures, joyfully demonstrating their intentions. But the King is of utmost modesty, it was all entirely registered and sent. This is not how to reassure and support the newly attached and follow their earnest wishes. All that Sūn Hào  has proffered and delivered is all to be returned and sent back to the King, to accord with ancient principles.”  The King firmly declined and so it stopped. Also mandated that the King of Jìn use cap of ten and two tassels, establish the banners and flags of Heaven’s Son, announce to clear the way when exiting and entering, ride Gold Root chariot of Six Horses, equipped with Five Seasons escort chariots, install banner leaders and streamer followers,  music and dancers of Eight Rows, establish Bells and Stands hanging at his Palace.  Advanced the King’s consort to Royal Queen, Heir Presumptive to Heir-Apparent, the King’s sons, King’s daughters, King’s grandsons were mandated noble titles following the old ceremonies. Guǐwèi [265 Jun 30], Great Amnesty.
+Autumn, Eighth Moon [265 Aug 29 – Sep 26], Xīnmǎo [265 Sep 6], Chancellor of State and King of Jìn [Sīmǎ Zhāo] died. Rénchén [265 Sep 7], Jìn Heir-Apparent [Sīmǎ] Yán succeeded the fief and inherited the rank, taking command over all the officials, over all materials and conferment, all entirely as before. That Moon, Xiāngwǔ county reported a giant man sighting, over three zhàng in height, footprints three chǐ two cùn, white haired, wearing yellow single robe, yellow headscarf, leaning on a staff, who called to civilian Wáng Shǐ saying: “Now there will be Grand Peace.” 
+Ninth Moon [265 Sep 27 – Oct 26], Yǐwèi,  Great Amnesty. Wùwǔ [265 Oct 3], Excellency over the Masses Hé Zēng became Jìn’s Assistant Chancellor. Guǐhài [265 Oct 8], appointed Agile Cavalry General Sīmǎ Wàng as Excellency over the Masses, Campaigning East General-in-Chief Shí Bāo as Agile Cavalry General, Campaigning South General-in-Chief Chén Qiān as Chariots and Cavalry General. Yǐhài [265 Oct 20], buried Jìn King Wén [Sīmǎ Zhāo]. 
+Intercalary Moon [265 Dec 25 – 266 Jan 22], Gēngchén [265 Dec 24], the Kāngjū and Dàyuān presented tribute of famed horses, submitted to the Chancellor of State’s Office, to make clear the merit of embracing myriad states and attracting the distant. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+五月，詔曰：「相國晉王誕敷神慮，光被四海；震燿武功，則威蓋殊荒，流風邁化，則旁洽無外。愍卹江表，務存濟育，戢武崇仁，示以威德。文告所加，承風嚮慕，遣使納獻，以明委順，方寶纖珍，歡以效意。而王謙讓之至，一皆簿送，非所以慰副初附，從其款願也。孫皓諸所獻致，其皆還送，歸之于王，以協古義。」王固辭乃止。又命晉王冕十有二旒，建天子旌旗，出警入蹕，乘金根車、六馬，備五時副車，置旄頭雲罕，樂舞八佾，設鐘虡宮縣。進王妃為王后，世子為太子，王子、王女、王孫，爵命之號如舊儀。癸未，大赦。秋八月辛卯，相國晉王薨。壬辰，晉太子炎紹封襲位，總攝百揆，備物典冊，一皆如前。是月，襄武縣言有大人見，〔長〕三丈餘，跡長三尺二寸，白髮，著黃單衣，黃巾，柱杖，呼民王始語云：「今當太平。」九月乙未，大赦。戊午，司徒何曾為晉丞相。癸亥，以驃騎將軍司馬望為司徒，征東大將軍石苞為驃騎將軍，征南大將軍陳騫為車騎將軍。乙亥，葬晉文王。閏月庚辰，康居、大宛獻名馬，歸于相國府，以顯懷萬國致遠之勳。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Twelfth Moon [266 Jan 23 – Feb 21], Rénxū [266 Feb 4], Heaven’s blessings forever ended, the calendar calculations were on Jìn. Edict on the various Excellencies and Ministers and servicemen to prepare the ceremonies and establish a stage in the South Suburbs, sending envoy to present the Imperial Emperor Ruler’s Seal and Ribbon and conferment, abdicating the throne to the Jìn successor King [Sīmǎ Yán], following the Hàn-Wèi precedent.  Jiǎzǐ [266 Feb 6], sent envoy to present the conferment. Therefore changed residence to Jīnyōng city, and in the end housed at Yè,  at the time his years twenty. <a href="#annotation-33" id="source-33">[33]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+十二月壬戌，天祿永終，曆數在晉。詔群公卿士具儀設壇于南郊，使使者奉皇帝璽綬冊，禪位于晉嗣王，如漢魏故事。甲子，使使者奉策。遂改次于金墉城，而終館于鄴，時年二十。〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-33" id="annotation-33">[33]</a> Wèi Shìpǔ states: Enfeoffed the Emperor as King of Chénliú. His years fifty-eight, Dà’ān Inaugural Year [302] passed away, posthumous name Yuán Huángdì.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏世譜曰：封帝為陳留王。年五十八，大安元年崩，諡曰元皇帝。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Appraisal states: In antiquity as Heaven’s Under is public,  only by virtue was it shared. Later eras inherited ranks, enthroning sons as heirs. If the hereditary succession was not continued, then it is appropriate to select a close relative of enlightenment and virtue, like Hàn’s Wén and Xuān.  This is an unchanging constant standard. Emperor Míng [Cáo Ruì] did not do this, his feelings clung to personal affection, adopting and raising an infant, passing on the great vessels,  the entrustment was not focused, insisted on including the branch clans, and in the end Cáo Shuǎng was executed and exterminated, the King of Qí [Cáo Fāng] replaced on the throne. The Duke of Gāoguì village [Cáo Máo] was talented and intelligent and early to mature, enjoyed inquiry and valued literature, overall also having Emperor Wén’s [Cáo Pī’s] manner and legacy, however he was reckless and impatient, angered and unrestrained, and brought on himself great disaster. The King of Chénliú [Cáo Huàn] was himself deferential in facing south,  the governing assistant [Sīmǎ Zhāo] controlled the government, looking up to comply with previous forms, he saluted and yielded and so abdicated, therefore enjoying fief of a large state, becoming the Guest to Jìn.  Compared to Shānyáng, the treatment and favor was greater.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+評曰：古者以天下為公，唯賢是與。後代世位，立子以適；若適嗣不繼，則宜取旁親明德，若漢之文、宣者，斯不易之常準也。明帝既不能然，情繫私愛，撫養嬰孩，傳以大器，託付不專，必參枝族，終于曹爽誅夷，齊王替位。高貴公才慧夙成，好問尚辭，蓋亦文帝之風流也；然輕躁忿肆，自蹈大禍。陳留王恭己南面，宰輔統政，仰遵前式，揖讓而禪，遂饗封大國，作賓于晉，比之山陽，班寵有加焉。 
 :::
 :::
