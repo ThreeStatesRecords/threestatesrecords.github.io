@@ -2,45 +2,99 @@
 
 This is an in-progress book of translations.
 
-Progress: [5/65]
+Progress: [6/65]
 
-1. Annals of Emperor Wǔ 武帝紀
-    a. [Cáo Cāo 曹操](1wei/01.qmd#caocao)
-        + [Cáo Téng](1wei/01.qmd#caoteng)
-        + [Cáo Sōng](1wei/01.qmd#caosong)
-2. Annals of Emperor Wén 文帝紀
-    a. [Cáo Pī 曹丕](1wei/02.qmd#caopi)
-3. Annals of Emperor Míng 明帝紀
-    a. [Cáo Ruì 曹叡](1wei/03.qmd#caorui)
-        + [Hǎo Zhāo 郝昭](1wei/03.qmd#haozhao)
-        + [Qín Lǎng 秦朗](1wei/03.qmd#qinlang)
-4. Annals of Three Young Emperors 三少帝紀
-    a. [Cáo Fāng 曹芳](1wei/04.qmd#caofang)
-        + [Zhāng Tè 張特](1wei/04.qmd#zhangte)
-        + [Guō Xiū 郭脩](1wei/04.qmd#guoxiu)
-    b. [Cáo Máo 曹髦](1wei/04.qmd#caomao)
-        + [Yīng Yú 應余](1wei/04.qmd#yingyu)
-        + [Zhèng Xiǎotóng 鄭小同](1wei/04.qmd#zhengxiaotong)
-    c. [Cáo Huàn 曹奐](1wei/04.qmd#caohuan)
-5. Biographies of Empresses and Consorts 后妃傳
-    a. [Biàn 卞](1wei/05.qmd#wuxuan)
-        + [Dīng 丁](1wei/05.qmd#dingshi)
-        + [Biàn Bǐng 卞秉](1wei/05.qmd#bianbing)
-        + [Biàn Lán 卞蘭](1wei/05.qmd#bianlan)
-        + [Cáo Máo's Empress Biàn 卞](1wei/05.qmd#caomaobian)
-        + [Cáo Huàn's Empress Biàn 卞](1wei/05.qmd#caohuanbian)
-    b. [Zhēn 甄](1wei/05.qmd#wenzhao)
-        + [Zhēn Dé 甄德](1wei/05.qmd#zhende)
-        + [Cáo Fāng's Empress Zhēn 甄](1wei/05.qmd#caofangzhen)
-    c. [Guō 郭](1wei/05.qmd#wende)
-        + [Guō Biǎo 郭表](1wei/05.qmd#guobiao)
-        + [Mèng Wǔ 孟武](1wei/05.qmd#mengwu)
-    d. [Máo 毛](1wei/05.qmd#mingdao)
-        + [Máo Jiā 毛嘉](1wei/05.qmd#maojia)
-        + [Máo Zēng 毛曾](1wei/05.qmd#maozeng)
-    e. [Guō 郭](1wei/05.qmd#mingyuan)
-        + [Guō Jiàn 郭建](1wei/05.qmd#guojian)
-6. Dǒng Zhuó (Lǐ Jué, Guō Sì, Mǎ Téng, Hán Suì), Yuán Shào (Tán, Xī, Shàng), Yuán Shù, Liú Biǎo
+### 1 Annals of Emperor Wǔ
+武帝紀
+
++ [Cáo Cāo 曹操](1wei/01.qmd#caocao)
+    + [grandfather Cáo Téng 曹騰](1wei/01.qmd#caoteng)
+    + [father Cáo Sōng 曹嵩](1wei/01.qmd#caosong)
+
+### 2 Annals of Emperor Wén
+文帝紀
+
++ [Cáo Pī 曹丕](1wei/02.qmd#caopi)
+
+### 3 Annals of Emperor Míng
+明帝紀
+
++ [Cáo Ruì 曹叡](1wei/03.qmd#caorui)
+     + [Hǎo Zhāo 郝昭](1wei/03.qmd#haozhao)
+     + [Qín Lǎng 秦朗](1wei/03.qmd#qinlang)
+
+### 4 Annals of Three Young Emperors
+三少帝紀
+
++ [Cáo Fāng 曹芳](1wei/04.qmd#caofang)
+    + [Zhāng Tè 張特](1wei/04.qmd#zhangte)
+    + [Guō Xiū 郭脩](1wei/04.qmd#guoxiu)
++ [Cáo Máo 曹髦](1wei/04.qmd#caomao)
+     + [Yīng Yú 應余](1wei/04.qmd#yingyu)
+     + [Zhèng Xiǎotóng 鄭小同](1wei/04.qmd#zhengxiaotong)
++ [Cáo Huàn 曹奐](1wei/04.qmd#caohuan)
+
+### 5 Biographies of Empresses and Consorts
+后妃傳
+
++ [Biàn 卞](1wei/05.qmd#wuxuan)
+     + [Dīng 丁](1wei/05.qmd#dingshi)
+     + [younger brother Biàn Bǐng 卞秉](1wei/05.qmd#bianbing)
+     + [younger brother's son Biàn Lán 卞蘭](1wei/05.qmd#bianlan)
+     + [younger brother's great-granddaughter Cáo Máo's Empress Biàn 卞](1wei/05.qmd#caomaobian)
+     + [younger brother's granddaughter Cáo Huàn's Empress Biàn 卞](1wei/05.qmd#caohuanbian)
++ [Zhēn 甄](1wei/05.qmd#wenzhao)
+    + [cousin's grandson's adopted heir Zhēn Dé 甄德](1wei/05.qmd#zhende)
+    + [elder brother's granddaughter Cáo Fāng's Empress Zhēn 甄](1wei/05.qmd#caofangzhen)
++ [Guō 郭](1wei/05.qmd#wende)
+    + [elder cousin Guō Biǎo 郭表](1wei/05.qmd#guobiao)
+    + [elder sister's son Mèng Wǔ 孟武](1wei/05.qmd#mengwu)
++ [Máo 毛](1wei/05.qmd#mingdao)
+    + [father Máo Jiā 毛嘉](1wei/05.qmd#maojia)
+    + [younger brother Máo Zēng 毛曾](1wei/05.qmd#maozeng)
++ [Guō 郭](1wei/05.qmd#mingyuan)
+    + [father's younger brother's son Guō Jiàn 郭建](1wei/05.qmd#guojian)
+
+### 6 Biographies of Dŏng, Two Yuán, Liú
+董二袁劉傳
+
++ [Dǒng Zhuó 董卓](1wei/06.qmd#dongzhuo)
+    + [Hé Jìn 何進](1wei/06.qmd#hejin)
+    + [Hé Miáo 何苗](1wei/06.qmd#hemiao)
+    + [daughter's husband Niú Fǔ 牛輔](1wei/06.qmd#niufu)
+    + [Lǐ Jué 李傕](1wei/06.qmd#lijue)
+    + [Guō Sì 郭汜](1wei/06.qmd#guosi)
+    + [Mǎ Téng 馬騰](1wei/06.qmd#mateng)
+    + [Hán Suì 韓遂](1wei/06.qmd#hansui)
+    + [Yáng Fèng 楊奉](1wei/06.qmd#yangfenghanxian)
+    + [Hán Xiān 韓暹](1wei/06.qmd#yangfenghanxian)
++ [Yuán Shào 袁紹](1wei/06.qmd#yuanshao)
+    + [son Yuán Tán](1wei/06.qmd#yuantan)
+    + [son Yuán Xī](1wei/06.qmd#yuanxi)
+    + [son Yuán Shàng](1wei/06.qmd#yuanshang)
+    + [Jū Shòu 沮授](1wei/06.qmd#jushou)
+    + [Húmǔ Bān 胡毋班](1wei/06.qmd#humuban)
+    + [Qū Yì 麴義](1wei/06.qmd#quyi)
+    + [Guō Tú 郭圖](1wei/06.qmd#guotu)
+    + [Tián Fēng 田豐](1wei/06.qmd#tianfeng)
+    + [Páng Jì 逢紀](1wei/06.qmd#pangji)
+    + [Shěn Pèi 審配](1wei/06.qmd#shenpei)
+    + [Hán Héng 韓珩](1wei/06.qmd#hanheng)
++ [Yuán Shù 袁術](1wei/06.qmd#yuanshu)
+    + [son Yuán Yào 袁燿](1wei/06.qmd#yuanyao)
+    + [Chén Wēn 陳溫](1wei/06.qmd#chenwen)
+    + [Mǎ Mìdī 馬日磾](1wei/06.qmd#mamidi)
+    + [Chén Guī 陳珪](1wei/06.qmd#chengui)
++ [Liú Biǎo 劉表](1wei/06.qmd#liubiao)
+    + [son Liú Qí](1wei/06.qmd#liuqi)
+    + [son Liú Cóng](1wei/06.qmd#liucong)
+    + [Zhāng Xiàn 張羨](1wei/06.qmd#zhangxian)
+    + [Fù Xùn 傅巽](1wei/06.qmd#fuxun)
+    + [Kuǎi Yuè 蒯越](1wei/06.qmd#kuaiyue)
+    + [Hán Sōng 韓嵩](1wei/06.qmd#hansong)
+    + [Dèng Xī 鄧羲](1wei/06.qmd#dengxi)
+    + [Liú Xiān 劉先](1wei/06.qmd#liuxian)
+
 7. Lǚ Bù (Zhāng Miǎo, Chén Gōng, Chén Dēng), Zāng Hóng
 8. Gōngsūn Zàn (Liú Yù), Táo Qiān, Zhāng Yáng, Gōngsūn Dù (Kāng), Zhāng Yān, Zhāng Xiù, Zhāng Lŭ
 9. Xiàhóu Dūn (Hán Hào, Shǐ Huàn), Xiàhóu Yuān (Bà), Cáo Rén (Chún), Cáo Hóng, Cáo Xiū, Cáo Zhēn (Shuǎng), Xiàhóu Shàng (Xuán)
