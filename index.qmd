@@ -95,7 +95,16 @@ Progress: [6/65]
     + [Dèng Xī 鄧羲](1wei/06.qmd#dengxi)
     + [Liú Xiān 劉先](1wei/06.qmd#liuxian)
 
-7. Lǚ Bù (Zhāng Miǎo, Chén Gōng, Chén Dēng), Zāng Hóng
+### 7 Biographies of Lǚ Bù, Zāng Hóng
+呂布臧洪傳
+
++ [Lǚ Bù 呂布](1wei/07.qmd#lvbu)
+    + [Zhāng Miǎo 張邈](1wei/07.qmd#zhangmiao)
+    + [Chén Gōng 陳宮](1wei/07.qmd#chengong)
+    + [Chén Dēng 陳登](1wei/07.qmd#chendeng)
++ [Zāng Hóng 臧洪](1wei/07.qmd#zanghong)
+    + [Chén Róng 陳容](1wei/07.qmd#chenrong)
+
 8. Gōngsūn Zàn (Liú Yù), Táo Qiān, Zhāng Yáng, Gōngsūn Dù (Kāng), Zhāng Yān, Zhāng Xiù, Zhāng Lŭ
 9. Xiàhóu Dūn (Hán Hào, Shǐ Huàn), Xiàhóu Yuān (Bà), Cáo Rén (Chún), Cáo Hóng, Cáo Xiū, Cáo Zhēn (Shuǎng), Xiàhóu Shàng (Xuán)
 10. Xún Yù, Xún Yōu, Jiǎ Xǔ
