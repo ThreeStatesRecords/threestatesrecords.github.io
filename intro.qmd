@@ -1,3 +1,13 @@
 # Introduction {.unnumbered}
 
-This is a book created from markdown.
+This is an in-progress annotated translation of the Sān Guó zhì of Chén Shòu with the canonical annotations of Péi Sōngzhī.
+
+## Roadmap
+
+1. Complete first pass through all 65 chapters.
+2. Second pass through to add annotations and fix errors.
+3. Once book stabilizes, release a hardcover book.
+
+## Support
+
+Before the final book release, PDF ebooks of partial sections are available for sale. All proceeds from these ebook sales are used to pay for project expenses such as web hosting and electricity.

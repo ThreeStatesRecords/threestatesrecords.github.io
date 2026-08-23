@@ -1,8 +1,6 @@
 ## Index {.unnumbered}
 
-This is an in-progress book of translations.
-
-Progress: [6/65]
+In-Progress: [7/65]
 
 ### 1 Annals of Emperor Wǔ
 武帝紀
@@ -105,8 +103,37 @@ Progress: [6/65]
 + [Zāng Hóng 臧洪](1wei/07.qmd#zanghong)
     + [Chén Róng 陳容](1wei/07.qmd#chenrong)
 
-8. Gōngsūn Zàn (Liú Yù), Táo Qiān, Zhāng Yáng, Gōngsūn Dù (Kāng), Zhāng Yān, Zhāng Xiù, Zhāng Lŭ
-9. Xiàhóu Dūn (Hán Hào, Shǐ Huàn), Xiàhóu Yuān (Bà), Cáo Rén (Chún), Cáo Hóng, Cáo Xiū, Cáo Zhēn (Shuǎng), Xiàhóu Shàng (Xuán)
+### 8 Biographies of Two Gōngsūn, Táo, Four Zhāng
+二公孫陶四張傳第八
+
++ [Gōngsūn Zàn 公孫瓚](1wei/08.qmd#gongsunzan)
+    + [Liú Yù 劉虞](1wei/08.qmd#liuyu)
+    + [Xiānyú Fǔ 鮮于輔](1wei/08.qmd#xianyufu)
++ [Táo Qiān 陶謙](1wei/08.qmd#taoqian)
++ [Zhāng Yáng 張楊](1wei/08.qmd#zhangyang)
++ [Gōngsūn Dù 公孫度](1wei/08.qmd#gongsundu)
+    + [Gongsūn Kāng 公孫康](1wei/08.qmd#gongsunkang)
+    + [Gōngsūn Yuān 公孫淵](1wei/08.qmd#gongsunyuan)
++ [Zhāng Yàn 張燕](1wei/08.qmd#zhangyan)
++ [Zhāng Xiù 張繡](1wei/08.qmd#zhangxiu)
++ [Zhāng Lŭ 張魯](1wei/08.qmd#zhanglu)
+
+### 9 Biographies of the Various Xiàhóu and Cáo
++ [Xiàhóu Dūn](1wei/09.qmd#xiahoudun)
+    + [Hán Hào](1wei/09.qmd#hanhao)
+    + [Shǐ Huàn](1wei/09.qmd#shihuan)
++ [Xiàhóu Yuān](1wei/09.qmd#xiahouyuan)
+    + [Xiàhóu Bà](1wei/09.qmd#xiahouba)
++ [Cáo Rén](1wei/09.qmd#caoren)
+    + [Cáo Chún](1wei/09.qmd#caochun)
++ [Cáo Hóng](1wei/09.qmd#caohong)
++ [Cáo Xiū](1wei/09.qmd#caoxiu)
++ [Cáo Zhēn](1wei/09.qmd#caozhen)
+    + [Cáo Shuǎng](1wei/09.qmd#caoshuang)
++ [Xiàhóu Shàng](1wei/09.qmd#xiahoushang)
+    + [Xiàhóu Xuán](1wei/09.qmd#xiahouxuan)
+
+
 10. Xún Yù, Xún Yōu, Jiǎ Xǔ
 11. Yuán Huàn, Zhāng Fàn, Liáng Mào, Guó Yuān, Tián Chóu, Wáng Xiū, Bǐng Yuán, Guǎn Níng
 12. Cuī Yǎn (Kǒng Róng), Máo Jiè, Xú Yì, Hé Kuí, Xíng Yóng, Bào Xūn, Sīmǎ Zhī
