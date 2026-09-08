@@ -1,6 +1,6 @@
 ## Index {.unnumbered}
 
-In-Progress: [7/65]
+In-Progress: [8/65]
 
 ### 1 Annals of Emperor Wǔ
 武帝紀
@@ -119,19 +119,24 @@ In-Progress: [7/65]
 + [Zhāng Lŭ 張魯](1wei/08.qmd#zhanglu)
 
 ### 9 Biographies of the Various Xiàhóu and Cáo
-+ [Xiàhóu Dūn](1wei/09.qmd#xiahoudun)
-    + [Hán Hào](1wei/09.qmd#hanhao)
-    + [Shǐ Huàn](1wei/09.qmd#shihuan)
-+ [Xiàhóu Yuān](1wei/09.qmd#xiahouyuan)
-    + [Xiàhóu Bà](1wei/09.qmd#xiahouba)
-+ [Cáo Rén](1wei/09.qmd#caoren)
-    + [Cáo Chún](1wei/09.qmd#caochun)
-+ [Cáo Hóng](1wei/09.qmd#caohong)
-+ [Cáo Xiū](1wei/09.qmd#caoxiu)
-+ [Cáo Zhēn](1wei/09.qmd#caozhen)
-    + [Cáo Shuǎng](1wei/09.qmd#caoshuang)
-+ [Xiàhóu Shàng](1wei/09.qmd#xiahoushang)
-    + [Xiàhóu Xuán](1wei/09.qmd#xiahouxuan)
++ [Xiàhóu Dūn 夏侯惇](1wei/09.qmd#xiahoudun)
+    + [Xiàhóu Mào 夏侯楙](1wei/09.qmd##xiahoumao)
+    + [Hán Hào 韓浩](1wei/09.qmd#hanhao)
+    + [Shǐ Huàn 史渙](1wei/09.qmd#shihuan)
++ [Xiàhóu Yuān 夏侯淵](1wei/09.qmd#xiahouyuan)
+    + [Xiàhóu Bà 夏侯霸](1wei/09.qmd#xiahouba)
++ [Cáo Rén 曹仁](1wei/09.qmd#caoren)
+    + [Cáo Chún 曹純](1wei/09.qmd#caochun)
++ [Cáo Hóng 曹洪](1wei/09.qmd#caohong)
++ [Cáo Xiū 曹休](1wei/09.qmd#caoxiu)
+    + [Cáo Zhào 曹肇](1wei/09.qmd#caozhao)
++ [Cáo Zhēn 曹真](1wei/09.qmd#caozhen)
+    + [Cáo Shuǎng 曹爽](1wei/09.qmd#caoshuang)
+        + [Hé Yàn 何晏](1wei/09.qmd#heyan)
++ [Xiàhóu Shàng 夏侯尚](1wei/09.qmd#xiahoushang)
+    + [Xiàhóu Xuán 夏侯玄](1wei/09.qmd#xiahouxuan)
+        + [Xǔ Yǔn 許允](1wei/09.qmd#xuyun)
+        + [Wáng Jīng 王經](1wei/09.qmd#wangjing)
 
 
 10. Xún Yù, Xún Yōu, Jiǎ Xǔ
