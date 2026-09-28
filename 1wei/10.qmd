@@ -1,13 +1,835 @@
 # Biographies of Xún Yù, Xún Yōu, Jiǎ Xǔ
 
 ## Xún Yù {.unnumbered #xunyu}
-[TODO]
+
+::: {.columns}
+::: {.column width="70%"}
+Xún Yù appellation Wénruò was a Yǐngchuān Yǐngyīn man. Grandfather [Xún] Xhū appellation Jìhé was a Lǎnglíng Magistrate,^[Lǎnglíng county was in Rǔnán prefecture.] during the time of Hàn (Emperors) Shùn and Huán was famed in the era, had sons of eight people, called as the Eight Dragons. [Xún] Yù's father [Xún] Gǔn was a Jǐnán Chancellor, father's younger brother [Xún] Shuǎng was an Excellency of Works. <a href="#annotation-1" id="source-1">[1]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+荀彧字文若，潁川潁陰人也。祖父淑，字季和，朗陵令。當漢順、桓之閒，知名當世。有子八人，號曰八龍。彧父緄，濟南相。叔父爽，司空。〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-1" id="annotation-1">[1]</a> Xù Hàn shū states: [Xún] Xhū had high talent, Wáng Chàng and Lǐ Yīng all took him as a teacher. Became Lǎnglíng Marquess's Chancellor, called as Shénjūn.^[The apparent difference in title is due to Lǎnglíng county likely serving as a fief state for a Marquess of Lǎnglíng. The actual government appointed head of the territory would function as a Magistrate, but be called as a "Chancellor" to the Marquess of the fief, as a holdover from the ancient era when the lords of fief states actually governed their fiefs with their own Courts headed by a Chancellor. Shénjūn can be interpreted "divine lord." Jūn is a term of respect similar to "gentleman," "master," or "lord" and is the origin of the Japanese honorific kun.]
+
+Zhāng Fán's Hàn jì states: [Xún] Shū was widely learned and had high conduct, with Lǐ Gù and Lǐ Yīng were comrades^[The term translated as comrade here is tóngzhì, literally "of the same will."] and good friends, selected out Lǐ Zhāo from minor clerks, befriended Huáng Shūdù as a young child, as a Worthy-Good and Upright-Correct was summoned,^[Worthy-Good (xiánliáng) and Upright-Correct (fāngzhèng) were Hàn era types of nominations for government office.] in appraising policies sharply criticized the Liáng clan,^[Appraising policies (duìcè) was part of the examination process for candidates for government office, where candidates would write an opinion critiquing government policies. Around this time the Hàn Imperial government was dominated by the regency of the Liáng clan through the Dowager Empress Liáng.] went out to fill vacancy as Lǎnglíng Marquess's Chancellor, died in office. Eigh sons: Jiǎn, Gǔn, Jìng, Dào, Shēn, Shuǎng, Sù, Fū. <a href="#source-a" id="annotation-a">[A]</a> [Xún] Shuǎng appellation Címíng in youth enjoyed study, aged twelve could recite the Chūnqiū and Lúnyǔ, immersed thought in the classics and canon, did not answer recruitments, accumulating for ten and several years. When Dǒng Zhuó controlled the government, again summoned [Xún] Shuǎng, [Xún] Shuǎng wished to flee and leave, the clerks held him urgently. Edict was sent down to the prefecture, at once appointed Píngyuán Chancellor. On the way reaching to Yuànlíng, again pursued and appointed Minister of Staff. Oversaw affairs for three days, certificate appointed him Excellency of Works. [Xún] Shuǎng in rising from plain clothes in ninety-five days yet reached the Three Excellencies. [Xún] Shū's former residence was at Xīháo borough, the county Magistrate Yuàn Kāng said: "In the past Gāoyáng-shì had talented sons of eight men," and arranged the borough into Gāoyáng borough. [Xún] Jìng appellation Shūcí, also had utmost virtue, fame almost second to [Xún] Shuǎng, lived in seclusion to the end of his life.
+
+Huángfǔ Mì's Yìshì zhuàn: Someone asked Xǔ Zǐjiàng: "Of [Xún] Jìng and [Xún] Shuǎng who is worthier?" [Xǔ] Zǐjiàng said: "The two men are both jade. Címíng is outwardly shiny, Shūcí is inwardly glossy."
+
+<a href="#annotation-a" id="source-a">[A]</a> Pronounced Fū.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　續漢書曰：淑有高才，王暢、李膺皆以為師，為朗陵侯相，號稱神君。張璠漢紀曰：淑博學有高行，與李固、李膺同志友善，拔李昭於小吏，友黃叔度于幼童，以賢良方正徵，對策譏切梁氏，出補朗陵侯相，卒官。八子：儉、緄、靖、燾、詵、爽、肅、旉。音敷。爽字慈明，幼好學，年十二，通春秋、論語，耽思經典，不應徵命，積十數年。董卓秉政，復徵爽，爽欲遁去，吏持之急。詔下郡，即拜平原相。行至苑陵，又追拜光祿勳。視事三日，策拜司空。爽起自布衣，九十五日而至三公。淑舊居西豪里，縣令苑康曰昔高陽氏有才子八人，署其里為高陽里。靖字叔慈，亦有至德，名幾亞爽，隱居終身。皇甫謐逸士傳：或問許子將，靖與爽孰賢？子將曰：「二人皆玉也，慈明外朗，叔慈內潤。」
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+At the time when [Xún] Yù was young, Nányáng's Hé Yǒng was amazed with him, stating: "A talent to aide Kings." <a href="#annotation-2" id="source-2">[2]</a> Yǒnghàn Inaugural Year [189], nomianted Filial-Incorruptible, appointed Office Supplies Director.^[Office Supplies Director (shǒugōng lìng) was a subordinate official under the Minister Treasurer responsible for the Emperor's paper, ink, brush, and office supplies.] In the chaos of Dǒng Zhuó, he requested to be sent out to fill vacancies as a clerk. Appointed Kāngfù Magistrate,^[Kāngfù county was in Rènchéng.] then abandoned office and returned home, spoke with the elders stating: "Yǐngchuān is a land of battle on all four sides, when Heaven's Under has changes, it always is thoroughfare for soldiers, it is appropriate to urgently leave it, and not stay for a long time." Of the villagers many cherished their homeland and yet hesitated, it happened that Jì Province Governor the same prefecture's Hán Fù sent cavalry to welcome to move, none would follow, [Xún] Yù alone led his clansmen to reach Jì Province, but Yuán Shào had already seized [Hán] Fù's position, treated [Xún] Yù with the courtesies toward a highest guest. [Xún] Yù's younger brother [Xún] Chén and the same prefecture's Xīn Píng and Guō Tú all were appointed by [Yuán] Shào. [Xún] Yù judged that [Yuán] Shào in the end could not achieve great affairs, at the time Tàizǔ was Exerting Warfare General, at Dōng prefecture, Chūpíng Second Year [191], [Xún] Yù left [Yuán] Shào to follow Tàizǔ. Tàizǔ was greatly pleased and said: "This is my Zǐfáng."^[Zhāng Liáng appellation Zǐfáng was a celebrated strategist who served Liú Bāng, founding Emperor of Hàn.] Appointed him Major,^[Major (sīmǎ) was a chief of staff for military affairs for a General.] at the time his years twenty-nine. At the time Dǒng Zhuó's power terrified Heaven's Under, Tàizǔ asked [Xún] Yù about this, [Xún] Yù said: "[Dǒng] Zhuó's violent cruelty is already extreme, he will certainly end in chaos, and cano do nothing." [Dǒng] Zhuó sent Lǐ Jué and others to set out east of the passes, whever they passed they captured and plundered, reached Yǐngchuān and Chénliú and returned. Of the villagers that had remained many met with killing and plundering. The next year, Tàizǔ was designate Yǎn Province Governor, later became Defending East General, [Xún] Yù always as Major followed. Xīngpíng Inaugural Year [194], Tàizǔ campaigned against Táo Qiān, appointed [Xún] Yù with remaining affairs. It happened that Zhāng Miǎo and Chén Gōng with Yǎn Province rebelled, secretly invited Lǚ Bù. [Lǚ] Bù had arrived, [Zhāng] Miǎo then sent Liú Yì to inform [Xún] Yù stating: "General Lǚ comes to assist Inspector Lord Cáo^[Inspector Lord (shǐjūn) is the term of respect for the head of a province.] in striking Táo Qiān, it is appropriate to quickly supply them with army provisions." The multitudes were doubtful and confused. [Xún] Yù knew [Zhāng] Miǎo was making chaos, at once reined in troops to set preparations, galloping to summon Dōng prefecture Administrator Xiàhóu Dūn, but Yǎn Province's various cities all answered to [Lǚ] Bù. At the time all of Tàizǔ's army was attacking [Táo] Qiān, the remaining defending troops were few, and of the supervising officers and chief clerks many were communicating and planning with [Zhāng] Miǎo and [Chén] Gōng. [Xiàhóu] Dūn arrived, that night executed those plotting rebellion of several tens of people, the multitudes were thus settled. Yù Province Inspector Guō Gòng commanded multitudes of several tens of thousands to come reaching below the city walls, some said that they were planning together with Lǚ Bù, the multitudes were extremely afraid. [Guō] Gòng requested to meet [Xún] Yù, [Xún] Yù was about to go. [Xiàhóu] Dūn and others said: "You are the defense for the entire province, to go is certainly to be endangered, it cannot be." [Xún] Yù said: "[Guō] Gòng with [Zhāng] Miǎo and the rest do not have a previous relationship. Now he has come quickly, his plans certainly are not yet settled. Reaching when they are not yet settled to persuade him, even if he cannot be used, he can be made to stand neutral. If we in advance suspect him, he will be angered and then complete his plans." [Guō] Gòng observed [Xún] Yù was without fearful thoughts, said Juànchéng would not be easy to attack, and therefore led his troops to leave. Also with Chéng Yù planned, sending him to persuade Fàn and Dōng'ē, in the end preserving three cities, to wait for Tàizǔ. Tàizǔ from Xú Province returned and struck [Lǚ] Bù at Púyáng, [Lǚ] Bù fled east. Second Year [195] Summer, Tàizǔ's army stationed Chéngshì,^[Chéngshì county was in Jǐyīn.] great famine, people ate each other.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+彧年少時，南陽何顒異之，曰：「王佐才也。」〔一〕永漢元年，舉孝廉，拜守宮令。董卓之亂，求出補吏。除亢父令，遂棄官歸，謂父老曰：「潁川，四戰之地也，天下有變，常為兵衝，宜亟去之，無久留。」鄉人多懷土猶豫，會冀州牧同郡韓馥遣騎迎立，莫有隨者，彧獨將宗族至冀州。而袁紹已奪馥位，待彧以上賓之禮。彧弟諶及同郡辛評、郭圖，皆為紹所任。彧度紹終不能成大事，時太祖為奮武將軍，在東郡，初平二年，彧去紹從太祖。太祖大悅曰：「吾之子房也。」以為司馬，時年二十九。是時，董卓威陵天下，太祖以問彧，彧曰：「卓暴虐已甚，必以亂終，無能為也。」卓遣李傕等出關東，所過虜略，至潁川、陳留而還。鄉人留者多見殺略。明年，太祖領兗州牧，後為鎮東將軍，彧常以司馬從。興平元年，太祖征陶謙，任彧留事。會張邈、陳宮以兗州反，潛迎呂布。布既至，邈乃使劉翊告彧曰：「呂將軍來助曹使君擊陶謙，宜亟供其軍食。」眾疑惑。彧知邈為亂，即勒兵設備，馳召東郡太守夏侯惇，而兗州諸城皆應布矣。時太祖悉軍攻謙，留守兵少，而督將大吏多與邈、宮通謀。惇至，其夜誅謀叛者數十人，眾乃定。豫州刺史郭貢帥眾數萬來至城下，或言與呂布同謀，眾甚懼。貢求見彧，彧將往。惇等曰：「君，一州鎮也，往必危，不可。」彧曰：「貢與邈等，分非素結也，今來速，計必未定；及其未定說之，縱不為用，可使中立，若先疑之，彼將怒而成計。」貢見彧無懼意，謂鄄城未易攻，遂引兵去。又與程昱計，使說范、東阿，卒全三城，以待太祖。太祖自徐州還擊布濮陽，布東走。二年夏，太祖軍乘氏，大饑，人相食。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-2" id="annotation-2">[2]</a> Diǎnlüè states: Central Regular Attendant Táng Héng wished to have his daughter be wife to Rǔnán's Fù Gōngmíng, Gōngmíng would not marry her, transferred to give to [Xún] Yù. His father [Xún] Gǔn admired [Táng] Héng's influence, and had [Xún] Yù marry her. [Xún] Yù was ridiculed by commentators.
+
+Your Servant Sōngzhī notes: Hàn annals say Táng Héng in Emperor Huán's Yánxī Seventh Year [164] died, calculating [Xún] Yù at the time was aged only two years, then on the day of [Xún] Yù's marriage, [Táng] Héng had been dead for a long time. The claim of admiring influence is not correct. Your Servant Sōngzhī also believes: [Xún] Gǔn being one of the Eight Dragons certainly was not wrongfully obtained. He could be pressured into doing something, how could he be said to be admiring influence? In the past Zhèng Hū for opposing Qí attracted ridicule, Jùn Shēng for refusing Huò met with praise, attracting ridicule was for losing assistance, meeting with praise was commending his far-reaching consideration, both were without suddenly arriving harm, and therefore each preserved their wills. As for when the castrate eunuchs controlled affairs, the Four Seas held breath (in fear), Zuǒ Guàn and Táng Héng decided death or life in their mouths. Therefore at the time a proverb said: "Zuǒ turns the heavens, Táng sits alone," saying their power had no equal. Complying with them then the six relations were secure, disobey and opposing then great disaster suddenly arrived. This truly was a time to suffer disgrace for a time for preservation in order to survive instead of perish. In the past Jiǎng Xǔ had a marriage connection to the Wáng clan with no damage to his pure and high conduct. [Xún] Gǔn in this marriage was to have what harm?
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　典略曰：中常侍唐衡欲以女妻汝南傅公明，公明不娶，轉以與彧。父緄慕衡勢，為彧娶之。彧為論者所譏。臣松之案：漢紀云唐衡以桓帝延熹七年死，計彧于時年始二歲，則彧婚之日，衡之沒久矣。慕勢之言為不然也。臣松之又以為緄八龍之一，必非苟得者也，將有逼而然，何云慕勢哉？昔鄭忽以違齊致譏，雋生以拒霍見美，致譏在於失援，見美嘉其慮遠，並無交至之害，故得各全其志耳。至於閹豎用事，四海屏氣；左悺、唐衡，殺生在口。故于時諺云「左迴天，唐獨坐」，言威權莫二也。順之則六親以安，忤違則大禍立至；斯誠以存易亡，蒙恥期全之日。昔蔣詡姻于王氏，無損清高之操，緄之此婚，庸何傷乎！
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Táo Qiān died, Tàizǔ wished to therefore take Xú Province, return and then settle [Lǚ] Bù. [Xún] Yù said: "In the past Gāozǔ protected Guānzhōng, Guāng-Wǔ occupied Hénèi, both used deep roots and solid foundations to control Heaven's Under, advancing sufficient to overcome enemies, retreating sufficient to firmly defend, and therefore although there were difficulties and defeats yet in the end they accomplished a great enterprise. General you originally with Yǎn Province headed affairs, pacified the troubles east of the mountains, of the Hundred Surnames none did not devote heart and happily submit. Moreover the Hé and Jǐ is a vital land of Heaven's Under, now though it is ravaged and damaged, yet it is easy to self defend, it also is your Guānzhōng and Hénèi, General, it cannot be not first settled. Now having defeated Lǐ Fēng and Xuē Lán, if you divide troops east to strike Chén Gōng, [Chén] Gōng certainly will not dare to look back west, use that interval to rein in troops to collect ripe wheat, ration food and store grain, in one move [Lǚ] Bù can be defeated. Defeat [Lǚ] Bù and after to the south join with Yáng Province to together supress Yuán Shù, to overlook the Huái and Sì. If you abandon [Lǚ] Bù and go east, if you leave many troops then you do not have enough for use, if you leave few troops then the people all will defend the cities and unable to gather and scavenge. [Lǚ] Bù will take advantage of the weakness to invade and plunder, the people's hearts will be increasingly endangered, only Juànchéng, Fàn, Wèi can be secured, the rest will not be your possession, this is to be without Yǎn Province. If Xú Province is not settled, General where can you return home? Moreover although Táo Qiān is dead, Xú Province is not yet easy to destroy. They are chastened by the previous years' defeat, will be afraid and so join close together, mutually forming exterior and interior. Now the eastern region all is collecting wheat, and will certainly harden ramparts and raze the fields to wait for you General, General in attacking them you will not capture, in plundering them will not obtain, and in not more then ten days, then multitudes of a hundred thousands without even battling will on its own be destitute. <a href="#annotation-3" id="source-3">[3]</a> Formerly in suppressing Xú Province, your authoritative punishments were truly enacted, <a href="#annotation-4" id="source-4">[4]</a> the sons and younger brothers remember the humiliation of the fathers and elder brothers, and certainly each man will defend with no heart for surrender, even if you are able to defeat them, yet you cannot possess them. In affairs there must be an abandoning of this to take that. For the large exchanging the small is permissible, for the secure exchanging the endangered is permissible, expediences for a one time situation without worrying of the foundations as not solid is permissible. Now in these three none is advantageous, may you General carefully consider it." Tàizǔ thus stopped. Greatly collected wheat, again with [Lǚ] Bù battled, divided troops to pacify the various counties. [Lǚ] Bù was defeated and fled, Yǎn Province was therefore pacified.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+陶謙死，太祖欲遂取徐州，還乃定布。彧曰：「昔高祖保關中，光武據河內，皆深根固本以制天下，進足以勝敵，退足以堅守，故雖有困敗而終濟大業。將軍本以兗州首事，平山東之難，百姓無不歸心悅服。且河、濟，天下之要地也，今雖殘壞，猶易以自保，是亦將軍之關中、河內也，不可以不先定。今以破李封、薛蘭，若分兵東擊陳宮，宮必不敢西顧，以其閒勒兵收熟麥，約食畜穀，一舉而布可破也。破布，然後南結揚州，共討袁術，以臨淮、泗。若舍布而東，多留兵則不足用，少留兵則民皆保城，不得樵採。布乘虛寇暴，民心益危，唯鄄城、范、衛可全，其餘非己之有，是無兗州也。若徐州不定，將軍當安所歸乎？且陶謙雖死，徐州未易亡也。彼懲往年之敗，將懼而結親，相為表裏。今東方皆以收麥，必堅壁清野以待將軍，將軍攻之不拔，略之無獲，不出十日，則十萬之眾未戰而自困耳。〔一〕前討徐州，威罰實行，〔二〕其子弟念父兄之恥，必人自為守，無降心，就能破之，尚不可有也。夫事固有棄此取彼者，以大易小可也，以安易危可也，權一時之勢，不患本之不固可也。今三者莫利，願將軍熟慮之。」太祖乃止。大收麥，復與布戰，分兵平諸縣。布敗走，兗州遂平。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-3" id="annotation-3">[3]</a> Your Servant Sōngzhī believes: At the time Xú Province was not yet pacified, Yǎn Province also was in rebellion, and yet it says multitudes of a hundred thousand. Although it was words for opposition, it should not be a statement of weakness. One all the more knows that in the Guāndù campaign, it cannot be said that the troops did not reach ten thousand.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　臣松之以為于時徐州未平，兗州又叛，而云十萬之眾，雖是抑抗之言，要非寡弱之稱。益知官渡之役，不得云兵不滿萬也。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-4" id="annotation-4">[4]</a> Cáo Mán zhuàn says: From when the capital region suffered the chaos of Dǒng Zhuó, of the people that wandered and migrated out east, many depended on the Péngchéng region. Reaching to when Tàizǔ arrived, he massacred and killed men and women of several tens of thousands at the Sì river, the water could not flow. Táo Qiān commanded his multitudes to station Wǔyuán,^[Wǔyuán county was in Péngchéng.] Tàizǔ could not advance. Led the army from the Sì south to attack Qǔlǜ, Suīlíng, Xiàqiū various counties,^[Qǔlǜ, Suīlíng, Xiàqiū are countes in Xiàpī.] all slaughtered them. The chickens and dogs were also wiped out, empty ruins without any travelers.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　曹瞞傳云：自京師遭董卓之亂，人民流移東出，多依彭城閒。遇太祖至，坑殺男女數萬口於泗水，水為不流。陶謙帥其眾軍武原，太祖不得進。引軍從泗南攻取慮、睢陵、夏丘諸縣，皆屠之；雞犬亦盡，墟邑無復行人。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Jiàn'ān Inaugural Year, Tàizǔ struck and defeated Huángjīn, Hàn Emperor Xiàn from Hédōng returned to Luòyáng. Tàizǔ discussed welcoming to set the capital at Xǔ, some believed the east of the mountains was not yet pacified, Hán Xiān and Yáng Fèng had newly led Heaven's Son to arrive at Luòyáng, to the north joining with Zhāng Yáng, and could not yet be quickly controlled. [Xún] Yù encouraged Tàizǔ stating: "In the past Jìn Wén received Zhōu King Xiāng and so the various lords followed as shadows, Gāozǔ attacked east in white mourning dress for the Honorary Emperor and so Heaven's Under devoted heart. From since Heaven's Son was cast adrift, you General were first to rally Righteous Troops, only because the east of the mountains were in turmoil and chaos, you were not yet able to distantly travel right of the passes, however you yet separately sent officers and commanders, to cover the rugged to connect messengers, although you resisted troubles to the exterior, yet your heart was never not with the Royal House, such is you General's original ambition to rectify Heaven's Under. Now the Chariot Carriage turns around, the eastern capital overgrown with weeds, righteous servicemen have thoughts to preserve the roots, the Hundred Surnames moved by old memories and so increase their grief. Truly if you use this time, to serve the Ruler Above to follow the expectations of the people is great compliance, to wield Utmost Impartiality to subdue the powerful and strong is great strategy, to support vast righteousness to attract the outstanding and eminent is great virtue. Although Heaven's Under has those violating limits, certainly they cannot accumulate, this is clear. How can Hán Xiān and Yáng Fèng dare to do harm? If it is not timely settled, the Four Quarters will develop (disloyal) hearts, and though you later consider it, it is too late." Tàizǔ therefore reached Luòyáng, welcomed Heaven's Son to set capital at Xǔ. Heaven's Son appoitned Tàizǔ General-in-Chief, advanced [Xún] Yù to Hàn's Attendant Central, observing Secretariat Writers Director. Always occupying the center maintaining the heavy, <a href="#annotation-5" id="source-5">[5]</a> although Tàizǔ campaigned in the exterior, army and state affairs all were planned with [Xún] Yù. <a href="#annotation-6" id="source-6">[6]</a> Tàizǔ asked [Xún] Yù: "Who can succeed you as my strategist?" [Xún] Yù said: "Xún Yōu, Zhōng Yáo." Before this, [Xún] Yù advised on strategists, advanced Xì Zhìcái. [Xì] Zhìcái died, again advanced Guō Jiā. Tàizǔ believed [Xún] Yù to understand men, of those he advanced and promoted all proved competent, only Yán Xiàng in Yáng Province and Wéi Kāng in Liáng Province later were defeated and destroyed. <a href="#annotation-7" id="source-7">[7]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+建安元年，太祖擊破黃巾。漢獻帝自河東還洛陽。太祖議奉迎都許，或以山東未平，韓暹、楊奉新將天子到洛陽，北連張楊，未可卒制。彧勸太祖曰：「昔〔晉文納周襄王而諸侯景從〕，高祖東伐為義帝縞素而天下歸心。自天子播越，將軍首唱義兵，徒以山東擾亂，未能遠赴關右，然猶分遣將帥，蒙險通使，雖禦難于外，乃心無不在王室，是將軍匡天下之素志也。今車駕旋軫，〔東京榛蕪〕，義士有存本之思，百姓感舊而增哀。誠因此時，奉主上以從民望，大順也；秉至公以服雄傑，大略也；扶弘義以致英俊，大德也。天下雖有逆節，必不能為累，明矣。韓暹、楊奉其敢為害！若不時定，四方生心，後雖慮之，無及。」太祖遂至洛陽，奉迎天子都許。天子拜太祖大將軍，進彧為漢侍中，守尚書令。常居中持重，〔一〕太祖雖征伐在外，軍國事皆與彧籌焉。〔二〕太祖問彧：「誰能代卿為我謀者？」彧言「荀攸、鍾繇」。先是，彧言策謀士，進戲志才。志才卒，又進郭嘉。太祖以彧為知人，諸所進達皆稱職，唯嚴象為揚州，韋康為涼州，後敗亡。〔三〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-5" id="annotation-5">[5]</a> Diǎnlüè states: [Xún] Yù humbled himself and deferred to servicemen, his seats did not overlap mats. At the Terrace Pavillions, he did not let private desires interfere in intentions. [Xún] Yù had a cousin of one person, talent and conduct truly meager, someone said to [Xún] Yù: "With you handling affairs, cannot you not have him be a Consultant Cadet?" [Xún] Yù laughed and said: "Government office is the way to display talent. If I did as you said, what would everyone say of me?" His maintaining of heart as just and correct was all of this sort.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　典略曰：彧折節下士，坐不累席。其在臺閣，不以私欲撓意。彧有群從一人，才行實薄，或謂彧：「以君當事，不可不以某為議郎邪？」彧笑曰：「官者所以表才也，若如來言，眾人其謂我何邪！」其持心平正皆類此。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-6" id="annotation-6">[6]</a> Diǎnlüè states: [Xún] Yù as a man was majestic and beautiful.
+
+Also Píngyuán's Mí Héng's biography^[The character for Mí can also be pronounced as Nǐ. Some transcriptions prefer to give the name as Nǐ Héng.] states: [Mí] Héng appellation Zhèngpíng. At Jiàn'ān's beginning, from Jīng Province traveled north to Xǔ capital, relied on his talent to be arrogant and unrestrained, his criticisms of good and bad excessively harsh, in meeting those that did not compare to himself he would not speak with them, people all because of this despised him. Only Minister Treasurer Kǒng Róng highly esteemed his talent, sent up letter recommending him stating: "His innate character is pure and bright, exceptional talent is outstanding and brilliant. On first experiencing arts and writings, he ascends the hall and observes the obscure. What his eyes see once is immediately recited by his mouth, what his ears briefly hear is not forgotten in his heart. His nature accords with the Way, his thoughts like having divinity. Hóngyáng's mental calculation and Ānshì's silent memory, if compared to [Mí] Héng, truly are not enough to be amazing."^[Sāng Hóngyáng was a Former Hàn era scholar and statesman known for his ability with mental calculations and mental arithmetic. Zhāng Ānshì was a Former Hàn era statesman known for a powerful memory] [Mí] Héng at the time was aged twenty-four. At the time although Xǔ capital was newly established, yet it abounded with servicemen. [Mí] Héng once wrote a calling card and kept it in his bosom, the characters had worn away and he had nowhere to go. Someone asked him stating: "Why not follow Chén [Qún] Chángwén or Sīmǎ [Lǎng] Bódá?" [Mí] Héng said: "You wish to have me follow a bunch of butchers and peddlers?" Also asked stating: "Right now in Xǔ, who is the most capable?" [Mí] Héng said: "The elder boys have Kǒng [Róng] Wénjǔ, the younger boys have Yáng [Xiū] Dézǔ." Also asked: "Are Cáo-gōng,^[Gōng is an honorific of respect referencing Cáo Cāo's position among the Three Excellencies (sān-gōng)] Director Lord Xún,^[Director Lord (língjūn) is a term of respect referencing Xún Yù's position position as Secretariat Writers Director (shànghsū lìng)], Zhào Dàngkòu^[Dàngkòu refers to Zhào Róng's office as Washing away Bandits General (dàngkòu jiāngjūn)] all sufficient to dominate the age?" [Mí] Héng did not praise Cáo-gōng very much, also observed Xún had majestic apperance, Zhào had large belly, and therefore answered stating: "[Xún Yù] Wénruó can lend his face to giving condolences, [Zhào Róng] Zhìcháng can be sent to oversee kitchens and entertain guests." His meaning was that Xún only had looks, Zhào good at eating meat. Thereupon everyone all gnashed teeth (in anger). [Mí] Héng knew the masses were not pleased, and was about to go south to return to Jīng Province. Packed and about to set out, everyone gave him a farewell ceremony,^[Zǔdào was the ceremony of seeing someone off on a journey, involving sacrifices to road deities and a farewell feast. In this context zǔ refers to sacrifices, dào means "road."] first setting up the offerings and canopies to the city's south, and together warning one another stating: "[Mí] Héng is frequently impertinent, now take advantage of his arriving late, to not rise to greet him." When [Mí] Héng arrived, everyone all sat and did not rise. [Mí] Héng then wailed and greatly cried. Everyone asked his reason, [Mí] Héng said: "Walking among corpses and biers, how can one not grieve?" [Mí] Héng went south and met Liú Biǎo, [Liú] Biǎo was extremely courteous to him. General Huáng Zǔ garrisoned Xiàkǒu, [Huáng] Zǔ's son [Huáng] Shè was friendly with [Mí] Héng, followed him to arrive at Xiàkǒu. [Huáng] Zǔ commended his talent, in every seating, if there was an unusual guest, he would introduce and have them converse with [Mí] Héng. Later [Mí] Héng was arrogant and obstinate, answered [Huáng] Zǔ's words with mockery and excessive words, [Huáng] Zǔ believed it was insulting him, was greatly furious, and had the squad leader grab his hair to drag him out. The Left and Right then carried him to go, dragged him to death.
+
+Your Servant Sōngzhī because the base biography did not praise [Xún] Yù's appearance, therefore recorded Diǎnlüè with Héng's biography to show it. Also Pān Xù made [Xún] Yù's stele's inscription, praising [Xún] Yù: "Extraordinary appearance, marvelous bearing."
+
+Zhāng Héng's Wénshì zhuàn states: Kǒng Róng repeatedly recommended [Mí] Héng to Tàizǔ, wishing to have them meet one another, but [Mí] Héng hated and loathed him (Cáo Cāo), his thoughts always indignant and resentful. He took advantage of insanity illness to not agree to go, and repeatedly had criticism opinions. Tàizǔ heard of his reputation, plotted wishing to humiliate him, and so enrolled him as a drum scribe. Later reaching Eighth Moon's Court and great feast, guests and retainers all gathered. At the time when the drum scribes beat the passing watch,^[Time keeping was done by dividing the day into twelve watches. The drummer beat the drum to mark the transition between the watches.] all were to take off their old uniform and change to wear new clothes. At [Mí] Héng's turn, [Mí] Héng beat the Yúyáng Cānzhuā,^[This was presumably the name of a song.] appearance and bearing out of the ordinary, the notes and rhythm especially wondrous, the guests and retainers seated above heard it, none were not moved and stirred. At the watch passing he did not change clothes. The clerks scolded him, [Mí] Héng thus went right in front of Tàizǔ, in order took off clothes, standing naked, slowly then put on undergarments and hat and finished, and resumed beating the drum to Cānzhuā, and yet his facial expression had no shame. Tàizǔ greatly laughed, and informed those seated around him stating: "I originally wished to humiliate [Mí] Héng, but [Mí] Héng instead humiliated me." Reaching to the present the Yúyáng Cānzhuā was from [Mí] Héng's creation. [Kǒng] Róng deeply reprimanded and scolded [Mí] Héng, and further announced Tàizǔ's intentions, wishing to have him and Tàizǔ meet one another. [Mí] Héng agreed to it, stating: "I will go for your sake." Reaching the Eleventh Moon's Court, [Kǒng] Róng in advance met Tàizǔ, explaining: "[Mí] Héng wishes to request a meeting." When the day was late, [Mí] Héng wore unlined robe and hemp shoes, sat outside Tàizŭ's camp gates, with a cane beat the ground, repeatedly cursing Tàizǔ. Tàizǔ ordered the outer stables to urgently prepare elite horses of three together with cavalry of two men, speaking to [Kǒng] Róng stating: "Mí Héng the brat then dares to do this! For me to kill him would be no different than a sparrow or mouse, but considering this man already has an empty reputation that the far and near have heard, if I kill him today, people will say that I am incapable of tolerance. Now send him to Liú Biǎo, and see how he fares in the end." Thus ordered the cavalry to place [Mí] Héng atop the horse, the two cavalry holding and escorting him to Nányáng.
+
+Fù-zǐ states: [Mí] Héng was fluent in speech and harsh in debate, the day he met Jīng Province Governor Liú Biǎo, the degree that he bound himself in friendship to [Liú] Biǎo was very extreme, [Liú] Biǎo was pleased with him and made him a highest guest. [Mí] Héng praised [Liú] Biǎo with beauty overflowing his mouth, but his criticism of [Liú] Biǎo's Left and Right did not even spare the line rulers.^[Shéngmò refers to the rope and ink used by carpenters to mark straight lines.] Thereupon the Left and Right took advantage of appearances to slander him, stating: "[Mí] Héng praises you, General, as having benevolence that Xī-bó could not surpass, only he believes you incapable of decisiveness. In the end you will not be successful, certainly because of this." These words in fact pointed out [Liú] Biǎo's short-comings in wisdom, but were not what [Mí] Héng had said. [Liú] Biǎo did not thoroughly investigate, and therefore became estranged from [Mí] Héng and drove him away. That [Mí] Héng, had his relationship was severed from Liú Biǎo, his wisdom exhausted by Huáng Zǔ, body dead and reputation exterminated, laughed at by Heaven's Under, was brought about by slandering him.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　典略曰：彧為人偉美。又平原禰衡傳曰：衡字正平，建安初，自荊州北游許都，恃才傲逸，臧否過差，見不如己者不與語，人皆以是憎之。唯少府孔融高貴其才，上書薦之曰：「淑質貞亮，英才卓犖。初涉藝文，升堂睹奧；目所一見，輒誦於口，耳所暫聞，不忘於心。性與道合，思若有神。弘羊心計，安世默識，以衡準之，誠不足怪。」衡時年二十四。是時許都雖新建，尚饒人士。衡嘗書一刺懷之，字漫滅而無所適。或問之曰：「何不從陳長文、司馬伯達乎？」衡曰：「卿欲使我從屠沽兒輩也！」又問曰：「當今許中，誰最可者？」衡曰：「大兒有孔文舉，小兒有楊德祖。」又問：「曹公、荀令君、趙盪寇皆足蓋世乎？」衡稱曹公不甚多；又見荀有儀容，趙有腹尺，因答曰：「文若可借面弔喪，稚長可使監廚請客。」其意以為荀但有貌，趙健啖肉也。於是眾人皆切齒。衡知眾不悅，將南還荊州。裝束臨發，眾人為祖道，先設供帳於城南，自共相誡曰：「衡數不遜，今因其後到，以不起報之。」及衡至，眾人皆坐不起，衡乃號咷大哭。眾人問其故，衡曰：「行屍柩之間，能不悲乎？」衡南見劉表，表甚禮之。將軍黃祖屯夏口，祖子射與衡善，隨到夏口。祖嘉其才，每在坐，席有異賓，介使與衡談。後衡驕蹇，答祖言徘優饒言，祖以為罵己也，大怒，顧伍伯捉頭出。左右遂扶以去，拉而殺之。臣松之以本傳不稱彧容貌，故載典略與衡傳以見之。又潘勗為彧碑文，稱彧「瑰姿奇表」。張衡文士傳曰：孔融數薦衡于太祖，欲與相見，而衡疾惡之，意常憤懣。因狂疾不肯往，而數有言論。太祖聞其名，圖欲辱之，乃錄為鼓（吏）〔史〕。後至八月朝，大宴，賓客並會。時鼓（吏）〔史〕擊鼓過，皆當脫其故服，易著新衣。次衡，衡擊為漁陽參撾，容態不常，音節殊妙。坐上賓客聽之，莫不慷慨。過不易衣，吏呵之，衡乃當太祖前，以次脫衣，裸身而立，徐徐乃著褌帽畢，復擊鼓參撾，而顏色不怍。太祖大笑，告四坐曰：「本欲辱衡，衡反辱孤。」至今有漁陽參撾，自衡造也。融深責數衡，并宣太祖意，欲令與太祖相見。衡許之，曰：「當為卿往。」至十月朝，融先見太祖，說「衡欲求見」。至日晏，衡著布單衣，（疏巾）〔綀布〕履，坐太祖營門外，以杖捶地，數罵太祖。太祖敕外廄急具精馬三匹，并騎二人，謂融曰：「禰衡豎子，乃敢爾！孤殺之無異於雀鼠，顧此人素有虛名，遠近所聞，今日殺之，人將謂孤不能容。今送與劉表，視卒當何如？」乃令騎以衡置馬上，兩騎扶送至南陽。傅子曰：衡辯于言而剋于論，見荊州牧劉表日，所以自結于表者甚至，表悅之以為上賓。衡稱表之美盈口，而論表左右不廢繩墨。於是左右因形而譖之，曰：「衡稱將軍之仁，西伯不過也，唯以為不能斷；終不濟者，必由此也。」是言實指表智短，而非衡所言也。表不詳察，遂疏衡而逐之。衡以交絕于劉表，智窮于黃祖，身死名滅，為天下笑者，譖之者有形也。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-7" id="annotation-7">[7]</a> Sānfǔ Juélù zhù states: [Yán] Xiàng appellation Wénzé was a Jīngzhào man. In youth was intelligent and erudite, had guts and wisdom. As Supervisor of the Army Censorate Central Deputy visited Yáng Province to suppress Yuán Shù, it happened [Yuán] Shù died of illness, therefore became Yáng Province Inspector. Jiàn'ān Fifth Year [200], he was killed by Sūn Cè's Lújiāng Administrator Lǐ Shù, at the time aged thirty-eight. [Yán] Xiàng's same prefecture's Zhào Qí wrote the Sānfǔ Juélù, feared the people of the time would not completely understand its meaning, therefore kept the book secret, only showing it to [Yán] Xiàng. [Wéi] Kāng appellation Yuánjiàng also was a Jīngzhào man. Kǒng Róng's letter to [Wéi] Kāng's father [Wéi] Duān said: "The day before yesterday Yuánjiàng came: profound talent bright abundance, elegant bearing vastly resolute, a vessel for a great age. Yesterday Zhòngjiàng also came: exemplary character pure and true, literary wit genuine and sincere, a master to maintain the family. Unexpectedly a pair of pearls should recently come from an old oyster, I extremely treasure them." [Wéi] Duān from Liáng Province Governor was summoned to be Minister Charioteer, [Wéi] Kāng succeeded him as Liáng Province Inspector, at the time people believed him honored. Later he was besieged by Mǎ Chāo, firmly defended for a long time, rescue army did not arrive, therefore he was killed by [Mǎ] Chāo. [Wéi] Zhòngjiàng was named [Wéi] Dàn, see the [Biography of Liú Shào](21.qmd#liushao).
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔三〕　三輔決錄〔注〕曰：象字文則，京兆人。少聰博，有膽智。以督軍御史中丞詣揚州討袁術，會術病卒，因以為揚州刺史。建安五年，為孫策廬江太守李術所殺，時年三十八。象同郡趙岐作三輔決錄，恐時人不盡其意，故隱其書，唯以示象。康字元將，亦京兆人。孔融與康父端書曰：「前日元將來，淵才亮茂，雅度弘毅，偉世之器也。昨日仲將又來，懿性貞實，文敏篤誠，保家之主也。不意雙珠，近出老蚌，甚珍貴之。」端從涼州牧徵為太僕，康代為涼州刺史，時人榮之。後為馬超所圍，堅守歷時，救軍不至，遂為超所殺。仲將名誕，見劉邵傳。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+From when Tàizǔ welcomed Heaven's Son, Yuán Shào inside did not submit. [Yuán] Shào had united the Hé's north, Heaven's Under feared his strength. Tàizǔ right then to the east worried of Lǚ Bù, to the south resisted Zhāng Xiù, and [Zhāng] Xiù had defeated Tàizǔ's army at Yuān.^[In modern times the character for Yuān county in Nányáng is commonly pronounced Wǎn. The ancient reading Yuān is preferred here to avoid confusion with the Wǎn county in Lújiāng.] [Yuán] Shào was increasingly arrogant, wrote a letter to Tàizǔ, its statements offensive and haughty. Tàizǔ was greatly furious, his exiting and entering and moving and stillness changed from usual, the mulititudes all said it was because of losing to Zhāng Xiù. Zhōng Yáo asked [Xún] Yù about it, [Xún] Yù said: "His Excellency's intelligence certainly does not retroactively blame past affairs, probably he has another concern." Then he met Tàizǔ and asked him, Tàizǔ then showed [Yuán] Shào's letter to [Xún] Yù, stating: "Now I seek to suppress the unrighteous, but my strength is no match, what to do?" [Xún] Yù said: "In the successes or failures of antiquity, if one truly had the talent, though weak they certainly became strong, and if not the person, though strong they became weak. The survival and destruction of Liú and Xiàng is sufficient to observe this.^[After the downfall of the Qín Empire, eventually the two dominant warlords were Liú Bāng and Xiàng Yǔ. Though Xiàng Yǔ was originally the straonger, Liú Bāng eventually defeated Xiàng Yǔ and founded the Hàn Empire.] Now those competing with Your Excellency for Heaven's Under is only Yuán Shào. [Yuán] Shào appears lenient on the outside but is jealous on the inside, appoints people but yet doubts their hearts. Your Excellency's enlightened understanding is without constraints, only considering suitability of talent. This is superiority in judgement. [Yuán] Shào is slow and heavy with few decisions, missing after opportunities. Your Excellency is capable of deciding great affairs, responds to changes without limit. This is superiority in planning. [Yuán] Shào drives his army laxly and loosely, law and order not established, though his soldiers are many, in fact they are difficult to use. Your Excellency's laws and orders are already clear, rewards and punishments certain to be enacted, though the soldiers are fiew, all compete to serve to the death. This is superiority in warfare. [Yuán] Shào depends on generational resources, following appearances and embellishing wisdom, to collect reputation, therefore many servicemen of few abilities that enjoy inquiries submit to him. Your Excellency treats people with utmost benevolence, pushes forward a sincere heart without acting for empty beauty, conducts yourself with solemn frugality, and give to those with achievemenst without stinginess or begrudging, therefore Under Heaven servicemen of loyalty and uprightness of true service all hope to be employed. This is superiority in virtue. With these four superiorities assisting Heaven's Son, supporting righteousness on campaign, who dares not follow? [Yuán] Shào's strength has what ability to do anything?" Tàizǔ was pleased. [Xún] Yù said: "If we do not first take Lǚ Bù, the Hé's north also will not yet be easy to plan against." Tàizǔ said: "Agreed. What I am perplexed by is also the fear that [Yuán] Shào will invade and disturb Guānzhōng, disorder the Qiāng and Hú, to the south entice Shǔ and Hàn, it would be us alone with Yǎn and Yù resisting five sixths of Heaven's Under. What is to be done?" [Xún] Yù said: "Guānzhōng's officers and commanders number in the tens, none able to unify the others. Only Hán Suì and Mǎ Chāo^[There may be a transcription error here in the received text. At this time, Mǎ Chāo should still be subordinate to his father Mǎ Téng.] are the strongest. They see that the east of the mountains are just in conflict, and certainly will each gather multitudes to protectthemselves. Now if you succor them with grace and virtue, send envoy to join in peace, although locked togethery they cannot be secure for long, by the time Your Excellency settles the east of the mountains, it is enough to keep them from moving. Zhōng Yáo can be entrusted with western affairs, then Your Excellency will have no worries."
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+自太祖之迎天子也，袁紹內懷不服。紹既并河朔，天下畏其彊。太祖方東憂呂布，南拒張繡，而繡敗太祖軍於宛。紹益驕，與太祖書，其辭悖慢。太祖大怒，出入動靜變於常，眾皆謂以失利於張繡故也。鍾繇以問彧，彧曰：「公之聰明，必不追咎往事，殆有他慮。」則見太祖問之，太祖乃以紹書示彧，曰：「今將討不義，而力不敵，何如？」彧曰：「古之成敗者，誠有其才，雖弱必彊，苟非其人，雖彊易弱，劉、項之存亡，足以觀矣。今與公爭天下者，唯袁紹爾。紹貌外寬而內忌，任人而疑其心，公明達不拘，唯才所宜，此度勝也。紹遲重少決，失在後機，公能斷大事，應變無方，此謀勝也。紹御軍寬緩，法令不立，士卒雖眾，其實難用，公法令既明，賞罰必行，士卒雖寡，皆爭致死，此武勝也。紹憑世資，從容飾智，以收名譽，故士之寡能好問者多歸之，公以至仁待人，推誠心不為虛美，行己謹儉，而與有功者無所恡惜，故天下忠正效實之士咸願為用，此德勝也。夫以四勝輔天子，扶義征伐，誰敢不從？紹之彊其何能為！」太祖悅。彧曰：「不先取呂布，河北亦未易圖也。」太祖曰：「然。吾所惑者，又恐紹侵擾關中，亂羌、胡，南誘蜀漢，是我獨以兗、豫抗天下六分之五也。為將奈何？」彧曰：「關中將帥以十數，莫能相一，唯韓遂、馬超最彊。彼見山東方爭，必各擁眾自保。今若撫以恩德，遣使連和，相持雖不能久安，比公安定山東，足以不動。鍾繇可屬以西事。則公無憂矣。」
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Third Year [198], Tàizǔ had defeated Zhāng Xiù, to the east captured Lǚ Bù, settled Xú Province, and therefore with Yuán Shào resisted one another. Kǒng Róng spoke to [Xún] Yù stating: "[Yuán] Shào's land is wide and troops strong. Tián Fēng and Xǔ Yōu are servicemen of wise calculations to plan for him. Shěn Pèi and Páng Jì are servants of thorough loyalty entrusted with his affairs. Yán Liáng and Wén Chǒu are valorous crowning the Three Armies to command his troops. Will it probably be difficult to overcome them?" [Xún] Yù said: "Although [Yuán] Shào's troops are many yet his laws are not organized. Tián Fēng is stubborn and offends superiors, Xǔ Yōu is greedy and not governed. Shěn Pèi is arbitrary and without planning, Páng Jì is rash and self opinionated. These two men left to oversee rear affairs, if [Xǔ] Yōu's family violates the law, certainly they will not indulge them, and if not indulged, [Xǔ] Yōu will certainly rebel. Yán Liáng and Wén Chǒu are merely valorous for a common fellow, in one battle they can be taken." Fifth Year [200], with [Yuán] Shào continuously battled. Tàizǔ protected Guāndù, [Yuán] Shào besieged him. Tàizǔ's army provisions were about to be exhausted, he wrote a letter to [Xún] Yù, discussing a wish to return to Xǔ to draw out [Yuán] Shào. [Xún] Yù said: "Now although the army's food is few, it does not yet compare to Chǔ and Hàn between Xíngyáng and Chénggāo. At that time of Liú and Xiàng neither would agree to retreat first, because the first to retreat would lose momentum. Your Excellency with multitudes one-tenth in size mark the ground and defend it, hold his throat so that he cannot advance, already for half a year. On the situation being seen as momentum exhausted, certainly there will be a change, this is the time to employ the surprises, it cannot be lost." Tàizǔ thus stayed. Therefore with surprise troops attacked [Yuán] Shào's separate garrison, beheaded his officer Chúnyú Qióng and others, [Yuán] Shào retreated and fled. Shěn Pèi because Xǔ Yōu's family was unlawful arrested his wife and children, [Xǔ] Yōu was angry and betrayed [Yuán] Shào. Yán Liáng and Wén Chǒu on facing the battle lines gave up their heads. Tián Fēng for remonstrating met with execution. All was as [Xún] Yù had strategized.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+三年，太祖既破張繡，東禽呂布，定徐州，遂與袁紹相拒。孔融謂彧曰：「紹地廣兵彊；田豐、許攸，智計之士也，為之謀；審配、逢紀，盡忠之臣也，任其事；顏良、文醜，勇冠三軍，統其兵：殆難克乎！」彧曰：「紹兵雖多而法不整。田豐剛而犯上，許攸貪而不治。審配專而無謀，逢紀果而自用，此二人留知後事，若攸家犯其法，必不能縱也，不縱，攸必為變。顏良、文醜，一夫之勇耳，可一戰而禽也。」五年，與紹連戰。太祖保官渡，紹圍之。太祖軍糧方盡，書與彧，議欲還許以引紹。彧曰：「今軍食雖少，未若楚、漢在滎陽、成皋閒也。是時劉、項莫肯先退，先退者勢屈也。公以十分居一之眾，畫地而守之，扼其喉而不得進，已半年矣。情見勢竭，必將有變，此用奇之時，不可失也。」太祖乃住。遂以奇兵襲紹別屯，斬其將淳于瓊等，紹退走。審配以許攸家不法，收其妻子，攸怒叛紹；顏良、文醜臨陣授首；田豐以諫見誅：皆如彧所策。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Sixth Year [201], Tàizǔ obtained grain from Dōngpíng's secured people, the provisions were few, not enough to sustain facing the Hé's north, he wished to take advantage of [Yuán] Shào being newly defeated, to in the interim strike and suppress Liú Biǎo. [Xún] Yù said: "Now [Yuán] Shào is defeated, his multitudes depart in heart, it is appropriate to take advantage of his destitution, and therefore settle him. To instead turn back on Yǎn and Yù and distantly march to the Jiāng and Hàn, if [Yuán] Shào gathers his remnant embers, takes advantage of the opening to set out to your rear, then Your Excellency's affairs are lost." Tàizǔ again stationed the Hé's upstream. [Yuán] Shào died of illness. Tàizǔ crossed the Hé, struck [Yuán] Shào's sons [Yuán] Tán and [Yuán] Shàng, but Gāo Gàn and Guō Yuán invaded and plundered Hédōng, the west of the passes was shaken and disturbed, Zhōng Yáo led Mǎ Téng and others to strike and defeated them. The story is in [[Zhōng] Yáo's biography](13.qmd#zhongyao). Eighth Year [203], Tàizǔ noted [Xún] Yù's beginning to end achievements, memorialized to enfeoff [Xún] Yù as Marquess of Wànsuì precinct. <a href="#annotation-8" id="source-8">[8]</a> Ninth Year [204], Tàizǔ captured Yè, designated Jì Province Governor. Someone advised Tàizǔ: "It is appropriate to revert to ancient installation of Nine Provinces, then what Jì Province controlls will be expansive and large, and Heaven's Under will submit." Tàizǔ was about to follow this, [Xún] Yù advised stating: "If so, then Jì Province will obtain the lands of Hédōng, Féngyì, Fúfēng, Xīhé, Yōu, Bìng, what it seizes away is much. In former days Your Excellency defeated Yuán Shàng, captured Shěn Pèi, Within the Seas was shaken and startled, certainly person after person themselves feared to be unable to protect their land and keep their troop multitudes. Now if they are made subordinate to Jì Province, they will all be disturbed in heart. Moreover of people many say the various officers west of the passes have plans to close the passes. Now on hearing of this, they will believe they will certainly in sequence meet with seizures. In one morning creating changes, even if there are those that keep to the good, they will coerce one another into doing wrong, then Yuán Shàng will be able escape his death, while Yuán Tán harbors treachery, Liú Biào would then protect between the Jiāng and Hàn, and Heaven's Under will not yet be easy to plan for. May Your Excellency urgently lead troops to first settle the Hé's north, afterward repair and restore the old capital, to the south overlook Jīng Province, reprimanding them for not submitting tribute, and then Heaven's Under will all understand Your Excellency's intentions, person after person will be self secure. Once Heaven's Under is greatly settled, and only then discussing ancient systems, this is beneficial to the State Altars enduring for a long time." Tàizǔ therefore set aside the Nine Provinces discussion.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+六年，太祖就穀東平之安民，糧少，不足與河北相支，欲因紹新破，以其閒擊討劉表。彧曰：「今紹敗，其眾離心，宜乘其困，遂定之；而背兗、豫，遠師江、漢，若紹收其餘燼，承虛以出人後，則公事去矣。」太祖復次于河上。紹病死。太祖渡河，擊紹子譚、尚，而高幹、郭援侵略河東，關右震動，鍾繇帥馬騰等擊破之。語在繇傳。八年，太祖錄彧前後功，表封彧為萬歲亭侯。〔一〕九年，太祖拔鄴，領冀州牧。或說太祖「宜復古置九州，則冀州所制者廣大，天下服矣。」太祖將從之，彧言曰：「若是，則冀州當得河東、馮翊、扶風、西河、幽、并之地，所奪者眾。前日公破袁尚，禽審配，海內震駭，必人人自恐不得保其土地，守其兵眾也；今使分屬冀州，將皆動心。且人多說關右諸將以閉關之計；今聞此，以為必以次見奪。一旦生變，雖有（善守）〔守善〕者，轉相脅為非，則袁尚得寬其死，而袁譚懷貳，劉表遂保江、漢之間，天下未易圖也。願公急引兵先定河北，然後修復舊京，南臨荊州，責貢之不入，則天下咸知公意，人人自安。天下大定，乃議古制，此社稷長久之利也。」太祖遂寢九州議。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-8" id="annotation-8">[8]</a> [Xún] Yù Biézhuàn^[Biézhuàn "Separate Biographies" were a genre of history providing an additional and supplemental biography to the canonical biography preserved in the Standard Histories. Usually these Separate Biographies were compiled by close friends or family of the biographical subject, so at times these works can be accused of being hagiographic.] records Tàizǔ's memorial stating: "Your Servant has heard that consideration is the head of achievement, planning is the root of rewards, merits in the field do not surpass those in the planning halls, having many battles does not exceed state contributions. Therefore the bestowment of Diǎnfù was not after Yíngqiū^[Diǎnfù may be a transcription error for Qūfù. Qūfù was a name for the fief of Zhōu-gōng, Yíngqiū for the fief of Tài-gōng. During the foundation of Zhōu, Tài-gōng had achievements of battle campaigns while Zhōu-gōng served at headquarters supporting the King.] and the lands of Xiāo Hé had precedence to Píngyáng.^[In the foundation of Hàn, Xiāo Hé served in planning and strategy at headquaters, while Cáo Cān served on the battlefield. Cáo Cān was rewarded with fief of Píngyáng, but Xiāo Hé was the most honored and given the greatest fief in the bestowal of rewards.] Treasured strategies and valued plans are what antiquity to the present has esteemed. Attendant Central observing Secretariat Writers Director [Xún] Yù amasses virtue and accumulates good conduct, youth to grown without regrets, encountered an age of turmoil and disturbance, harbored loyalty and cherished governance. Your Servant from first raising Righteous Troops, traveling about on campaign, with [Xún] Yù exterted strength of the same heart, Left and Right to the Royal strategies, in speaking advice and conferring strategies, none enacted were not effective. [Xún] Yù's achievements and work are how Your Servant reached success, employed to unroll the floating clouds, reveal the light of sun and moon. When Your Majesty visited Xǔ, [Xún] Yù was Left and Right near the mechanisms, loyal and scrupulous, respectful and compliant, like walking on thin ice, exhausting vitality to utmost sharpness, to succor the mass of affairs. The settlement of Heaven's Under, is [Xún] Yù's achievement. It is appropriate he enjoy high noble rank, to make clear his foremost achievement." 
+[Xún] Yù firmly declined citing a lack of field battle labors, and would not pass on Tàizǔ's memorial. Tàizǔ's letter to [Xún] Yù said: "From since you and I worked together, establishing the Court, your rectify and assisting me, your recommendation of people to me, your establishing of calculations for me, your confidential plans for me, have been very many. Achievements are not necessarily all field battles. May you not decline." [Xún] Yù thus accepted.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　彧別傳載太祖表曰：「臣聞慮為功首，謀為賞本，野績不越廟堂，戰多不踰國勳。是故典阜之錫，不後營丘，蕭何之土，先於平陽。珍策重計，古今所尚。侍中守尚書令彧，積德累行，少長無悔，遭世紛擾，懷忠念治。臣自始舉義兵，周游征伐，與彧戮力同心，左右王略，發言授策，無施不效。彧之功業，臣由以濟，用披浮雲，顯光日月。陛下幸許，彧左右機近，忠恪祗順，如履薄冰，研精極銳，以撫庶事。天下之定，彧之功也。宜享高爵，以彰元勳。」彧固辭無野戰之勞，不通太祖表。太祖與彧書曰：「與君共事已來，立朝廷，君之相為匡弼，君之相為舉人，君之相為建計，君之相為密謀，亦以多矣。夫功未必皆野戰也，願君勿讓。」彧乃受。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+At the time Xún Yōu regularly was the chief strategist, and [Xún] Yù's elder brother [Xún] Yǎn as Overseeing Army Colonel defended Yè, overall supervisor of the Hé's north's affairs. When Tàizǔ was campaigning against Yuán Shàng, Gāo Gàn, secretly sent troops planning to surprise attack Yè, [Xún] Yǎn in advance discovered it, completely executed them, for the achievement enfeoffed a Ranked Marquess. <a href="#annotation-9" id="source-9">[9]</a> Tàizǔ had a daughter be wife to [Xún] Yù's eldest son [Xún] Yùn, later titled Princess of Ānyáng. [Xún] Yù and [Xún] Yōu were both esteemed and valued, both were modest and frugal, their salaries and bestowments they distributed to their clansmen and old friends, the family had no surplus wealth. Twelfth Year [207], again increased [Xún] Yù's estate by a thousand households, totalling two thousand households. <a href="#annotation-10" id="source-10">[10]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+是時荀攸常為謀主。彧兄衍以監軍校尉守鄴，都督河北事。太祖之征袁尚也，高幹密遣兵謀襲鄴，衍逆覺，盡誅之，以功封列侯〔一〕。太祖以女妻彧長子惲，後稱安陽公主。彧及攸並貴重，皆謙沖節儉，祿賜散之宗族知舊，家無餘財。十二年，復增彧邑千戶，合二千戶。〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-9" id="annotation-9">[9]</a> Xún-shì Jiāzhuàn states: [Xún] Yǎn appellation Xiūruò was [Xún] Yù's third oldest elder brother. [Xún] Yù's fourth oldest elder brother [Xún] Chén appellation Yǒuruò,
+for the matter see [Yuán Shào's biography](06.qmd#yuanshao). Chén Qún and Kǒng Róng discussed the personages of Rǔ and Yǐng, [Chén] Qún said: "Xún [Yù] Wénruò, [Xún Yōu] Gōngdá, [Xún Yǎn] Xiūruò, [Xún Chén] Yǒuruò, [Xún Yuè] Zhòngyù, at present all are without match." [Xún] Yǎn's son [Xún] Shào's position reaced Minister Charioteer. [Xún] Shào's son [Xún] Róng appellation Bóyǎ with Wáng Bì and Zhōng Huì all were famed, became Luòyáng Magistrate, Advisor to General-in-Chief's Army Affairs, with [Wáng] Bì and [Zhōng] Huì discussed the meaning of the Yì and Lǎo, passed through the ages.^[Given the timing, the General-in-Chief here should be Cáo Shuǎng. The Yì jīng was a classic divnation text, the Lǎo-zǐ, also known as the Dào Dé jīng, was a classic philosophical text attributed to Lǎo-zǐ.] [Xún] Chén's son [Xún] Hóng appellation Zhòngmào was Heir-Apparent's Literary Scholarship Assistant. At the time there was a Jiǎ-Yǐ discourse on doubts,^[Jiǎ and Yǐ are the first two of the Ten Heavenly Stems used for ordinal counting, and therefore function similar to "A-B,"] [Xún] Hóng with Zhōng Yáo, Wáng Lǎng, Yuán Huàn in discussion each were in disagreement. Emperor Wén's letter to [Zhōng] Yáo said: "Yuán and Wáng are state servicemen, further are as lips and teeth, Xún Hóng is vigorous and fierce, going and coming like a sharp brigade, truly a strong enemy for you Lord Marquess, a deep worry of your Left and Right." Ended as Yellow Gate Attendant Cadet. [Xún] Hóng's cousin's grandson [Xún] Kuī appellation Jǐngwén was Heir-Apparent's Central Companion, also famed, with Jiǎ Chōng together standardized music pitch, also composed a Yì Compilation and Explanation.
+
+Zhòngyù named [Xún] Yuè, was Lánglíng Chief [Xún] Jiǎn's youngest son, [Xún] Yù's elder paternal cousin. Zhāng Fán's Hàn jì appraises [Xún] Yuè as pure and open, profound and tranquil, excellent at writing and narration. At Jiàn'ān's beginning became Confidential Writers Overseer Attendant Central, given Edict to edit down the Hàn shū into a Hàn jì of thirty fasciles, using the affairs to make clear good and wrong, conveying the canonical and important. The book was greatly circulated through the world.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　荀氏家傳曰：衍字休若，彧第三兄。彧第四兄諶，字友若，事見袁紹傳。陳群與孔融論汝、潁人物，群曰：「荀文若、公達、休若、友若、仲豫，當今並無對。」衍子紹，位至太僕。紹子融，字伯雅，與王弼、鍾會俱知名，為洛陽令，參大將軍軍事，與弼、會論易、老義，傳於世。諶子閎，字仲茂，為太子文學掾。時有甲乙疑論，閎與鍾繇、王朗、袁渙議各不同。文帝與繇書曰「袁、王國士，更為唇齒，荀閎勁悍，往來銳師，真君侯之勍敵，左右之深憂也。」終黃門侍郎。閎從孫（惲）〔煇〕字景文，太子中庶子，亦知名。與賈充共定音律，又作易集解。仲豫名悅，郎陵長儉之少子，彧從父兄也。張璠漢紀稱悅清虛沈靜，善於著述。建安初為祕書監侍中，被詔刪漢書作漢紀三十篇，因事以明臧否，致有典要；其書大行于世。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-10" id="annotation-10">[10]</a> [Xún] Yù Biézhuàn states: Tàizǔ also memorialized stating: "In the past Yuán Shào invaded and entered the suburb outskirts, battling at Guāndù. At the time troops were few and provisions exhausted, I planned a wish to return to Xǔ, wrote a letter to [Xún] Yù to discuss it, [Xún] Yù did not listen to Your Servant. He established the suitability to station, restored the plan to advance and suppress, and again raised Your Servant's heart, changed its foolish concerns, and therefore we destroyed a great rebel, overturned and took his multitudes. This is [Xún] Yù seeing the pivot of victory or defeat, strategy not seen in the world. Reaching to when [Yuán] Shào was broken and defeated, Your Servant's provisions were also exhausted, and I believed the Hé's north to not yet be easy to plan for, and wished to go south to suppress Liú Biǎo. [Xún] Yù again stopped Your Servant, laid out the gains and losses, Your Servant used turned banners, and therefore conquered a vicious clan, overcame and pacified four provinces. Supposing if Your Servant had retreated at Guāndù, [Yuán] Shào certainly would have drummed and marched to advance, creating the shape of downfall and situation of no success. Later if I had campaigned south, abandoning Yǎn and Yù, benefits would be difficult to seek, and we would have lost our foundational base. [Xún] Yù's two strategies turned destruction into survival, from disaster brought fortune, the exceptional plans and distinguished achievements are not what Your Servant can reach. Therefore the Former Emperor valued the achievement of directing and unleashing and were meager in rewarding fighting and catching.^[The founder of Hàn, Liú Bāng, famously rewarded Xiāo Hé above his battlefield officers, explaining that Xiāo Hé's achievements were like a man directing and unleashing dogs in a hunt, while the battlefield officers were like the dogs fighting and catching the prey.] The ancients esteemed the plans in the curtain tents, and held lower the victories of attacking and capturing. The previous noting of rewards do not yet match [Xún] Yù's towering achievements, I beg to again judge and discuss the level of his estate households." [Xún] Yù deeply declined, Tàizǔ replied to him stating: "Your strategies and plans are not only the two matters in the memorial. Beginning to end you are modest, do you wish to admire Lǔ Lián-xiānshēng? This is what a sagely man's understanding of integrity would not esteem. In the past Jiè Zǐtuī had a saying: 'To take another man's wealth is still called robbery.' All the more when your confidential plans have secured the multitudes, and those that have brought me glory are counted in the hundreds. To have two matters repayed and yet again decline them, why take too much of modest brightness?" Tàizǔ wished to memorialize [Xún] Yù to the Three Excellencies, [Xún] Yù sent Xún Yōu to deeply decline, reaching to tens of times, Tàizǔ then stopped.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　彧別傳曰：太祖又表曰：「昔袁紹侵入郊甸，戰於官渡。時兵少糧盡，圖欲還許，書與彧議，彧不聽臣。建宜住之便，恢進討之規，更起臣心，易其愚慮，遂摧大逆，覆取其眾。此彧睹勝敗之機，略不世出也。及紹破敗，臣糧亦盡，以為河北未易圖也，欲南討劉表。彧復止臣，陳其得失，臣用反旆，遂吞凶族，克平四州。向使臣退於官渡，紹必鼓行而前，有傾覆之形，無克捷之勢。後若南征，委棄兗、豫，利既難要，將失本據。彧之二策，以亡為存，以禍致福，謀殊功異，臣所不及也。是以先帝貴指縱之功，薄搏獲之賞；古人尚帷幄之規，下攻拔之捷。前所賞錄，未副彧巍巍之勳，乞重平議，疇其戶邑。」彧深辭讓，太祖報之曰：「君之策謀，非但所表二事。前後謙沖，欲慕魯連先生乎？此聖人達節者所不貴也。昔介子推有言『竊人之財，猶謂之盜』。況君密謀安眾，光顯於孤者以百數乎！以二事相還而復辭之，何取謙亮之多邪！」太祖欲表彧為三公，彧使荀攸深讓，至于十數，太祖乃止。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Tàizǔ was about to attack Liú Biǎo, asked [Xún] Yù what strategy should be used, [Xún] Yù said: "Now the Huáxià is already pacified, the southern lands understand exhaustion. You can prominently set out to Yuān and Shè^[The character for shè is also commonly pronounced yè in modern times.] while secretly marching light to advance, to surprise where they do not expect." Tàizŭ therefore went. It happened [Liú] Biǎo died of illness, Tàizǔ directly hastened to Yuān and Shè like [Xún] Yù's plan, [Liú] Biǎo's son [Liú] Cóng with the province in advance surrendered.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+太祖將伐劉表，問彧策安出，彧曰：「今華夏已平，南土知困矣。可顯出宛、葉而閒行輕進，以掩其不意。」太祖遂行。會表病死，太祖直趨宛、葉如彧計，表子琮以州逆降。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Seventeenth Year [212], Dǒng Zhāo and others said Tàizǔ should be advanced in noble rank to a state Duke, Nine Bestowments prepared gifts, to make clear the exceptional achievement, and secretly consulted [Xún] Yù. [Xún] Yù believed Tàizǔ "originally raised Righteous Troops to rectify the Court and pacify the state, maintaining loyal and dependable sincerity, upholding modest and deferential core. The noble man favors people with virtue. It is not appropriate to do this." Tàizǔ because of this in heart could not be at ease. It happened he campaigned against Sūn Quán, memorialized to request [Xún] Yù give appreciations to the army at Qiáo, took advantage to at once detain [Xún] Yù, appointed Attendant Central Radiant Grandee Holding Stave, Advisor to the Assistant Chancellor's Army Affairs. Tàizǔ's army reached Rúxū, [Xún] Yù was ill and remained at Shòuchūn, in anxiety died,^[Dying in anxiety (yōu) is often a euphemism for a suspicious death or suspected suicide.] at the time aged fifty. Posthumous name called Marquess Jìng. Next year, Tàizǔ therefore became Duke of Wèi. <a href="#annotation-11" id="source-11">[11]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+十七年，董昭等謂太祖宜進爵國公，九錫備物，以彰殊勳，密以諮彧。彧以為太祖本興義兵以匡朝寧國，秉忠貞之誠，守退讓之實；君子愛人以德，不宜如此。太祖由是心不能平。會征孫權，表請彧勞軍于譙，因輒留彧，以侍中光祿大夫持節，參丞相軍事。太祖軍至濡須，彧疾留壽春，以憂薨，時年五十。諡曰敬侯。明年，太祖遂為魏公矣。〔一〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-11" id="annotation-11">[11]</a> Wèi-shì Chūnqiū states: Tàizǔ sent [Xún] Yù food, opening it then it was an empty vessel, therefore he drank a drug and died. Xiānxí Second Year [265], posthumously titled [Xún] Yù as Grand Commandant.
+
+[Xún] Yù Biézhuàn states: [Xún] Yù from becomming Secretariat Writers Director always in letters explained affairs, when about to die, he burned them all, therefore his marvelous strategies and confidential plans cannot be completely known. At the time campaign conscription was roughly beginning, many systems were being restored, [Xún] Yù once advised Tàizǔ stating: "In the past Shùn assigned and mandated Yǔ, Jì, Qì, Gāotáo to regulate the various achievements, educational transformation and punitive campaigns at the same time were employed. Reaching to the beginning of Gāozǔ, metal and leather were just flourishing, yet he still raised people capable of excellent teaching and instruction, Shūsūn Tōng practiced ritual and ceremony amid the war regiments, Shìzǔ had the matters of casting aside spears to explain arts and resting horses to discuss the Way, the noble man is without violation of benevolence even in the time to finish a meal. Now Your Excellency outsides settles military achievements, inside raises civil scholarship, having shields and spears be put away in harmony, the Great Way to flow and spread, the state's troubles about to be ended, the Six Rituals all governed, this was how Jī Dàn governing Zhōu was able to quickly pacify. Having established virtue and established achievement, to yet also simultaneously establish word, is truly the intention of Zhòngní's transmission and composition. Manifesting regulation systems at the present time, raising fame to later generations, is it not magnificent? If one waited for military affairs to finish and only afterward create regulations, to delay governance transformation, for affairs it would not be agile. It is appropriate to gather Heaven's Under's great talents and comprehensive classicists, examine and discuss the Six Classics, edit and fix biographies and records, preserve the scholarship of antiquity and present, remove the confused and duplicated, to unify sagely truth, both expand ritual and scholarship, gradually encourage teaching transformation, then the King's Way is both fulfilled." [Xún] Yù leisurely with Tàizǔ discussed governance ways, the cases like this were extremely many, Tàizǔ always commended and accepted it. [Xún] Yù's virtue and conduct was thoroughly prepared, if it was not of the correct way then he did not employ heart, his reputation was heavy Under Heaven, none did not take him as model, Within the Seas the outstanding and eminent all took him as an exemplar. Sīmǎ [Yì] Xuān-wáng always praised: "Writings and accounts of distant affairs, my own ears and eyes have heard and seen in the hundreds within ten years, worthy talents have none that reach Director Lord Xún." Beginning to end those he nominated were fated generational great talents, in his home country then were Xún Yōu, Zhōng Yáo, Chén Qún, Within the Seas then was Sīmǎ [Yì] Xuān-wáng, and he attracted the present era's famed peers as Chī Lǜ, Huà Xīn, Wáng Lǎng, Xún Yuè, Dù Xí, Xīn Pí, Zhào Yǎn, in the end becoming ministers, in the tens of people. In selecting servicemen he did not have one standard, Xì Zhìcái, Guō Jiā and others were criticized for turning back on convention, Dù Jī was aloof and arrogant with little refinement, all for their wisdom and strategy were nominated, in the end each had prominent reputation. Xún Yōu later became Wèi Secretariat Writers Director, also pushed forward worthies and advanced servicemen. Tàizǔ said: "The two Director Xún in discussing men over time became increasingly trustworthy, to the end of my life I will never forget." Zhōng Yáo believed: "When Yán-zǐ died, those able to fulfill the nine virtues and not repeat mistakes, were only Xún Yù." Someone asked [Zhōng] Yáo stating: "You heavily praise Xún-jūn, comparing him to Yán-zǐ, believing yourself to not reach, can we hear why?" Said: "The enlightened lord takes servant as teacher, the next is to befriend them. With Tàizǔ's intelligence, every time there was a great affair, he always first consulted with Xún-jūn, this then was the ancient relationship of teacher and friend. The rest of us received mandates and then acted, and even then sometimes were not thorough, was the distance between us not far?"
+
+Xiàn-dì Chūnqiū states: When Dǒng Chéng was executed, Empress Fú wrote a letter to her father [Fú] Wán, saying "The Excellency of Works killed Dǒng Chéng, the Emperor will take revenge." [Fú] Wán obtained the letter and showed it to [Xún] Yù, [Xún] Yù hated it, for a long time concealed and did not report it. [Fú] Wán showed it to his wife's younger brother Fán Pǔ, [Fán] Pǔ sealed it to present to Tàizǔ, Tàizǔ secretly made preparations for it. [Xún] Yù later feared the matter was discovered, wished to personally report it, and therefore requested to be sent as envoy to Yè, and urged Tàizǔ to have a daughter be matched to the Emperor. Tàizǔ said: "Now the Court has Empress Fú, how can my daughter be matched to the Superior? I for minor achievements met with recognition, ranked as prime minister, how can I further depend on a daughter's favor?" [Xún] Yù said: "Empress Fú has no sons, by nature also is vicious and nefarious, in the past she wrote a letter to her father, the statements ugly and evil, you can take advantage of this to depose her." Tàizǔ said: "In the past why did Your Ministry not explain this?" [Xún] Yù acted shocked and said: "In the past I already once spoke about this to Your Excellency." Tàizǔ said: "How is this a small affair that I would forget?" [Xún] Yù again was shocked and said: "Truly did I not speak with Your Excellency? In the past Your Excellency was at Guāndù with Yuán Shào locked together, fearing to add to the concerns of your inner considerations, therefore I did not speak of it." Tàizǔ said: "After the Guāndù affairs why did you not speak?" [Xún] Yù had no reply, and apologized for the ommission and nothing more. Tàizǔ because of this resented [Xún] Yù, but outside tolerated him, therefore in the world none knew of it. Reaching to when Dǒng Zhāo established the proposal to enthrone as Duke of Wèi, [Xún] Yù's opinion was not in agreement, he wished to speak of it with Tàizǔ. Reaching to when he presented the Ruler's Seal marked letter to reward the army, the drinking and feasting rituals completed, [Xún] Yù remained to request an audience. Tàizǔ knew [Xún] Yù wished to speak of the enfeoffment matter, saluted and sent him away, [Xún] Yù therefore was not able to speak. [Xún] Yù died at Shòuchūn, a deserter from Shòuchūn reported to Sūn Quán saying that Tàizǔ had ordered [Xún] Yù to kill Empress Fú, [Xún] Yù would not follow, and therefore killed himself. [Sūn] Quán ad this revealed and announced to Shǔ, Liú Bèi heard it and said: "If the old bandit does not die, the disaster and chaos will not end."
+
+Your Servant Sōngzhī notes: Xiàn-dì Chūnqiū says [Xún] Yù wished to report the Empress Fú affair and so requested to be sent as envoy to Yè, but yet then lied to Tàizǔ saying in the past he already once spoke of it. The statement was already without proof, he further blamed the anxieties of Guāndù, in the span of looking down and looking up, his claims and sentiments were defeated. Even a mediocre man would yet not come to this, how could this blemish and disgrace a worthy sage? All these claims, are all produced from the lowly and vulgar, what can be called using the words of our sorts to grossly slander a noble man. Of the cases of Yuán Wěi's false libel, this is the most extreme.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏氏春秋曰：太祖饋彧食，發之乃空器也，於是飲藥而卒。咸熙二年，贈彧太尉。彧別傳曰：彧自為尚書令，常以書陳事，臨薨，皆焚毀之，故奇策密謀不得盡聞也。是時征役草創，制度多所興復，彧嘗言于太祖曰：「昔舜分命禹、稷、契、皋陶以揆庶績，教化征伐，並時而用。及高祖之初，金革方殷，猶舉民能善教訓者，叔孫通習禮儀於戎旅之閒，世祖有投戈講藝、息馬論道之事，君子無終食之閒違仁。今公外定武功，內興文學，使干戈戢睦，大道流行，國難方弭，六禮俱治，此姬旦宰周之所以速平也。既立德立功，而又兼立言，誠仲尼述作之意；顯制度於當時，揚名於後世，豈不盛哉！若須武事畢而後制作，以稽治化，於事未敏。宜集天下大才通儒，考論六經，刊定傳記，存古今之學，除其煩重，以一聖真，並隆禮學，漸敦教化，則王道兩濟。」彧從容與太祖論治道，如此之類甚眾，太祖常嘉納之。彧德行周備，非正道不用心，名重天下，莫不以為儀表，海內英雋咸宗焉。司馬宣王常稱書傳遠事，吾自耳目所從聞見，逮百數十年間，賢才未有及荀令君者也。前後所舉者，命世大才，邦邑則荀攸、鍾繇、陳群，海內則司馬宣王，及引致當世知名郗慮、華歆、王朗、荀悅、杜襲、辛毗、趙儼之儔，終為卿相，以十數人。取士不以一揆，戲志才、郭嘉等有負俗之譏，杜畿簡傲少文，皆以智策舉之，終各顯名。荀攸後為魏尚書令，亦推賢進士。太祖曰：「二荀令之論人，久而益信，吾沒世不忘。」鍾繇以為顏子既沒，能備九德，不貳其過，唯荀彧然。或問繇曰：「君雅重荀君，比之顏子，自以不及，可得聞乎？」曰：「夫明君師臣，其次友之。以太祖之聰明，每有大事，常先諮之荀君，是則古師友之義也。吾等受命而行，猶或不盡，相去顧不遠邪！」獻帝春秋曰：董承之誅，伏后與父完書，言司空殺董承，帝方為報怨。完得書以示彧，彧惡之，久隱而不言。完以示妻弟樊普，普封以呈太祖，太祖陰為之備。彧後恐事覺，欲自發之，因求使至鄴，勸太祖以女配帝。太祖曰：「今朝廷有伏后，吾女何得以配上，吾以微功見錄，位為宰相，豈復賴女寵乎！」彧曰：「伏后無子，性又凶邪，往常與父書，言辭醜惡，可因此廢也。」太祖曰：「卿昔何不道之？」彧陽驚曰：「昔已嘗為公言也。」太祖曰：「此豈小事而吾忘之！」彧又驚曰：「誠未語公邪！昔公在官渡與袁紹相持，恐增內顧之念，故不言爾。」太祖曰：「官渡事後何以不言？」彧無對，謝闕而已。太祖以此恨彧，而外含容之，故世莫得知。至董昭建立魏公之議，彧意不同，欲言之於太祖。及齎璽書犒軍，飲饗禮畢，彧留請閒。太祖知彧欲言封事，揖而遣之，彧遂不得言。彧卒於壽春，壽春亡者告孫權，言太祖使彧殺伏后，彧不從，故自殺。權以露布於蜀，劉備聞之，曰：「老賊不死，禍亂未已。」臣松之案獻帝春秋云彧欲發伏后事而求使至鄴，而方誣太祖云「昔已嘗言」。言既無徵，迴託以官渡之虞，俛仰之閒，辭情頓屈，雖在庸人，猶不至此，何以玷累賢哲哉！凡諸云云，皆出自鄙俚，可謂以吾儕之言而厚誣君子者矣。袁暐虛罔之類，此最為甚也。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Son [Xún] Yùn succeed the Marquessate, office reached Tiger Elite Central Cadet General. Previously, Emperor Wén with the Marquess of Píngyuán [Cáo] Zhí both were assessed and discussed (as potential heirs), Emperor Wén humbled himself to courteously serve [Xún] Yù. Reaching to when [Xún] Yù died, [Xún] Yùn also with [Cáo] Zhí was friendly, and further with Xiàhóu Shàng was not at peace, Emperor Wén deeply resented [Xún] Yùn. [Xún] Yùn early died, his sons [Xún] Hán, [Xún] Yì, <a href="#annotation-12" id="source-12">[12]</a> due to being sister's sons were still favorably treated. [Xún] Yùn's younger brother [Xún] Yǔ was Censorate Central Deputy. [Xún] Yǔ's younger brother [Xún] Shēn was General-in-Chief's Following Official Central Cadet, all famed, early died. <a href="#annotation-13" id="source-13">[13]</a> [Xún] Shēn's younger brother [Xún] Yǐ, during Xiánxī became Excellency of Works. <a href="#annotation-14" id="source-14">[14]</a> [Xún] Yùn's son [Xún] Hán succeeded as Cavalier Regular Attendant, advanced in noble title to Marquess of Guǎngyáng village, aged thirty died, his son [Xún] Jūn succeeded. <a href="#annotation-15" id="source-15">[15]</a> [Xún] Yì's office reacked Central Manager of the Army, died, posthumous name called Marquess Zhēn, posthumously titled Agile Cavalry General. His son [Xún] Kǎi succeeded. [Xún] Yì's wife was the younger sister of Sīmǎ [Shī] King Jǐng and Sīmǎ [Zhāo] King Wén. The Two Kings both were close and friendly. During Xiánxī, opened the establishment of the Five Ranks, [Xún] Yì had noted achievements to the previous Court, changed enfeoffment of [Xún] Kǎi to Viscount of Nándùn. <a href="#annotation-16" id="source-16">[16]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+子惲，嗣侯，官至虎賁中郎將。初，文帝與平原侯植並有擬論，文帝曲禮事彧。及彧卒，惲又與植善，而與夏侯尚不穆，文帝深恨惲。惲早卒，子甝、霬，〔〇〕以外甥故猶寵待。惲弟俁，御史中丞，俁弟詵，大將軍從事中郎，皆知名，早卒。〔一〕詵弟顗，咸熙中為司空。〔二〕惲子甝，嗣為散騎常侍，進爵廣陽鄉侯，年三十薨。子頵嗣。〔三〕霬官至中領軍，薨，諡曰貞侯，追贈驃騎將軍。子愷嗣。霬妻，司馬景王、文王之妹也，二王皆與親善。咸熙中，開建五等，霬以著勳前朝，改封愷南頓子。〔四〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-12" id="annotation-12">[12]</a> Pronounced Yì
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔〇〕音翼
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-13" id="annotation-13">[13]</a> Xún-shì Jiāzhuàn states: [Xún] Yùn appellation Chángqiàn, [Xún] Yǔ appellation Shūqiàn, [Xún] Shēn appellation Mànqiàn, [Xún] Yǔ's son [Xún] Yù appellation Jǐngbó.
+
+Shìyǔ states: [Xún] Yù in youth with Péi Kǎi, Wáng Róng, Dù Mò all had fame in the capital city, served Jìn, position reached Secretariat Writer, his reputation met with prominent recognition. His son [Xún] Yǔ succeeded, position reached Secretariat Writer.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　荀氏家傳曰：惲字長倩，俁字叔倩，詵字曼倩，俁子寓，字景伯。世語曰：寓少與裴楷、王戎、杜默俱有名京邑，仕晉，位至尚書，名見顯著。子羽嗣，位至尚書。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-14" id="annotation-14">[14]</a> Jìn Yángqiū states: [Xún] Yǐ appellation Jǐngqiàn, in youth impressed his elder sister's husband Chén Qún. Widely learned and extensively informed, his thinking were meticulous. Sīmǎ [Yì] Xuān-wáng met [Xún] Yǐ, marvelled at him, and said: "This is Director Lord Xún's son. Recently I met Yuán Kǎn, who also was [Yuán Huàn] Yàoqīng's son." Selected out for appointment as Cavalier Attendant Cadet. [Xún] Yǐ assisted the mandate of the Jìn House, position reached Grand Commandant, enfeoffed Duke Kāng of Línhuái. Once he criticized Zhōng Huì "Yì is Without Mutual Form," met with acclaim in the world. [Xún] Yǐ's younger brother [Xún] Càn appellation Fèngqiàn.
+
+Hé Shào made a biography for [Xún] Càn's stating: [Xún] Càn appellation Fèngqiàn. [Xún] Càn's various elder brothers all theorized and discussed Classicist skills, but [Xún] Càn alone enjoyed speaking of the Dào, always believing: "Zǐ Gòng appraised the words of the Master in nature accorded with Heaven's Way but cannot be heard, that being the case although the Six Classics are preserved, assuredly they are the chaff and husks of the sagely man." [Xún] Càn's elder brother [Xún] Yǔ criticized stating: "The Yì also says the sagely men established symbols to completely express ideas and connected statements to completely speak,^[Symbols (xiàng) is also the title of a canonical Xiàng commentary in the Yì jīng. Connected statements (xìcí) is also the title of the canonical Xìcí commentary in the Yì jīng.] then how can subtle words be unable to be heard and seen?" [Xún] Càn answered stating: "The subtlety of reasoning is not what material symbols can indicate. Now the statement 'established symbols to completely express ideas,' this is not to communicte ideas to the outside. 'Connected statements to completely speak,' this is not saying to connect to the exterior. This then is that ideas outside the symbols and words connected to the exterior assuredly are contained and not given out." At the time those capable of debate were not able to defeat him. Also he opined that his father [Xún] Yù did not compare to his elder cousin [Xún] Yōu.^[Though Xún Yù was younger than Xún Yōu, he was of the same generation as Xún Yōu's father, and Xún Yōu was of the same generation as Xún Càn.] [Xún] Yù established virtue high and tidy, using bearing and ceremony to instruct people, but [Xún] Yōu did not manage outer appearances, meticulously maitaining himself and nothing more. [Xún] Càn by these statements praised [Xún] Yōu, his various elder brothers were angry but unable to turn him. At Tàihé's beginning, he arrived at the capital city and conversed with Fù Gǔ. [Fù] Gǔ excelled in naming and logic while [Xún] Càn esteemed the dark and profound, although what the schools conveyed was the same, in times of hurry sometimes there were obstructions and they could not satisfy one another. Péi Huī understood the feelings of each side, acted as a relay between the two philosophies, and shoftly after this, [Xún] Xàn and [Fù] Gǔ became friends. Xiàhóu Xuán also was close with him. He always said to [Fù] Gǔ and [Xiàhóu] Xuán stating: "You sirs walk in wordly roads, your achievements and fame certainly will surpass mine, only your knowledge is inferior to mine." [Fù] Gǔ criticized stating: "Ability to flourish in achievements and fame is knowledge. Under Heaven who has insufficient roots that yet has ends in abundance?" [Xún] Càn said: "Achievements and fame are rewards for ambition and scope. That being the case ambition and scope surely are only one thing, assuredly not what knowledge alone can fulfill. I take the ability to instruct you sirs as nobility, however I cannot necessarily reach what you sirs can do." [Xún] Càn always believed that for women, talent and wisdom were not worth discussing, and it was surely appropriate to take beauty as most important. Agile Cavalry General Cáo Hóng's daughter had beauty, [Xún] Càn thereupon betrothed to her, their clothes and curtains were extremely luxurious, focused on housing joyous feasts. After several years, the wife died of illness, when not yet encoffined, Fù Gǔ went to condole [Xún] Càn. [Xún] Càn did not weep but his spirit was wounded. [Fù] Gǔ asked him stating: "For a woman to have both abundant talent and beauty is difficult. In your marriage you omitted talent and enjoyed beauty. This surely is easy to encounter, now why grieve so extremely?" [Xún] Càn said: "A beautiful woman is difficult to twice obtain! Although the deceased did not have beauty to overturn a state, however it cannot be said to be easy to encounter." His sorrow and lamentation could not be stopped, in over a year he also died, at the time aged twenty-nine. [Xún] Càn was selective of nobility, unable to associate with ordinary people, those he associated with were outstanding talents of the era. Reaching the evening of the burial, the attending were only ten and some people, all famous servicemen of the same era, weeping for him, emotionally moving people on the streets.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　晉陽秋曰：顗字景倩，幼為姊夫陳群所異。博學洽聞，意思慎密。司馬宣王見顗，奇之，曰：「荀令君之子也。近見袁侃，亦曜卿之子也。」擢拜散騎侍郎。顗佐命晉室，位至太尉，封臨淮康公。嘗難鍾會「易無互體」，見稱於世。顗弟粲，字奉倩。何劭為粲傳曰：粲字奉倩，粲諸兄並以儒術論議，而粲獨好言道，常以為子貢稱夫子之言性與天道，不可得聞，然則六籍雖存，固聖人之糠秕。粲兄俁難曰：「易亦云聖人立象以盡意，繫辭焉以盡言，則微言胡為不可得而聞見哉？」粲答曰：「蓋理之微者，非物象之所舉也。今稱立象以盡意，此非通于意外者也。繫辭焉以盡言，此非言乎繫表者也；斯則象外之意，繫表之言，固蘊而不出矣。」及當時能言者不能屈也。又論父彧不如從兄攸。彧立德高整，軌儀以訓物，而攸不治外形，慎密自居而已。粲以此言善攸，諸兄怒而不能迴也。太和初，到京邑與傅嘏談。嘏善名理而粲尚玄遠，宗致雖同，倉卒時或有格而不相得意。裴徽通彼我之懷，為二家騎驛，頃之，粲與嘏善。夏侯玄亦親。常謂嘏、玄曰：「子等在世塗間，功名必勝我，但識劣我耳！」嘏難曰：「能盛功名者，識也。天下孰有本不足而末有餘者邪？」粲曰：「功名者，志局之所獎也。然則志局自一物耳，固非識之所獨濟也。我以能使子等為貴，然未必齊子等所為也。」粲常以婦人者，才智不足論，自宜以色為主。驃騎將軍曹洪女有美色，粲於是娉焉，容服帷帳甚麗，專房歡宴。歷年後，婦病亡，未殯，傅嘏往喭粲；粲不哭而神傷。嘏問曰：「婦人才色並茂為難。子之娶也，遺才而好色。此自易遇，今何哀之甚？」粲曰：「佳人難再得！顧逝者不能有傾國之色，然未可謂之易遇。」痛悼不能已，歲餘亦亡，時年二十九。粲簡貴，不能與常人交接，所交皆一時俊傑。至葬夕，赴者裁十餘人，皆同時知名士也，哭之，感動路人。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-15" id="annotation-15">[15]</a> Xún-shì Jiāzhuàn states: [Xún] Jūn appellation Wēnbó was Feather Forest Right Oversser, early died.
+
+[Xún] Jūn's son [Xún] Sōng appellation Jǐngyóu. Jìn Yángqiū appraises: [Xún] Sōng in youth had ambition and conduct, elegant and enjoyed literary scholarship, filial and righteous and harmonious and loving, at Court was respectful and diligent, position reached Left and Right Radiant Grandee, Opening Office and Ceremony Equal to the Three Excellencies. [Xún] Sōng's son [Xún] Xiàn appellation Lìngzé was pure and harmonious and had talent, bestowed a princess, in youth successively had prominent positions, aged twenty-eight became North Central Cadet General, Inspector of Xú and Yǎn two provinces, Lent Stave as Overall Supervisor of Xú, Yǎn, Qīng three provinces' various army affairs. In office for ten years, encountering illness he was dismissed, died at home, posthumously titled Agile Cavalry General. [Xún] Xiàn's grandson [Xún] Bózǐ is the present Censorate Central Deputy.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔三〕　荀氏家傳曰：頵字溫伯，為羽林右監，早卒。頵子崧，字景猷。晉陽秋稱崧少有志操，雅好文學，孝義和愛，在朝恪勤，位至左右光祿大夫、開府儀同三司。崧子羨，字令則，清和有才。尚公主，少歷顯位，年二十八為北中郎將，徐、兗二州刺史，假節都督徐、兗、青三州諸軍事。在任十年，遇疾解職，卒於家，追贈驃騎將軍。羨孫伯子，今御史中丞也。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-16" id="annotation-16">[16]</a> Xún-shì Jiāzhuàn states: [Xún] Kǎi in Jìn Emperor Wǔ's time was Attendant Central.
+
+Gān Bǎo's Jìn jì states: Emperor Wǔ sent Attendant Central Xún Yǐ, Hé Jiào both to the East Palace to observe the Heir-Apparent. [Xún] Yǐ returned and praised "the Heir-Apparent's virtue and knowledge is advancing abundantly," but [Hé] Jiào said "the Sagely character is as before."
+
+Sūn Shèng states "Sent Xún Xù," the rest of the story then is the same.
+
+Your Servant Sōngzhī notes: When Hé Jiào was Attendant Central, Xún Yǐ had been dead for a long time. Xùn Xù's position was second only to the Terrace Managers, not of the same level as [Hé] Jiào, with no opportunity to be called an Attendant Central then. What the two books say is both wrong. Investigating the positions of the time, it truly should be [Xún] Kǎi.
+
+[Xún] Kǎi's position reached Campagining West General-in-Chief. [Xún] Kǎi's elder brother [Xún] Dàn was Minister Treasurer, younger brother [Xún] Lǐ was Protector of the Army General, posthumously titled Chariots and Cavalry General-in-Chief.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔四〕　荀氏家傳曰：愷，晉武帝時為侍中。于寶晉紀曰：武帝使侍中荀顗、和嶠俱至東宮，觀察太子。顗還稱太子德識進茂，而嶠云聖質如初。孫盛曰「遣荀勗」，其餘語則同。臣松之案和嶠為侍中，荀顗亡沒久矣。荀勗位亞台司，不與嶠同班，無緣方稱侍中。二書所云，皆為非也。考其時位，愷寔當之。愷位至征西大將軍。愷兄憺，少府。弟悝，護軍將軍，追贈車騎大將軍。
+:::
+:::
+:::
 
 ## Xún Yōu {.unnumbered #xunyou}
-[TODO]
+
+::: {.columns}
+::: {.column width="70%"}
+Xún Yōu appellation Gōngdá was [Xún] Yù's cousin's son. His grandfather [Xún] Tán was Guǎnglíng Administrator. <a href="#annotation-17" id="source-17">[17]</a> [Xún] Yōu in youth was orphaned. Reaching to when [Xún] Tán died, his former clerk Zhāng Quán requested to guard [Xún] Tán's tomb. [Xún] Yōu was aged thirteen, suspected him, and spoke to his father's younger brother [Xún] Qú stating: "This clerk has an expression out of the ordinary, probably there is treachery." [Xún] Qú became aware and so investigated, and indeed he had killed a man and was a fugitive. Because of this he was considered extraordinary. <a href="#annotation-18" id="source-18">[18]</a> When Hé Jìn controlled the government, summoned famed servicemen Within the Seas of [Xún] Yōu and others of over twenty men. [Xún] Yōu arrived, appointed Yellow Gate Attendant Cadet. In the chaos of Dǒng Zhuó, east of the passes troops rose, [Dǒng] Zhuó relocated the capital to Cháng'ān. [Xún] Yōu with Consultant Cadets Zhèng Tài, Hé Yóng, Attendant Centrals Zhǒng Jí, Surpassing Cavalry Colonel Wǔ Qióng and others plotted stating: "Dǒng Zhuó is without morality, as extreme as Jié and Zhòu, Heaven's Under all resents him, although he has strong troops, in fact he is only one common fellow. Now to directly assassinate him to apologize to the Hundred Surnames, then afterward occupy Xiáo and Hán, assist the Royal Mandate, to command Heaven's Under, this is the action of Huán and Wén." The matter was about to complete but was discovered, arrested [Hé] Yóng and [Xún] Yōu, bound in prison, [Hé] Yóng in anxiety and apprehension killed himself, <a href="#annotation-19" id="source-19">[19]</a> [Xún] Yōu spoke and drank and ate at ease, it happened [Dǒng] Zhuó died and he obtained release. <a href="#annotation-20" id="source-20">[20]</a> Abandoned office and returned home, again was recruited by the Offices of the Excellencies, nominated High Level, promoted Rènchéng Chancellor, did not go. [Xún] Yōu because Shǔ-Hàn was rugged and firm, the people flourishing, thus requested to be Shǔ prefecture Administrator, the roads were cut off and he was not able to arrive, stopped in Jīng Province.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+荀攸字公達，彧從子也。祖父曇，廣陵太守。〔一〕攸少孤。及曇卒，故吏張權求守曇墓。攸年十三，疑之，謂叔父衢曰：「此吏有非常之色，殆將有姦！」衢寤，乃推問，果殺人亡命。由是異之〔二〕。何進秉政，徵海內名士攸等二十餘人。攸到，拜黃門侍郎。董卓之亂，關東兵起，卓徙都長安。攸與議郎鄭泰、何顒、侍中种輯、越騎校尉伍瓊等謀曰：「董卓無道，甚於桀紂，天下皆怨之，雖資彊兵，實一匹夫耳。今直刺殺之以謝百姓，然後據殽、函，輔王命，以號令天下，此桓文之舉也。」事垂就而覺，收顒、攸繫獄，顒憂懼自殺，〔三〕攸言語飲食自若，會卓死得免。〔四〕棄官歸，復辟公府，舉高第，遷任城相，不行。攸以蜀漢險固，人民殷盛，乃求為蜀郡太守，道絕不得至，駐荊州。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-17" id="annotation-17">[17]</a> Xún-shì Jiāzhuàn states: [Xún] Tán appellation Yuánzhì. Elder brother [Xún] Yù appellation Bóxiū. Zhāng Fán's Hàn jì appraises [Xún] Yù and [Xún] Tán both as outstanding and eminent with exceptional talent. [Xún] Yù with Lǐ Yīng, Wáng Chàng, Dù Mì and others were called as the Eight Eminents, position reached Pèi Chancellor. [Xún] Yōu's father [Xún] Yí was a provincial Following Official. [Xún] Yí and [Xún] Yù were paternal second cousins.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　荀氏家傳曰：曇字元智。兄昱，字伯脩。張璠漢紀稱昱、曇並傑俊有殊才。昱與李膺、王暢、杜密等號為八俊，位至沛相。攸父彝，州從事。彝於彧為從祖兄弟。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-18" id="annotation-18">[18]</a> Wèi shū states: When [Xún] Yōu was aged seven to eight years, [Xún] Qú once was intoxicated, accidentally wounded [Xún] Yōu's ear. Whenever [Xún] Yōu went out and in to play, he always avoided and hid it not wishing to let [Xún] Qú see it. [Xún] Qú later heard of it, then was astonished his precocious intelligence was like this.
+
+Xún-shì Jiāzhuàn states: [Xún] Qú's son [Xún] Qí appellation Bóqí, with his cousin's father [Xún] Yīn both were famed. [Xún] Qí with Kǒng Róng discussed flesh punishments, [Xún] Yīn with Kǒng Róng discussed the goods and bads of sagely men, both in [Kǒng] Róng's Collected Works. [Xún] Qí's position reached Jǐyīn Administrator. [Xún] Yīn later was summoned as Having the Way, reached Assistant Chancellor's Libationer.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　魏書曰：攸年七八歲，衢曾醉，誤傷攸耳；而攸出入遊戲，常避護不欲令衢見。衢後聞之，乃驚其夙智如此。荀氏家傳曰：衢子祈，字伯旗，與族父愔俱著名。祈與孔融論肉刑，愔與孔融論聖人優劣，並在融集。祈位至濟陰太守；愔後徵有道，至丞相祭酒。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-19" id="annotation-19">[19]</a> Zhāng Fán's Hàn jì states: [Hé] Yóng appellation Bóqiú, in youth with Guō Tài, Jiǎ Biāo and others traveled and studied in Luòyáng, [Guō] Tài and the rest with him had the same mannerisms and enjoyments. [Hé] Yóng had prominent fame in the Grand Academy, thereupon the Central Court's famed ministers Grand Commandant Chén Fān, Director of Retainers Lǐ Yīng and others all deeply connected with him. Reaching to when the partisanship matter arose, [Hé] Yóng also was named among them, thus he changed his personal name and surname and fled to hide in Rǔnán, wherever he arrived he all associated with their heroic and strong. [Hé] Yóng was already impressed by Tàizǔ and further knew of Xún Yù, Yuán Shào admired him, and with him became running about friends. At the time Under Heaven of servicemen officials many encountered partisanship troubles, [Hé] Yóng every year two to three times secretly entered Luòyáng, followed [Yuán] Shào in deliberating plans, for various servicemen in destitution and distress resolving troubles and disasters. But Yuán Shù also was a heroic vigilante, with [Yuán] Shào competing for fame, [Hé] Yóng never visited [Yuán] Shù, [Yuán] Shù deeply resented him.
+
+Hàn Mò Míngshì lù states: [Yuán] Shù once when seated with the masses ennumerated [Hé] Yóng's three crimes, stating: "Wáng Démí is an eminent elder of foresight, fame and virtue high and bright, but Bóqiú neglected him, this is crime one. Xǔ Zǐyuǎn is a vicious licentious person, character and conduct not pure, but Bóqiū is close with him, this is crime two. Guō and Jiǎ are poor without other resources or assets, but Bóqiú has fat horses and light furs, dazzling on the road, this is crime three." Táo Qiūhóng said: "Wáng Démí is a great worthy but falls short in relieving the times. Xǔ Zǐyuǎn though is not pure yet he hurries to troubles without fear of wetting feat. Bóqiú in recommending the good then uses Démí as head, in relieving troubles then uses Zǐyuǎn as exemplar. Moreover Bóqiú once for Yú Wěigāo took revenge with his own hand and blade, his righteous reputation burst forth. The enemy house amassed wealth of tremendous myriads, fine horses in a hundred teams, yet you wish to have Bóqiú have lean ox and weary horse, stopping prostrate on the road, this is is to expose his chest and lend a blade to the his enemy." [Yuán] Shù's thoughts still were not at peace. Later he with Nányáng's Zōng Chéng gathered below the watchtowers, [Yuán] Shù flew into a rage and said: "Hé Bóqiú is of vicious influence, I will kill him." [Zōng] Chéng said: "Hé-shēng is an outstanding eminent serviceman, you sir should well treat him, to spread a good reputation to Heaven's Under." [Yuán] Shù thus stopped. Later when the Partisanship Prohibitions were eliminated and resolved, summoned to the Office of the Excellency of Works. Every time the Three Offices Assistants and Associates gathered to discuss, [Hé] Yóng's strategies and plans were in abundance, the commentators all believed themselves to not reach him. Promoted to North Army Central Captain, Dǒng Zhuó appointed him Chief Clerk. Later when Xún Yù became Secretariat Writers Director, he sent someone to welcome the coffin of his father's younger brother Excellency of Works [Xún] Shuǎng, and sent to also take [Hé] Yóng's body, and buried it beside [Xún] Shuǎng's burial mound.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔三〕　張璠漢紀曰：顒字伯求，少與郭泰、賈彪等遊學洛陽，泰等與同風好。顒顯名太學，於是中朝名臣太傅陳蕃、司隸李膺等皆深接之。及黨事起，顒亦名在其中，乃變名姓亡匿汝南間，所至皆交結其豪桀。顒既奇太祖而知荀彧，袁紹慕之，與為奔走之友。是時天下士大夫多遇黨難，顒常歲再三私入洛陽，從紹計議，為諸窮窘之士解釋患禍。而袁術亦豪俠，與紹爭名。顒未常造術，術深恨之。漢末名士錄曰：術常於眾坐數顒三罪，曰：「王德彌先覺雋老，名德高亮，而伯求疏之，是一罪也。許子遠凶淫之人，性行不純，而伯求親之，是二罪也。郭、賈寒窶，無他資業，而伯求肥馬輕裘，光耀道路，是三罪也。」陶丘洪曰：「王德彌大賢而短於濟時，許子遠雖不純而赴難不憚濡足。伯求舉善則以德彌為首，濟難則以子遠為宗。且伯求嘗為虞偉高手刃復仇，義名奮發。其怨家積財巨萬，文馬百駟，而欲使伯求羸牛疲馬，頓伏道路，此為披其胸而假仇敵之刃也。」術意猶不平。後與南陽宗承會於闕下，術發怒曰：「何伯求，凶德也，吾當殺之。」承曰：「何生英俊之士，足下善遇之，使延令名於天下。」術乃止。後黨禁除解，辟司空府。每三府掾屬會議，顒策謀有餘，議者皆自以為不及。遷北軍中候，董卓以為長史。後荀彧為尚書令，遣人迎叔父司空爽喪，使并置顒尸，而葬之於爽冢傍。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-20" id="annotation-20">[20]</a> Wèi shū says [Xún] Yōu sent someone to persuade [Dǒng] Zhuó to escape, with this not the same.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔四〕　魏書云攸使人說卓得免，與此不同。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+When Tàizǔ welcomed Heaven's Son to set capital in Xǔ, he left [Xún] Yōu a letter that said: "Right now Heaven's Under is in great chaos, a time for wise servicemen to labor their hearts, yet you think to watch for changes in Shǔ-Hàn, has it not been long enough?" Thereupon summoned [Xún] Yōu as Rǔnán Administrator, entered as Secretariat Writer. Tàizǔ had formerly heard of [Xún] Yōu's reputation, spoke with him and was greatly pleased, said to Xún Yù and Zhōng Yáo stating: "Gōngdá is no ordinary man. As I am able to plan affairs with him, what worries are there Under Heaven?" Appointed him Army Preceptor. Jiàn'ān Third Year [198], followed the campaign against Zhāng Xiù. [Xún] Yōu advised Tàizǔ stating: "[Zhāng] Xiù with Liú Biǎo rely on one another to be strong, however [Zhāng] Xiù is a mobile army relying on [Liú] Biǎo for food, if [Liú] Biǎo cannot supply it, they will certainly separate. It is not as good as relaxing the army to wait for them, he can be enticed and delivered. If you press them, they will certainly rescue one another." Tàizǔ did not follow this, therefore advanced the army to Ráng, battled with them. [Zhāng] Xiù was pressed, [Liú] Biǎo indeed rescued him. The army was not successful, Tàizǔ said to [Xún] Yōu stating: "Not employing your advice it came to this." Thus deployed surprise troops and again battled, greatly defeated them.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+太祖迎天子都許，遺攸書曰：「方今天下大亂，智士勞心之時也，而顧觀變蜀漢，不已久乎！」於是徵攸為汝南太守，入為尚書。太祖素聞攸名，與語大悅，謂荀彧，鍾繇曰：「公達，非常人也，吾得與之計事，天下當何憂哉！」以為軍師。建安三年，從征張繡。攸言於太祖曰：「繡與劉表相恃為彊，然繡以遊軍仰食於表，表不能供也，勢必離。不如緩軍以待之，可誘而致也；若急之，其勢必相救。」太祖不從，遂進軍之穰，與戰。繡急，表果救之。軍不利。太祖謂攸曰：「不用君言至是。」乃設奇兵復戰，大破之。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+That year, Tàizǔ from Yuān campaigned against Lǚ Bù, <a href="#annotation-21" id="source-21">[21]</a> reached Xiàpī, [Lǚ] Bù was defeated and retreated and firmly defended, attacking him he could not be taken, continuously battled, the soldiers were weary, Tàizǔ wished to return. [Xún] Yōu with Guō Jiā advised stating: "Lǚ Bù is valorous but without planning, now in three battles he always was defeated, his sharp spirit has declined. The Three Armies takes the commander as master, when the master declines then the army is without thought of exertion. As for Chén Gōng he has wisdom but is slow, now while [Lǚ] Bù's spirit has not yet recovered and [Chén] Gōng's plans are not yet settled, advance to urgently attack them, and [Lǚ] Bù can be taken." Thus diverted the Yí and Sì to flood the city, the city collapsed, captured [Lǚ] Bù alive.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+是歲，太祖自宛征呂布，〔一〕至下邳，布敗退固守，攻之不拔，連戰，士卒疲，太祖欲還。攸與郭嘉說曰：「呂布勇而無謀，今三戰皆北，其銳氣衰矣。三軍以將為主，主衰則軍無奮意。夫陳宮有智而遲，今及布氣之未復，宮謀之未定，進急攻之，布可拔也。」乃引沂、泗灌城，城潰，生禽布。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-21" id="annotation-21">[21]</a> Wèi shū states: Commentators said: "[Liú] Biǎo and [Zhāng] Xiù are at the rear, to yet return to surprise attack Lǚ Bù, the danger of that is certain." [Xún] Yōu believed: "[Liú] Biǎo and [Zhāng] Xiù are newly defeated, their momentum is to not dare to move. [Lǚ] Bù is valiant and fierce, and also relies on Yuán Shù, if he runs free between the Huái and Sì, powerful figures will certainly answer him. Now take advantage that they are beginning to rebel, the hearts of the multitudes not yet unified, in going they can be defeated." Tàizǔ said: "Excellent." By the time they went, [Lǚ] Bù had defeated Liú Bèi, and Zāng Bà and others answered to him.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏書曰：議者云表、繡在後而還襲呂布，其危必也。攸以為表、繡新破，勢不敢動。布驍猛，又恃袁術，若縱橫淮、泗間，豪傑必應之。今乘其初叛，眾心未一，往可破也。太祖曰：「善。」比行，布以敗劉備，而臧霸等應之。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Later followed the rescue of Liú Yán at Báimǎ, [Xún] Yōu drew up the strategy that beheaded Yán Liáng. The story is in the [Wǔ Annals](01.qmd#caocao). Tàizǔ evacuated Báimǎ and returned, sent the heavy supply wagons to go along the Hé west, Yuán Shào crossed the Hé and pursued, suddenly encountered Tàizǔ. The various officers were all afraid, advising Tàizǔ to return to protect the camp. [Xún] Yōu said: "This is the way to capture the enemy, how can we abandon it?" Tàizǔ eyed [Xún] Yōu and smiled. Therefore used the heavy supply wagons to lure the rebels, the rebels competed to chase them, their battle lines were chaotic. Thus unleashed infantry and cavalry to strike, greatly defeated them, beheaded their cavalry officer Wén Chǒu. Tàizǔ therefore with Yuán Shào resisted one another at Guāndù. The army's food was about to be exhausted, [Xún] Yōu's advice to Tàizǔ said: "[Yuán] Shào's transport carts dawn and dusk arrive, their commander Hán Xún is elite but thinks lightly of the enemy, in striking he can be defeated." <a href="#annotation-22" id="source-22">[22]</a> Tàizǔ said: "Who can be sent?" [Xún] Yōu said: "Xú Huǎng can." Thus sent [Xú] Huǎng with Shǐ Huàn to intercept and strike, defeated and drove them away, burned their heavy supply wagons. It happened that Xǔ Yōu came to surrender, saying: "[Yuán] Shào sent Chúnyú Qióng and others to command over ten thousand troops to welcome transport provisions, the officers are arrogant and soldiers are lazy, and can be intercepted and struck." The multitudes were all suspicious, only [Xún] Yōu and Jiǎ Xǔ encouraged Tàizǔ. Tàizǔ thus left [Xún] Yōu with Cáo Hóng to defend. Tàizǔ personally commanded the attack and defeated them, completely beheading [Chúnyú] Qióng and the rest. [Yuán] Shào's officers Zhāng Hé and Gāo Lǎn burned their attack engines and surrendered, [Yuán] Shào therefore abandoned the army and fled. At [Zhāng] Hé's coming, [Cáo] Hóng was suspicious and did not dare accept, [Xún] Yōu spoke to [Cáo] Hóng stating: "[Zhāng] Hé's plans were not used, in anger he comes, why does my lord doubt?" Thus accepted it.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+後從救劉延於白馬，攸畫策斬顏良。語在武紀。太祖拔白馬還，遣輜重循河而西。袁紹渡河追，卒與太祖遇。諸將皆恐，說太祖還保營，攸曰：「此所以禽敵，奈何去之！」太祖目攸而笑。遂以輜重餌賊，賊競奔之，陳亂。乃縱步騎擊，大破之，斬其騎將文醜，太祖遂與紹相拒於官渡。軍食方盡，攸言於太祖曰：「紹運車旦暮至，其將韓{荀大}銳而輕敵，擊可破也。」〔一〕太祖曰：「誰可使？」攸曰：「徐晃可。」乃遣晃及史渙邀擊破走之，燒其輜重。會許攸來降，言紹遣淳于瓊等將萬餘兵迎運糧，將驕卒惰，可要擊也。眾皆疑。唯攸與賈詡勸太祖。太祖乃留攸及曹洪守。太祖自將攻破之，盡斬瓊等。紹將張郃、高覽燒攻櫓降，紹遂棄軍走。郃之來，洪疑不敢受，攸謂洪曰：「郃計不用，怒而來，君何疑？」乃受之。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-22" id="annotation-22">[22]</a> Your Servant Sōngzhī notes: In the various books, Hán Xún is sometimes written as Hán Měng, sometimes it says Hán Ruò, it is uncertain which is correct.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　臣松之案諸書，韓{荀大}或作韓猛，或云韓若，未詳孰是。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Seventh Year [202], followed the suppression of Yuán Tán and [Yuán] Shàng at Líyáng. The next year, Tàizǔ was about to campaign against Liú Biǎo, [Yuán] Tán and [Yuán] Shàng fought over Jì Province. [Yuán] Tán sent Xīn Pí to ask to surrender and request rescue, Tàizǔ was about to agree to it, and asked the various subordinates about it. Of the various subordinates many believed: "[Liú] Biǎo is strong, it is appropriate to first pacify him. [Yuán] Tán and [Yuán] Shàng are not enough to worry about." [Xún] Yōu said: "Heaven's Under right now has problems, yet Liú Biǎo sits and protects between the Jiāng and Hàn, that he is without ambitions for the Four Quarters can be known. The Yuán clan occupies the land of four provinces, a hundred thousand wearing armor, [Yuán] Shào used thick generosity to obtain the masses, supposing if his two sons were in harmony to preserve their established enterprise, then the troubles of Heaven's Under would not cease. Now the brothers meet in enmity, this situation does not allow both to survive. If one conquers another then power is concentrated, if power is concentrated then it is difficult to plan against. While they are in chaos then taking them, Heaven's Under is settled, this timing cannot be lost." Tàizǔ said: "Excellent." Thus agreed to marriage alliance with [Yuán] Tán, therefore returned to strike and defeated [Yuán] Shàng. After this [Yuán] Tán rebelled, followed in the beheading of [Yuán] Tán at Nánpí. Jì Province was pacified, Tàizǔ memorialized to enfeoff [Xún] Yōu stating: "Army Preceptor Xún Yōu from the beginning assisted Your Servant, no campign did he not follow, beginning to end conquering the enemy was all [Xún] Yōu's plans." Thereupon enfeoffed as Língshù precinct Marquess. Twelfth Year [207], sent down order to greatly discuss achievements and enact enfeoffments, Tàizǔ said: "Loyal and upright, confidential planning, succoring and calming inside and outside, \[Xún Yù\] Wénruò is this. \[Xún Yōu\] Gōngdá is next." Increased estate by four hundred, adding to the previous to total seven hundred households, <a href="#annotation-23" id="source-23">[23]</a> transferred to Central Army Preceptor. When Wèi state was first established, became Secretariat Writers Director.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+七年，從討袁譚、尚於黎陽。明年，太祖方征劉表，譚、尚爭冀州。譚遣辛毗乞降請救，太祖將許之，以問群下。群下多以為表彊，宜先平之，譚、尚不足憂也。攸曰：「天下方有事，而劉表坐保江、漢之閒，其無四方志可知矣。袁氏據四州之地，帶甲十萬，紹以寬厚得眾，借使二子和睦以守其成業，則天下之難未息也。今兄弟遘惡，此勢不兩全。若有所并則力專，力專則難圖也。及其亂而取之，天下定矣，此時不可失也。」太祖曰：「善。」乃許譚和親，遂還擊破尚。其後譚叛，從斬譚於南皮。冀州平，太祖表封攸曰：「軍師荀攸，自初佐臣，無征不從，前後克敵，皆攸之謀也。」於是封陵樹亭侯。十二年，下令大論功行封，太祖曰：「忠正密謀，撫寧內外，文若是也。公達其次也。」增邑四百，并前七百戶，〔一〕轉為中軍師。魏國初建，為尚書令。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-23" id="annotation-23">[23]</a> Wèi shū states: Tàizǔ from Liǔchéng returned, passed [Xún] Yōu's residence, praised and narrated [Xún] Yōu's beginning to end strategies and plans and labors and merits, stating: "Now Heaven's Under's problems are roughly already settled, I wish to with worthy servicemen officials together enjoy the labors. In the past Gāozǔ had Zhāng Zǐfáng himself select an estate of thirty thousand households, now I also wish for you my lord to yourself select your enfeoffment."
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏書曰：太祖自柳城還，過攸舍，稱述攸前後謀謨勞勳，曰：「今天下事略已定矣，孤願與賢士大夫共饗其勞。昔高祖使張子房自擇邑三萬戶，今孤亦欲君自擇所封焉。」
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+[Xún] Yōu was deeply confidential and had intelligent precaution, from when he followed Tàizǔ on campaign, he always planned in the curtain tents, of the people of the time and his junior relatives none knew what he said. <a href="#annotation-24" id="source-24">[24]</a> Tàizǔ always praised him stating: "Gōngdá is outside foolish but inside wise, outside timid but inside brave, outside weak but inside strong, does not boast of his successes, is without showing off efforts, his intelligence can be reached, his foolishiness cannot be reached, even Yán-zǐ and Níng Wǔ cannot surpass it." When Emperor Wén was at the East Palace, Tàizǔ spoke to him stating: "Xún Gōngdá is a teacher and model for others, you should respect him with thorough courtesy." [Xún] Yōu once was ill, the heir presumptive asked after the illness, alone bowing below the bed. He met with exceptional honor like this. [Xún] Yōu was friendly with Zhōng Yáo, [Zhōng] Yáo asid: "Every time I have an action, I think it over and over, myself say there is nothing to change. Then I consult Gōngdá, and at once he further surpasses my thinking." Gōngdá beginning to end altogether devised unusual strategies of twelve, only [Zhōng] Yáo knew them. [Zhōng] Yáo was compiling them but had not yet finished when he happened to die, therefore the world could not completely hear of them. <a href="#annotation-25" id="source-25">[25]</a> [Xún] Yōu followed the campaign against Sūn Quán, on the road died. Tàizǔ on speaking then shed tears. <a href="#annotation-26" id="source-26">[26]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+攸深密有智防，自從太祖征伐，常謀謨帷幄，時人及子弟莫知其所言。〔一〕太祖每稱曰：「公達外愚內智，外怯內勇，外弱內彊，不伐善，無施勞，智可及，愚不可及，雖顏子、甯武不能過也。」文帝在東宮，太祖謂曰：「荀公達，人之師表也，汝當盡禮敬之。」攸曾病，世子問病，獨拜床下，其見尊異如此。攸與鍾繇善，繇言：「我每有所行，反覆思惟，自謂無以易；以咨公達，輒復過人意。」公達前後凡畫奇策十二，唯繇知之。繇撰集未就，會薨，故世不得盡聞也。〔二〕攸從征孫權，道薨。太祖言則流涕。〔三〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-24" id="annotation-24">[24]</a> Wèi shū states: [Xún] Yōu's father's sister's son Xīn Tāo once asked [Xún] Yōu to explain the affairs of the time when Tàizǔ captured Jì Province. [Xún] Yōu said: "[Xīn Pí] Zuǒzhì on behalf of Yuán Tán asked to surrender, the Royal Brigades on their own went to pacify them, what would I know?" From this of [Xīn] Tāo and the inside and outside none dared again ask about army or state affairs.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏書曰：攸姑子辛韜曾問攸說太祖取冀州時事。攸曰：「佐治為袁譚乞降，王師自往平之，吾何知焉？」自是韜及內外莫敢復問軍國事也。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-25" id="annotation-25">[25]</a> Your Servant Sōngzhī notes: Sixteen years after [Xún] Yōu died, Zhōng Yáo then died. Compiling [Xún] Yōu's unusual strategies, also had what difficulties? But when his years had reached eighty, still he said it was not finished, therefore causing [Xún] Yōu's plans from following campaigns and crucial strategies to not be passed through the ages, a pity!
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　臣松之案：攸亡後十六年，鍾繇乃卒，撰攸奇策，亦有何難？而年造八十，猶云未就，遂使攸從征機策之謀不傳於世，惜哉！
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-26" id="annotation-26">[26]</a> Wèi shū states: At the time it was Jiàn'ān Nineteenth Year [214], [Xún] Yōu was aged fifty-eight.
+Calculating his age he was older than [Xún] Yù by six years.
+
+Wèi shū records Tàizǔ's Order stating: "I with Xún Gōngdá travelled about for over twenty years, there was not a thin hair that could be criticized." It also stated: "Xún Gōngdá is a true worthy man, what is called: 'By warmth, good, respect, frugality, deference obtaining it.'^[This is a quote from Lúnyǔ 1.10.] Kǒng-zǐ appraised: 'Yàn Píngzhòng excelled in interacting with people: the longer it went the more they respected him.'^[This is a quote from Lúnyǔ 5.17.] Gōngdá was precisely such a man."
+
+Fù-zǐ states: Someone asked of the recent eras' great worthies and noble men. Answered stating: "Director Lord Xún [Yù]'s benevolence, Army Preceptor Xún [Yōu]'s wisdom, these can be called the recent eras' great worthies and noble men. Director Lord Xún used benevolence to establish virtue, enlightenment to raise worthies, conduct without flattery or bater, plans able to answer opportunities. Mèng Kē appraised: "Every five hundred years there is a King's rise, among them certainly there are the fated talents."^[Fated talents (mìng shì) refers to talented figures believed to be sent down to the world (jiàngshì) to serve as assistants to Heaven's Mandate (tiānmìng) in government. These fated talents are intended to be the senior ministers and generals serving int he rise of the true King.] Was this Director Lord Xún? Tàizǔ appraised: "Director Lord Xún in advancing the good, if not advanced he did not rest. Army Preceptor Xún in removing the bad, if not removed he did not stop."
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔三〕　魏書曰：時建安十九年，攸年五十八。計其年大彧六歲。魏書載太祖令曰：「孤與荀公達周游二十餘年，無毫毛可非者。」又曰：「荀公達真賢人也，所謂『溫良恭儉讓以得之』。孔子稱『晏平仲善與人交，久而敬之』，公達即其人也。」傅子曰：或問近世大賢君子，答曰：「荀令君之仁，荀軍師之智，斯可謂近世大賢君子矣。荀令君仁以立德，明以舉賢，行無諂贖，謀能應機。孟軻稱『五百年而有王者興，其間必有命世者』，其荀令君乎！太祖稱『荀令君之進善，不進不休，荀軍師之去惡，不去不止』也。」
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Eldest son [Xún] Qī had [Xún] Yōu's mannerisms, early died. Next son [Xún] Shì succeeded, no sons, succession cut off. During Huángchū [220 - 226], continued enfeoffment of [Xún] Yōu's grandson [Xún] Biāo as Marquess of Língshù precinct, estate three hundred households, later transferred fief to Marquess of Qiūyáng precinct. During Zhèngshǐ [240 - 249], posthumous name on [Xún] Yōu as Marquess Jìng.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+長子緝，有攸風，早沒。次子適嗣，無子，絕。黃初中，紹封攸孫彪為陵樹亭侯，邑三百戶，後轉封丘陽亭侯。正始中，追諡攸曰敬侯。
+:::
+:::
 
 ## Jiǎ Xǔ {.unnumbered #jiaxu}
-[TODO]
+
+::: {.columns}
+::: {.column width="70%"}
+Jiǎ Xǔ appellation Wénhé was a Wǔwēi Gūzāng man. In the time of his youth none knew of him, only Hànyáng's Yán Zhōng was impressed with him, saying [Jiǎ] Xǔ had the unusuallness of [Zhāng] Liáng and [Chén] Píng. <a href="#annotation-27" id="source-27">[27]</a> Examined as Filial-Incorruptible and became a Cadet,^[Filial-Incorruptible (xiàolián) was a nomination for candidacy for government office. Candidates for office typically served an initial probationary period as a Cadet (láng) in the service of the Imperial Palace.] became ill and left office, returned west and reached Qiān, on the road encountered rebelling Dī, the several tens of people traveling together were all captured. [Jiǎ] Xǔ said: "I am Excellency Duàn's daughter's son, you should bury me separately, my family will certainly generously ransom it." At the time the Grand Commandant was Duàn Jiǒng, in the past had been a frontier officer for a long time, his power shaking the western lands, therefore [Jiǎ] Xǔ used this to frighten the Dī. The Dī indeed did not dare harm him, made oath with him and sent him off, the rest all died. [Jiǎ] Xǔ in fact was not a Duàn female-side relation. His expedience in getting through problems was all of this kind.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+賈詡字文和，武威姑臧人也。少時人莫知，唯漢陽閻忠異之，謂詡有良、平之奇。〔一〕察孝廉為郎，疾病去官，西還至汧，道遇叛氐，同行數十人皆為所執。詡曰：「我段公外孫也，汝別埋我，我家必厚贖之。」時太尉段熲，昔久為邊將，威震西土，故詡假以懼氐。氐果不敢害，與盟而送之，其餘悉死。詡實非段甥，權以濟事，咸此類也。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-27" id="annotation-27">[27]</a> Jiǔzhōu Chūnqiū states: Zhōngpíng Inaugural Year [184], Chariots and Cavalry General Huángfǔ Sōng had broken the Huángjīn, his power shook Heaven's Under. Yán Zhōng at the time had finished as Xìndū Magistrate,^[Xìndū county was in Ānpíng prefecture.] advised [Huángfǔ] Sōng stating: "What is difficult to obtain and easy to lose is timing. Timing that arrives but does not turn on its heel is opportunity. Therefore the sagely man always complies with timing and then moves, the wise are certain to take advantage of opportunity to mobilize. Now you General encounter a difficult to obtain fate and walk an easy to resolve opportunity, yet you walk fate without grasping it, overlook opportunity without mobilizing, how will you enjoy a great name?" [Huángfǔ] Sōng said: "What are you saying?" [Yán] Zhōng said: "Heaven's Way is without kinship, the Hundred Surnames go with the capable, therefore one with the achievements of a great man does not accept the rewards of a mediocre ruler. Now you General were conferred with Battle-Ax at the beginning of spring, collected achievements at the end of winter, troop movements like a divinity, plans not needing a second calculation, between ten days and a moon, divine troops swept like lightning, attacked the fortified as easily as snapping withered wood, broke enemies as extremely as boiling water on snow, seven provinces rolled up, slaughtered thirty-six regions, wiped out the brigades of the Huángjīn, eradicated worries of nefarious harm, perhaps enfeoffed with households and deeds carved on stone, face south to repay your virtue, your power shakes the current Court, your winds sweeps beyond the seas. Therefore various heroes turn their heads, the Hundred Surnames stand on tiptoe, even the risings of Tāng and Wǔ were not as high as you General. You personally establish the achievements of a great man, face north to serve a mediocre ruler, how can you plan to be safe?" [Huángfǔ] Sōng said: "If my heart does not forget loyalty, how will I not be safe?" [Yán] Zhōng said: "Not so. In the past Hán Xìn could not bear to forget the kindness of a single meal, and so abandoned the advantage of a threefold division, refused the loyalty of Kuǎi Tōng, neglecting the power of a tripod standing, a sharp sword was already at his throat, only then he sighed and regretted, and so met with being boiled by servants and women.^[Hán Xìn was a General under Liú Bāng during the Chǔ-Hàn contention after the fall of Qín. During the war between Liú Bāng, King of Hàn, and Xiàng Yǔ, King of Chǔ, Hán Xìn led a successful campaign that left him in control of about a third of the empire. Kuǎi Tōng urged Hán Xìn to break off from Liú Bāng, establishing a balance of power between a threefold division of the realm, but Hán Xìn remained loyal to Liú Bāng, and eventually Hàn defeated Chǔ and united all the empire. Hán Xìn later came under suspicion, and Liú Bāng's wife the Empress Lǚ successfully lured Hán Xìn to the Palace where he was arrested and seized by the Palace women and servants.] The preset ruler's power is weaker than Liú and Xiàng, General your power his heavier than Huáiyīn,^[Hán Xìn was Marquess of Huáiyīn.] pointing signal flag you can shake the winds and clouds, your shouts sufficient to raise thunder and lightning, in awe-inspiring exertion, take advantage of the toppling into collapse, esteem grace to calm the previously attached, raise warfare to face the later to submit, summon the servicemen of Jì region, mobilize the multitudes of seven provinces, feather dispatches ahead galloping to the front, the main army shakes in echo to the rear, tread the Zhāng and Hé, water your horses at Mèngjīn, raise Heavenly net to snare the capital city, punish the crimes of the castrate eunuchs, eliminate the accumulated indignation of all the resentful, resolve the hanging of the long endangered, in this way then attack and defense are without hard cities, without recruitment they will certainly follow like shadows, even children can be made to exert empty fists to deliver strength, women can be made to lift skirts to devote lives, all the more in exerting servicemen of wisdom and ability, taking advantage of the momentum of swift wind, then the great achievement will not be difficult to achieve, the eight directions not difficult to unite. When the achievement and enterprise is already completed, Heaven's Under already obedient, then burn sacrifices to Highest God, annouced with Heaven's Mandate, uniting together the six directions, face south with regulations, shift the Divine Vessels to your own family, push aside the fallen Hàn to settle the blessings, truly this is the utmost decisveness of a divine opportunithy, the excellent timing of a wind blowing. Wood that is rotten is not carved, a reign that is declined is difficult to aide, General though you wish to trust in loyalty to a difficult to aide Court, carve and engrave rotten and broken wood, it is like pushing a ball up a slope, certainly it is impossible. Right now the powerful eunuchs group together, sharing in evil like a market, the Ruler Above cannot do as he will, Edict mandates come from his Left and Right. If you have utmost intelligence but do not investigate, do not act in advance of the opportune situation, certainly you will be burdened in regrets, and also it will be too late." [Huánfǔ] Sōng did not listen, [Yán] Zhōng thus fled and left.
+
+Yīngxióng jì states: Liáng Province rebel Wáng Guó and others raised troops, together seized [Yán] Zhōng to be their leader, presiding over thirty six divisions, titled Chariots and Cavalry General. [Yán] Zhōng was deeply emotional and fell ill and died.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　九州春秋曰：中平元年，車騎將軍皇甫嵩既破黃巾，威震天下。閻忠時罷信都令，說嵩曰：「夫難得而易失者時也，時至而不旋踵者機也，故聖人常順時而動，智者必因機以發。今將軍遭難得之運，蹈易解之機，而踐運不撫，臨機不發，將何以享大名乎？」嵩曰：「何謂也？」忠曰：「天道無親，百姓與能，故有高人之功者，不受庸主之賞。今將軍授鉞於初春，收功於末冬，兵動若神，謀不再計，旬月之間，神兵電掃，攻堅易於折枯，摧敵甚於湯雪，七州席卷，屠三十六（萬）方，夷黃巾之師，除邪害之患，或封戶刻石，南向以報德，威震本朝，風馳海外。是以群雄迴首，百姓企踵，雖湯武之舉，未有高於將軍者。身建高人之功，北面以事庸主，將何以圖安？」嵩曰：「心不忘忠，何為不安？」忠曰：「不然。昔韓信不忍一餐之遇，而棄三分之利，拒蒯通之忠，忽鼎跱之勢，利劍已揣其喉，乃歎息而悔，所以見烹於兒女也。今主勢弱於劉、項，將軍權重於淮陰，指麾可以振風雲，叱吒足以興雷電；赫然奮發，因危抵頹，崇恩以綏前附，振武以臨後服；徵冀方之士，動七州之眾，羽檄先馳於前，大軍震響於後，蹈蹟漳河，飲馬孟津，舉天網以網羅京都，誅閹宦之罪，除群怨之積忿，解久危之倒懸。如此則攻守無堅城，不招必影從，雖兒童可使奮空拳以致力，女子可使其褰裳以用命，況厲智能之士，因迅風之勢，則大功不足合，八方不足同也。功業已就，天下已順，乃燎于上帝，告以天命，混齊六合，南面以制，移神器於己家，推亡漢以定祚，實神機之至決，風發之良時也。夫木朽不彫，世衰難佐，將軍雖欲委忠難佐之朝，彫畫朽敗之木，猶逆阪而走丸，必不可也。方今權宦群居，同惡如市，主上不自由，詔命出左右。如有至聰不察，機事不先，必嬰後悔，亦無及矣。」嵩不從，忠乃亡去。英雄記曰：涼州賊王國等起兵，共劫忠為主，統三十六部，號車騎將軍。忠感慨發病而死。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+When Dǒng Zhuó entered Luòyáng, [Jiǎ] Xǔ as a Grand Commandant's Assistant became Píngjīn Commandant,^[Assistant (yuán) was a member of the staff of a senior official. Píngjīn Commandant was one of eight commandant offices previously created and appointed by Hàn Emperor Líng to guard eight strategic passes around Luòyáng city.] promoted Suppressing Caitiffs Colonel. [Dǒng] Zhuó's daughter's husband Central Cadet General Niú Fǔ garrisoned Shǎn, [Jiǎ] Xǔ was in [Niú] Fǔ's army. [Dǒng] Zhuó was destroyed, [Niú] Fǔ also died, the multitudes were afraid, Colonels Lǐ Jué, Guō Sì, Zhāng Jì, and others wished to disband and scatter, and secretly travel to return to their hometowns. [Jiǎ] Xǔ said: "One hears that inside Cháng'ān they are discussing a wish to completely execute Liáng Province men, but if you sirs abandon your multitudes and travel alone, just one Precinct Chief is capable of binding you. It is not as good as leading the multitudes and going west, wherever you are gathering troops, to attack Cháng'ān, to take revenge for Excellency Dǒng [Zhuó]. If by good fortune the matter succeeds, serve the country to campaign Heaven's Under. If it is not successful, fleeing would not yet be too late." The multitudes believed it correct. [Lǐ] Jué thus went west and attacked Cháng'ān. The story is in [Dǒng] [Zhuó's biography](06.qmd#dongzhuo). <a href="#annotation-28" id="source-28">[28]</a> Later [Jiǎ] Xǔ became Zuǒpíngyì,^[Zuǒpíngyì here refers to being the administrative head of Zuǒpíngyì, one of the three prefecture level administrative units around Cháng'ān.] [Lǐ] Jué and the rest wished to make him a Marquess for the achievement, [Jiǎ] Xǔ said: "This was a plan to save my life, what achievement is there?" He firmly declined and would not accept. Also he was appointed Secretariat Writers Deputy Director, [Jiǎ] Xǔ said: "Secretariat Writers Deputy Director is a teacher and chief of officials, what Heaven's Under looks toward. The name [Jiǎ] Xǔ was not previously valued, it is not the way to make people submit. Even if [I, Jiǎ] Xǔ were blinded by glory and profit, what about the state and Court?" Thus instead appointed [Jiǎ] Xǔ Secretariat Writer, managing selections and promotions, much he rectified and relieved, [Lǐ] Jué and the rest were close with but feared him. <a href="#annotation-29" id="source-29">[29]</a> Happening on mourning for his mother he left office, appointed Radiant Grandee. [Lǐ] Jué and [Guō] Sì and others fought inside Cháng'ān, <a href="#annotation-30" id="source-30">[30]</a> [Lǐ] Jué further requested [Jiǎ] Xǔ be Announcing Righteousness General. <a href="#annotation-31" id="source-31">[31]</a> In [Lǐ] Jué and the rest making peace, letting out Heaven's Son, protecting the senior ministers, [Jiǎ] Xǔ contributed efforts. <a href="#annotation-32" id="source-32">[32]</a> When Heaven's Son had exited, [Jiǎ] Xǔ sent up and returned his seal and ribbon. At the time General Duàn Wēi garrisoned Huáyīn, <a href="#annotation-33" id="source-33">[33]</a> with [Jiǎ] Xǔ were of the same prefecture, therefore he left [Lǐ] Jué and trusted in [Duàn] Wēi. [Jiǎ] Xǔ previously was famed and was looked toward by [Duàn] Wēi's army, [Duàn] Wēi inside feared he would meet with usurpation, but outside treated [Jiǎ] Xǔ with extreme courtesy, [Jiǎ] Xǔ was increasingly not at ease.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+董卓之入洛陽，詡以太尉掾為平津都尉，遷討虜校尉。卓婿中郎將牛輔屯陝，詡在輔軍。卓敗，輔又死，眾恐懼，校尉李傕、郭汜、張濟等欲解散，閒行歸鄉里。詡曰：「聞長安中議欲盡誅涼州人，而諸君棄眾單行，即一亭長能束君矣。不如率眾而西，所在收兵，以攻長安，為董公報仇，幸而事濟，奉國家以征天下，若不濟，走未後也。」眾以為然。傕乃西攻長安。語在卓傳。〔一〕後詡為左馮翊，傕等欲以功侯之，詡曰：「此救命之計，何功之有！」固辭不受。又以為尚書僕射，詡曰：「尚書僕射，官之師長，天下所望，詡名不素重，非所以服人也。縱詡昧于榮利，奈國朝何！」乃更拜詡尚書，典選舉，多所匡濟，傕等親而憚之。〔二〕會母喪去官，拜光祿大夫。傕、汜等鬥長安中，〔三〕傕復請詡為宣義將軍。〔四〕傕等和，出天子，祐護大臣，詡有力焉。〔五〕天子既出，詡上還印綬。是時將軍段煨屯華陰，〔六〕與詡同郡，遂去傕託煨。詡素知名，為煨軍所望。煨內恐其見奪，而外奉詡禮甚備，詡愈不自安。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-28" id="annotation-28">[28]</a> Your Servant Sōngzhī believes: The Zhuàn appraises: "The words of a benevolent man, their benefits are pervasive!"^[Zhuàn in this case refers tp a literary genre of commentary to an older classic. This particular quote is from the Zuǒ zhuàn.] That being the case, the words of the not benevolent, logically are certainly the reverse of this. Benevolent achievements are difficult to manifest, but sources of chaos are easy to achieve, therefore there are cases of disaster triggered by one shot and yet calamity flowing for a hundred generations. At that time, the foremost criminal was already beheaded, Heaven and Earth beginning to open, causing the steps into danger^[Steps into danger (lì jiē) is a phrase from the Shī jīng.] to again be joined, great obstruction to overflow, country and state to encounter the tragedy of extermination and distress, the common peoples be entangled in lingering cruelty, how was it not due to Jiǎ Xǔ's single remark? [Jiǎ] Xǔ's crime, how truly great it was! From since antiquity the origins of chaos were never as extreme as this.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　臣松之以為傳稱「仁人之言，其利溥哉」！然則不仁之言，理必反是。夫仁功難著，而亂源易成，是故有禍機一發而殃流百世者矣。當是時，元惡既梟，天地始開，致使厲階重結，大梗殷流，邦國遘殄悴之哀，黎民嬰周餘之酷，豈不由賈詡片言乎？詡之罪也，一何大哉！自古兆亂，未有如此之甚。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-29" id="annotation-29">[29]</a> Xiàn-dì jì states: Guō Sì, Fán Chóu and [Lǐ] Jué opposed one another, wishing to fight numerous times. [Jiǎ] Xǔ invariably would use principle and reason to reproach them, they tended to accept [Jiǎ] Xǔ's advice.
+
+Wèi shū states: [Jiǎ] Xǔ controlled selections and promotions, he often selected old famous figures as directors and assistants, commentators because of this praised [Jiǎ] Xǔ.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　獻帝紀曰：郭汜、樊稠與傕互相違戾，欲鬥者數矣。詡輒以道理責之，頗受詡言。魏書曰：詡典選舉，多選舊名以為令僕，論者以此多詡。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-30" id="annotation-30">[30]</a> Xiàn-dì jì states: [Lǐ] Jué and others with [Jiǎ] Xǔ discussed welcoming Heaven's Son to be placed inside his camp. [Jiǎ] Xǔ said: "You cannot. To coerce Heaven's Son is against righteousness." [Lǐ] Jué did not listen. Zhāng Xiù spoke to [Jiǎ] Xǔ stating: "This place cannot be occupied for long, why do you lord not leave?" [Jiǎ] Xǔ said: "I received the state's favor, by righteousness I cannot turn back on it. You can go yourself, I cannot."
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔三〕　獻帝紀曰：傕等與詡議，迎天子置其營中。詡曰：「不可。脅天子，非義也。」傕不聽。張繡謂詡曰：「此中不可久處，君胡不去？」詡曰：「吾受國恩，義不可背。卿自行，我不能也。」
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-31" id="annotation-31">[31]</a> Xiàn-dì jì states: [Lǐ] Jué at the time summoned Qiāng and Hú of several thousand people, first giving them imperial goods and fabrics and brocade, also promising them Palace women, wishing to have them attack Guō Sì. The Qiāng and Hú repeatedly came to peak into the office gates, stating: "Is Heaven's Son inside here? General Lǐ promised us Palace women and beauties, now where are they all?" The Emperor worried of this, sent [Jiǎ] Xǔ to make a response plan for it. [Jiǎ] Xǔ thus secretly called the Qiāng and Hú chief leaders to drink and feast with them, promising them enfeoffment titles and heavy treasures, therefore they all withdrew and left. [Lǐ] Jué because of this was weakened.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔四〕　獻帝紀曰：傕時召羌、胡數千人，先以御物繒綵與之，又許以宮人婦女，欲令攻郭汜。羌、胡數來闚省門，曰：「天子在中邪！李將軍許我宮人美女，今皆安在？」帝患之，使詡為之方計。詡乃密呼羌、胡大帥飲食之，許以封爵重寶，於是皆引去。傕由此衰弱。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-32" id="annotation-32">[32]</a> Xiàn-dì jì states: heaven's Son had gone east, but Lǐ Jué came in pursuit, the Royal Brigades were defeated utterly. Excellency over the Masses Zhào Wēn, Minister of Ceremonies Wáng Wěi, Minister of the Guard Zhōu Zhōng, Director of Retainers Róng Shào all were by [Lǐ] Jué hated and he wished to kill them. [Jiǎ] Xǔ spoke to [Lǐ] Jué stating: "These are all chief ministers of Heaven's Son, how can you harm them?" [Lǐ] Jué thus stopped.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔五〕　獻帝紀曰：天子既東，而李傕來追，王師敗績。司徒趙溫、太常王偉、衛尉周忠、司隸榮邵皆為傕所嫌，欲殺之。詡謂傕曰：「此皆天子大臣，卿奈何害之？」傕乃止。
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-33" id="annotation-33">[33]</a> Diǎnlüè appraises: At the time when [Duàn] Wēi was at Huáyīn, he cultivated agricultural affairs, not pillaging and plundering. Heaven's Son returned east, [Duàn] Wēi welcomed on the road with tribute and provided for urgent needs.
+
+Xiàn-dì jì states: Later [Duàn] Wēi became Minister Herald and Radiant Grandee, Jiàn'ān Fourteenth Year [209] die of old age.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔六〕　典略稱煨在華陰時，脩農事，不虜略。天子東還，煨迎道貢遺周急。獻帝紀曰：後以煨為大鴻臚光祿大夫，建安十四年，以壽終。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+Zhāng Xiù was at Nányáng, [Jiǎ] Xǔ secretly connected with [Zhāng] Xiù, [Zhāng] Xiù sent people to welcome [Jiǎ] Xǔ. [Jiǎ] Xǔ was about to go, someone asked [Jiǎ] Xǔ stating: "[Duàn] Wēi treated you lord generously, how can you lord leave him?" [Jiǎ] Xǔ said: "[Duàn] Wēi by nature has many suspicions, has thoughts of jealousy of [me, Jiǎ] Xǔ, although is courtesy is generous, he cannot be relied on, if I stay long he will plan against me. When I leave he will certainly be pleased, and also hope I will be bound as a great ally to the exterior, and certainly be generous ot my wife and children. [Zhāng] Xiù has no strategy master, also hopes to obtain [me, Jiǎ] Xǔ, and so my family and I certainly will both be preserved." [Jiǎ] Xǔ therefore went, [Zhāng] Xiù maintained the courtesy of a junior relative, and [Duàn] Wēi indeed well treated his family. [Jiǎ] Xǔ persuaded [Zhāng] Xiù to make alliance and peace with Liú Biǎo. <a href="#annotation-34" id="source-34">[34]</a> Tàizǔ repeatedly campaigned against them, one morning withdrew the army and retreated, [Zhāng] Xiù personall pursued them. [Jiǎ] Xǔ spoke to [Zhāng] Xiù stating: "You cannot pursue. Pursuit is certain defeat." [Zhāng] Xiù did not listen, advanced troops and engaged in battle, was greatly defeated and returned. [Jiǎ] Xǔ spoke to [Zhāng] Xiù stating: "Hurry to again pursue them, another battle is certain victory." [Zhāng] Xiù apologized stating: "I did not use Your Excellency's advice, so that it came to this Now we are already defeated, how can we again pursue?" [Jiǎ] Xǔ said: "War momentum has changes, if you urgently go you will certainly be successful." [Zhāng] Xiù trusted this, therefore collected his scattered troops and went in pursuit, greatly battled, and indeed returned in victory. He asked [Jiǎ] Xǔ stating: "[I, Zhāng] Xiù with elite troops pursued a retreating army, yet your Excellency said it was certain defeat. Retreating with defeated troops to strike victorious soldiers, yet Your Excellency said it was certain to beat them. All was as Your Excellency said. How was it opposite and yet all verified?" [Jiǎ] Xǔ said: "This is easy ot understand. General although you are skilled in using troops, you are not Excellency Cáo's match. Although their army had newly retreated, Excellency Cáo certainly would personally hold the rear. Althought the pursuing troops were elite, the commander was no match, their servicemen also were keen, and therefore I knew it was certain defeat. Excellency Cáo in attacing you General was without failed strategies, his strength was not yet exhausted and yet he retreated, certainly within the state there were problems. Having already defeated you General, certainly he would with light army quickly advance, leaving various officers to hold the rear, and although the various officers are brave, they also are no match for you General, therefore although you used defeated troops yet the battle was a certain success." [Zhāng] Xiù thus conceded. After this, Tàizǔ resisted Yuán Shào at Guāndù, [Yuán] Shào sent someone to recruit [Zhāng] Xiù, and further sent a letter to [Jiǎ] Xǔ to join in alliance. [Zhāng] Xiù wished to agree to it, [Jiǎ] Xǔ openly in the seating with [Zhāng] Xiù spoke to [Yuán] Shào's envoy stating: "Return and apologize to Yuán Běnchū. If he and his brothers cannot tolerate one another, yet is he able to tolerate the state servicemen of Heaven's Under?" [Zhāng] Xiù was surprised and afraid and said: "Why go as far as this?" He secretly spoke with [Jiǎ] Xǔ stating: "If it is like this, where can we go?" [Jiǎ] Xǔ said: "It is not as good as following Excellency Cáo." [Zhāng] Xiù said: "Yuán is strong and Cáo is weak, also we are enemies with Cáo, how can we follow him?" [Jiǎ] Xǔ said: "This then is why you should follow him. Excellency Cáo serves Heaven's Son to command Heaven's Under, this is reason to follow one. [Yuán] Shào is strong and flourishing, if we with few multitudes follow him, he will certainly not consider us important. Excellency Cáo's multitudes are weak, in obtaining us he will certainly be pleased, this is reason to follow two. One with ambition to be hegemon assuredly will dismiss private grudges to make clear his virtue to the Four Seas, this is reason to follow three. May you General have no doubts!" [Zhāng] Xiù followed this, led his multitudes to submit to Tàizǔ. Tàizǔ met him, was pleased, grasped [Jiǎ] Xǔ's hand stating: "The one who has made me trusted and valued to Heaven's Under is you." Memorialized [Jiǎ] Xǔ as Metal Mace Bearer, enfeoffed a city precinct Marquess, promoted Jì Province Governor. Jì Province was not yet pacified, he remained as Advisor to Excellency of Works' Army Affairs. Yuán Shào besieged Tàizǔ at Guāndù, Tàizǔ's provisions were about to be exhausted, he asked [Jiǎ] Xǔ what plan should be used. [Jiǎ] Xǔ said: "Your Excellency's enlightenment surpasses [Yuán] Shào, valor surpasses [Yuán] Shào, employment of men surpasses [Yuán] Shào, determination of opportunity surpasses [Yuán] Shào, that you have these four surpassings and yet for half a year have not settled him, is only because you have focused on guaranteed security. If you certainly determine an opportunity, immediately it can be settled." Tàizǔ said: "Excellent." Thus he combined troops and set out, surrounded and struck [Yuán] Shào's camp over thirty lǐ away, defeated it, [Yuán] Shào's army greatly collapsed. When the Hé's north was pacified, Tàizǔ was designate Jì Province Governor, transferred [Jiǎ] Xǔ as Grand Central Grandee. Jiàn'ān Thirteenth Year [208], Tàizǔ defeated Jīng Province, and wished to follow the Jiāng east downstream. [Jiǎ] Xǔ remonstrated stating: "Your Englightened Excellency in the past defeated the Yuán clan, now collects the Hàn's south, power and fame distantly proven, army strength already great. If you take advantage of the abundance of former Chǔ^[Chǔ state had been in the region of Jīng Province.] to feast the clerks and servicemen, succor and calm the Hundred Surnames, making them secure in land and happy in work, then you can without laboring the multitudes yet have the Jiāng's east bow and submit." Tàizǔ did not listen, the army therefore was without success. <a href="#annotation-35" id="source-35">[35]</a> Tàizǔ later with Hán Suì and Mǎ Chāo battled at the Wèi's south. [Mǎ] Chāo and the rest asked to cede territory for peace, and further requested to send hostage sons. [Jiǎ] Xǔ believed: "You can falsely agree to it." Also asked [Jiǎ] Xǔ for strategies, [Jiǎ] Xǔ said: "Separate them and nothing more." Tàizǔ said: "Understood." He completely employed [Jiǎ] Xǔ's plans. The story is in [Wǔ Annals](01.qmd#caocao). In the end the defeat of [Hán] Suì and [Mǎ] Chǔ was originally by [Jiǎ] Xǔ's plans.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+張繡在南陽，詡陰結繡，繡遣人迎詡。詡將行，或謂詡曰：「煨待君厚矣，君安去之？」詡曰：「煨性多疑，有忌詡意，禮雖厚，不可恃，久將為所圖。我去必喜，又望吾結大援於外，必厚吾妻子。繡無謀主，亦願得詡，則家與身必俱全矣。」詡遂往，繡執子孫禮，煨果善視其家。詡說繡與劉表連和。〔一〕太祖比征之，一朝引軍退，繡自追之。詡謂繡曰：「不可追也，追必敗。」繡不從，進兵交戰，大敗而還。詡謂繡曰：「促更追之，更戰必勝。」繡謝曰：「不用公言，以至於此。今已敗，奈何復追？」詡曰：「兵勢有變，亟往必利。」繡信之，遂收散卒赴追，大戰，果以勝還。問詡曰：「繡以精兵追退軍，而公曰必敗；退以敗卒擊勝兵，而公曰必剋。悉如公言，何其反而皆驗也？」詡曰：「此易知耳。將軍雖善用兵，非曹公敵也。軍雖新退，曹公必自斷後；追兵雖精，將既不敵，彼士亦銳，故知必敗。曹公攻將軍無失策，力未盡而退，必國內有故；已破將軍，必輕軍速進，縱留諸將斷後，諸將雖勇，亦非將軍敵，故雖用敗兵而戰必勝也。」繡乃服。是後，太祖拒袁紹於官渡，紹遣人招繡，并與詡書結援。繡欲許之，詡顯於繡坐上謂紹使曰：「歸謝袁本初，兄弟不能相容，而能容天下國士乎？」繡驚懼曰：「何至於此！」竊謂詡曰：「若此，當何歸？」詡曰：「不如從曹公。」繡曰：「袁彊曹弱，又與曹為讎，從之如何？」詡曰：「此乃所以宜從也。夫曹公奉天子以令天下，其宜從一也。紹彊盛，我以少眾從之，必不以我為重。曹公眾弱，其得我必喜，其宜從二也。夫有霸王之志者，固將釋私怨，以明德於四海，其宜從三也。願將軍無疑！」繡從之，率眾歸太祖。太祖見之，喜，執詡手曰：「使我信重於天下者，子也。」表詡為執金吾，封都亭侯，遷冀州牧。冀州未平，留參司空軍事。袁紹圍太祖於官渡，太祖糧方盡，問詡計焉出，詡曰：「公明勝紹，勇勝紹，用人勝紹，決機勝紹，有此四勝而半年不定者，但顧萬全故也。必決其機，須臾可定也。」太祖曰：「善。」乃并兵出，圍擊紹三十餘里營，破之。紹軍大潰，河北平。太祖領冀州牧，徙詡為太中大夫。建安十三年，太祖破荊州，欲順江東下。詡諫曰：「明公昔破袁氏，今收漢南，威名遠著，軍勢既大；若乘舊楚之饒，以饗吏士，撫安百姓，使安土樂業，則可不勞眾而江東稽服矣。」太祖不從，軍遂無利。〔二〕太祖後與韓遂、馬超戰於渭南，超等索割地以和，并求任子。詡以為可偽許之。又問詡計策，詡曰：「離之而已。」太祖曰：「解。」一承用詡謀。語在武紀。卒破遂、超，詡本謀也。
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-34" id="annotation-34">[34]</a> Fù-zǐ states: [Jiǎ] Xǔ went south and met Liú Biǎo, [Liú] Biǎo treated him with the courtesies for a guest. [Jiǎ] Xǔ said: "[Liú] Biǎo in a peaceful era would be a talent for the Three Excellencies. He does not see changes in situations, has many suspicions without decisiveness, without ability to do anything."
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　傅子曰：詡南見劉表，表以客禮待之。詡曰：「表，平世三公才也；不見事變，多疑無決，無能為也。」
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-35" id="annotation-35">[35]</a> Your Servant Sōngzhī believes: [Jiǎ] Xǔ in this plan was not in accord with what was appropriate at that time. At that time the sorts as Hán [Suì] and Mǎ [Chāo] were still looking back like wolves^[Looking back like a wolf (láng gù) refers to looking back over one's shoulder, lke a wolf does, an expression of suspicion and untrustworthiness.] west of the passes, that Wèi Wǔ could not securely sit at Yǐng capital^[Yǐng had been a capital city of Chǔ state. Here it refers to the region of northern Jīng Province.] to awe and embrace Wú and Kuài also is already clear. That Jīng Province was what Sūn and Liú would certainly contest. Jīng people had submitted to Ruler Liú's heroic disposition and feared Sūn Quán's military strategy for a long time already, truly not what the Cáo clan's various officers could oppose and resist. Therefore Cáo Rén in defending Jiānglíng was defeated without a turn of the heel, what succoring and securing could be enacted, and what bowing and submitting could be waited for? Right at this having newly pacified the Jiāng and Hàn, awing and frightening Yáng and Yuè, supplied with Liú Biǎo's river battle equipment, relying on Jīng-Chǔ's hands of oars and paddles, truly it was an excellent coincidence for shaking and sweeping, a great opportunity for expansive settlement. To not ride on this to take Wú, what else was to wait for? As for the defeat at Chìbì, overall it was fated fortune. Truly it was because disease and plague greatly rose, which damaged the swift and sharp spear point, a warm wind^[Warm wind [kǎi fēng] is a term in the Shī jīng. It has variously been interpreted as a south wind or summer wind.] from the south was employed to achieve a situation for burning. Heaven truly caused this, how was it a human affair? That being the case Wèi Wǔ going east downstream was not a miscalculation. [Jiǎ] Xǔ in this plan was without appropriateness. Wèi Wǔ later conquered and pacified Zhāng Lǔ, inside Shǔ there were several tens of alarms a day, though Liú Bèi beheaded them yet it could not be stopped, but due to not using Liú Yè's plan, he thus lost the opportunity to roll it up. When the calculation^[The term for calculation here (jīn shí) uses two units of weight, 1 shí = 120 jīn.] is mistaken, regret is too late, this also was precisely of the sort as this matter. The world all says Liú [Yè]'s plan was correct, so it is precisely all the more seen that Jiǎ [Xǔ]'s advice was wrong.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　臣松之以為詡之此謀，未合當時之宜。于時韓、馬之徒尚狼顧關右，魏武不得安坐郢都以威懷吳會，亦已明矣。彼荊州者，孫、劉之所必爭也。荊人服劉主之雄姿，憚孫權之武略，為日既久，誠非曹氏諸將所能抗禦。故曹仁守江陵，敗不旋踵，何撫安之得行，稽服之可期？將此既新平江、漢，威懾揚、越，資劉表水戰之具，藉荊楚楫櫂之手，實震蕩之良會，廓定之大機。不乘此取吳，將安俟哉？至於赤壁之敗，蓋有運數。實由疾疫大興，以損淩厲之鋒，凱風自南，用成焚如之勢。天實為之，豈人事哉？然則魏武之東下，非失算也。詡之此規，為無當矣。魏武後克平張魯，蜀中一日數十驚，劉備雖斬之而不能止，由不用劉曄之計，以失席卷之會，斤石既差，悔無所及，即亦此事之類也。世咸謂劉計為是，即愈見賈言之非也。
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+At the time, Emperor Wén was Five Office General, but the Marquess of Línzī [Cáo] Zhí's talent and fame were just flourishing, each had partisans, with discussions of seizing away the succession. Emperor Wén sent someone to ask [Jiǎ] Xǔ for a method to secure himself, [Jiǎ] Xǔ said: "May you General expand and esteem virtue and restraint, personally attend to the enterprise of a plain serviceman, morning and night diligent and industrious, and not violate the ways of a son. Be like this and nothing more." Emperor Wén followed this, deeply polishing himself. Tàizǔ also once dimissed his Left and Right and asked [Jiǎ] Xǔ, [Jiǎ] Xǔ was silent and did not reply. Tàizǔ said: "I am speaking with you yet you do not answer. Why?" [Jiǎ] Xǔ said: "I happened to be thinking of something, and therefore did not at once reply." Tàizǔ said: "What were you thinking?" [Jiǎ] Xǔ said: "I was thinking of Yuán Běnchū and Liú Jǐngshēng father and sons." Tàizǔ greatly laughed, thereupon the Heir-Apparent was therefore settled. [Jiǎ] Xǔ himself believed he was not an old servant of Tàizǔ but his strategies and plans were deep and profoud, feared to meet with suspicion, closed his gates and guarded himself, withdrew and had no private dealings, his sons and daughters in their marriages were not joined with high families, Under Heaven those that discussed wisdom and planning submitted to him.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+是時，文帝為五官將，而臨菑侯植才名方盛，各有黨與，有奪宗之議。文帝使人問詡自固之術，詡曰：「願將軍恢崇德度，躬素士之業，朝夕孜孜，不違子道。如此而已。」文帝從之，深自砥礪。太祖又嘗屏除左右問詡，詡嘿然不對。太祖曰：「與卿言而不答，何也？」詡曰：「屬適有所思，故不即對耳。」太祖曰：「何思？」詡曰：「思袁本初、劉景升父子也。」太祖大笑，於是太子遂定。詡自以非太祖舊臣，而策謀深長，懼見猜疑，闔門自守，退無私交，男女嫁娶，不結高門，天下之論智計者歸之。
+:::
+:::
+
+::: {.columns}
+::: {.column width="70%"}
+When Emperor Wén succeeded the throne, appointed [Jiǎ] Xǔ as Grand Commandant, <a href="#annotation-36" id="source-36">[36]</a> advanced noble rank to Marquess of Wèishòu village, increased estate three hundred, adding with the previous to total eight hundred households. Also divided from his estate two hundred to enfeoff his youngest son [Jiǎ] Fǎng as a Ranked Marquess. His eldest son [Jiǎ] Mù was appointed a Side Horse Commandant. The Emperor asked [Jiǎ] Xǔ stating: "I wish to attack those who do not follow the Mandate to unify Heaven's Under. Of Wú and Shǔ which should be first?" Replied stating: "In attacking and taking prioritize military power. In establishing roots esteem virtuous influence. Your Majesty answered fate to receive the abdication, succors and oversees all lands, if you calm them with civil virtue and wait for their changes, then pacifying them is not difficult. Although Wú and Shǔ are little and small states, they rely on obstructing mountains and rivers, Liú Bèi has heroic talent, Zhūgě Liàng excels in governing states, Sūn Quán understands openings and realities, Lù Yì sees war situations, occupying the rugged and defending the strategic, sailing boats on the rivers and lakes, all are difficult to quickly plan against. The Way of using troops is to first be victorious and afterward battle, measure the enemy and discuss commanders, so that actions are without omissions in strategies. Your Servant humbly measures that of the various ministers none are match for [Liú] Bèi or [Sūn] Quán, and even if you use Heaven's authority to face them, you will not yet see a situation of absolute certainty. In the past Shùn danced with shield and battle-ax and so Yǒu Miáo submitted, Your Servant believes right now it is appropriate to prioritize the civil and afterward the martial." The Emperor did not accept. Later he raised the Jiānglíng campaign, of the soldiers many died. [Jiǎ] Xǔ at age seventy-seven died, posthumous name called Marquess Sù. His son [Jiǎ] Mù succeeded, successively ranked a prefecture Administrator. [Jiǎ] Mù died, his son [Jiǎ] Mó succeeded. <a href="#annotation-37" id="source-37">[37]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+文帝即位，以詡為太尉，〔一〕進爵魏壽鄉侯，增邑三百，并前八百戶。又分邑二百，封小子訪為列侯。以長子穆為駙馬都尉。帝問詡曰：「吾欲伐不從命以一天下，吳、蜀何先？」對曰：「攻取者先兵權，建本者尚德化。陛下應期受禪，撫臨率土，若綏之以文德而俟其變，則平之不難矣。吳、蜀雖蕞爾小國，依阻山水，劉備有雄才，諸葛亮善治國，孫權識虛實，陸議見兵勢，據險守要，汎舟江湖，皆難卒謀也。用兵之道，先勝後戰，量敵論將，故舉無遺策。臣竊料群臣，無備、權對，雖以天威臨之，未見萬全之勢也。昔舜舞干戚而有苗服，臣以為當今宜先文後武。」文帝不納。後興江陵之役，士卒多死。詡年七十七，薨，諡曰肅侯。子穆嗣，歷位郡守。穆薨，子模嗣。〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-36" id="annotation-36">[36]</a> Wèi lüè states: Emperor Wén because of [Jiǎ] Xŭ's reply to Tàizǔ therefore on succeeding the throne immediately raised him to the highest Excellency.
+
+Xún Xù Biézhuàn states: Jìn's Excellency over the Masses was vacant, Emperor Wǔ asked [Xún] Xù for a person. Replied stating: "The Three Excellencies are where all turn their gaze, they cannot employ the wrong person. In the past Wèi Emperor Wén employed Jiǎ Xǔ in the Three Excellencies and Sūn Quán laughed at this."
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　魏略曰：文帝得詡之對太祖，故即位首登上司。荀勗別傳曰：晉司徒闕，武帝問其人於勗。答曰：「三公具瞻所歸，不可用非其人。昔魏文帝用賈詡為三公，孫權笑之。」
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-37" id="annotation-37">[37]</a> Shìyǔ states: [Jiǎ] Mó in Jìn Emperor Huì's time became Cavalier Regular Attendant, Protector of the Army General. [Jiǎ] Mó's son [Jiǎ] Yìn, [Jiǎ] Yìn's younger brother [Jiǎ] Kān, younger cousin [Jiǎ] Shū, all reached great office, together prominent in Jìn.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　世語曰：模，晉惠帝時為散騎常侍、護軍將軍，模子胤，胤弟龕，從弟疋，皆至大官，並顯於晉也。
+:::
+:::
+:::
 
 ## Appraisal {.unnumbered}
-[TODO]
+
+::: {.columns}
+::: {.column width="70%"}
+Appraisal states: Xún Yù was pure and refined, comprehensive and elegant, having the manner of a King's aide, however his insight and foresight were not able to fulfill his ambition. <a href="#annotation-38" id="source-38">[38]</a> Xún Yōu and Jiǎ Xǔ neared to calculating strategies without ommission, skilled in adapting to changes, where they perhaps second to [Zhāng] Liáng and [Chén] Píng? <a href="#annotation-39" id="source-39">[39]</a>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+評曰：荀彧清秀通雅，有王佐之風，然機鑒先識，未能充其志也。〔一〕荀攸、賈詡，庶乎算無遺策，經達權變，其良、平之亞歟！〔二〕
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-38" id="annotation-38">[38]</a> Of the discussions of the world, many ridicule [Xún] Yù for assisting and planning for the Wèi clan, so that it overturned Hàn's blessings, that lord and servant exchanged position, truly was due to [Xún] Yù. Although in later seasons he established dissent, it as of no rescue to the shifting fortunes, his achievements had violated righteousness, his insight also a source of regret. Chén-shì in this appraisal, overall is also in agreement with the world's understanding. Your Servant Sōngzhī believes: The writing of these sayings, truly does not understand the far-reaching and large. How could [Xún] Yù not understand the ambition and spirit of Wèi Wǔ, that he was not the pure servant of the declining Hàn? Rather as at the time the King's Way was already faint, the unrestrained overflow already at the utmost, the powerful and heroic watching like tigers, people harboring treacherous hearts, if one did not have the resources to subdue chaos, strategy to wield compliance, then the destruction of the Hàn House would have been instant, the sorts of the common people exterminated. If one wished to assist and support the time's heroes, completely rectify the crisis, if not this man then who? Therefore treating the urgent illness was like saving body and head, using ability to move within dangers to reach to great deliverance, the common people immersed in the rescue of a boat, the Liú clan extended in blessings by two decades, how was it not by Xún-shēng's original plans, distantly delivered by his benevolence and compassion? Reaching when the hegemon's enterprise was already expanded, the signs of the cutting down of Hàn manifest, then afterward he sacrificed his life to convey his original feelings, preserving the great correctness at that year, spreading sincere heart for a hundred generations, it can be said a heavy burden on a long road, ambition enacted and righteousness established. Saying it was not fulfilled, it is almost slander!
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔一〕　世之論者，多譏彧協規魏氏，以傾漢祚；君臣易位，實彧之由。雖晚節立異，無救運移；功既違義，識亦疚焉。陳氏此評，蓋亦同乎世識。臣松之以為斯言之作，誠未得其遠大者也。彧豈不知魏武之志氣，非衰漢之貞臣哉？良以于時王道既微，橫流已極，雄豪虎視，人懷異心，不有撥亂之資，仗順之略，則漢室之亡忽諸，黔首之類殄矣。夫欲翼讚時英，一匡屯運，非斯人之與而誰與哉？是故經綸急病，若救身首，用能動于嶮中，至于大亨，蒼生蒙舟航之接，劉宗延二紀之祚，豈非荀生之本圖，仁恕之遠致乎？及至霸業既隆，翦漢跡著，然後亡身殉節，以申素情，全大正於當年，布誠心於百代，可謂任重道遠，志行義立。謂之未充，其殆誣歟！
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+::: {.columns}
+::: {.column width="70%"}
+<a href="#source-39" id="annotation-39">[39]</a> Your Servant believes that the structure of arranged biographies is to follow one another by situation category. Zhāng Zǐfáng was a servicemen of clear clouds, truly not of the group as Chén Píng, however Hàn's strategy ministers were [Zhāng] Liáng and [Chén] Píng and no more. If they were not together arranged, then others would nave nowhere to attach, therefore the former histories combined them, overall it was appropriate. The Wèi clan's peers like [Jiǎ] Xǔ by good fortune were numerous, that [Jiǎ] Xǔ was not compiled in the chapter of Chéng [Yù] and Guō [Jiā], but was with the Two Xún together arranged, was a mistake in his categorization. Moreover [Xún] Yōu and [Jiǎ] Xǔ in their conduct as men, was like the night's light^[Night's light (yè guāng) can refer to the moon, to a type of treasured pearl, and to fireflies. The moon is probably the most likely meaning here.] compared with a candle. Though their illumination is similar, their substance then is different. Now the appraisal of Xún [Yōu] and Jiǎ [Xǔ] together sharing one statement, is incredibly mistaken in what is appropriate to distinguish.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+〔二〕　臣松之以為列傳之體，以事類相從。張子房青雲之士，誠非陳平之倫。然漢之謀臣，良、平而已。若不共列，則餘無所附，故前史合之，蓋其宜也。魏氏如詡之儔，其比幸多，詡不編程、郭之篇，而與二荀並列；失其類矣。且攸、詡之為人，其猶夜光之與蒸燭乎！其照雖均，質則異焉。今荀、賈之評，共同一稱，尤失區別之宜也。
+:::
+:::
+:::

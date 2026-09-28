@@ -1,6 +1,6 @@
 ## Index {.unnumbered}
 
-In-Progress: [8/65]
+In-Progress: [9/65]
 
 ### 1 Annals of Emperor Wǔ
 武帝紀
@@ -67,9 +67,9 @@ In-Progress: [8/65]
     + [Yáng Fèng 楊奉](1wei/06.qmd#yangfenghanxian)
     + [Hán Xiān 韓暹](1wei/06.qmd#yangfenghanxian)
 + [Yuán Shào 袁紹](1wei/06.qmd#yuanshao)
-    + [son Yuán Tán](1wei/06.qmd#yuantan)
-    + [son Yuán Xī](1wei/06.qmd#yuanxi)
-    + [son Yuán Shàng](1wei/06.qmd#yuanshang)
+    + [son Yuán Tán 袁譚](1wei/06.qmd#yuantan)
+    + [son Yuán Xī 袁熙](1wei/06.qmd#yuanxi)
+    + [son Yuán Shàng 袁尚](1wei/06.qmd#yuanshang)
     + [Jū Shòu 沮授](1wei/06.qmd#jushou)
     + [Húmǔ Bān 胡毋班](1wei/06.qmd#humuban)
     + [Qū Yì 麴義](1wei/06.qmd#quyi)
@@ -84,8 +84,8 @@ In-Progress: [8/65]
     + [Mǎ Mìdī 馬日磾](1wei/06.qmd#mamidi)
     + [Chén Guī 陳珪](1wei/06.qmd#chengui)
 + [Liú Biǎo 劉表](1wei/06.qmd#liubiao)
-    + [son Liú Qí](1wei/06.qmd#liuqi)
-    + [son Liú Cóng](1wei/06.qmd#liucong)
+    + [son Liú Qí 劉琦](1wei/06.qmd#liuqi)
+    + [son Liú Cóng 劉琮](1wei/06.qmd#liucong)
     + [Zhāng Xiàn 張羨](1wei/06.qmd#zhangxian)
     + [Fù Xùn 傅巽](1wei/06.qmd#fuxun)
     + [Kuǎi Yuè 蒯越](1wei/06.qmd#kuaiyue)
@@ -119,6 +119,8 @@ In-Progress: [8/65]
 + [Zhāng Lŭ 張魯](1wei/08.qmd#zhanglu)
 
 ### 9 Biographies of the Various Xiàhóu and Cáo
+諸夏侯曹傳
+
 + [Xiàhóu Dūn 夏侯惇](1wei/09.qmd#xiahoudun)
     + [Xiàhóu Mào 夏侯楙](1wei/09.qmd##xiahoumao)
     + [Hán Hào 韓浩](1wei/09.qmd#hanhao)
@@ -138,8 +140,14 @@ In-Progress: [8/65]
         + [Xǔ Yǔn 許允](1wei/09.qmd#xuyun)
         + [Wáng Jīng 王經](1wei/09.qmd#wangjing)
 
+### 10 Biographies of Xún Yù, Xún Yōu, Jiǎ Xǔ
+荀彧荀攸賈詡傳
 
-10. Xún Yù, Xún Yōu, Jiǎ Xǔ
++ [Xún Yù 荀彧](1wei/10.qmd#xunyu)
++ [Xún Yōu 荀攸](1wei/10.qmd#xunyou)
++ [Jiǎ Xǔ 賈詡](1wei/10.qmd#jiaxu)
+
+
 11. Yuán Huàn, Zhāng Fàn, Liáng Mào, Guó Yuān, Tián Chóu, Wáng Xiū, Bǐng Yuán, Guǎn Níng
 12. Cuī Yǎn (Kǒng Róng), Máo Jiè, Xú Yì, Hé Kuí, Xíng Yóng, Bào Xūn, Sīmǎ Zhī
 13. Zhōng Yáo (Yù), Huà Xīn, Wáng Lǎng (Sù)

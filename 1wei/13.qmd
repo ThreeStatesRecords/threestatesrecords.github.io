@@ -1,3 +1,23 @@
 # Biographies of Zhōng Yáo, Huà Xīn, Wáng Lǎng
 
+## Zhōng Yáo {.unnumbered #zhongyao}
+
 [TODO]
+
+### Zhōng Yù {.unnumbered #zhongyu}
+
+[TODO]
+
+## Huà Xīn {.unnumbered #huaxin}
+
+[TODO]
+
+### Huà Biǎo {.unnumbered #huabiao}
+
+[todo]
+
+## Wáng Lǎng {.unnumbered #wanglang}
+
+[TODO]
+
+### Wáng Sù {.unnumbered #wangsu}
