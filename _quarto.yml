@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  google-analytics: "G-TTVJYQHZ53"
+  google-analytics:
+    tracking-id: "G-TTVJYQHZ53"
   cookie-consent: true
 
 book:

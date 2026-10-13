@@ -1,6 +1,6 @@
 ## Index {.unnumbered}
 
-In-Progress: [9/65]
+In-Progress: [11/65]
 
 ### 1 Annals of Emperor Wǔ
 武帝紀
@@ -160,6 +160,9 @@ In-Progress: [9/65]
 + [Wáng Xiū 王脩](1wei/11.qmd#wangxiu)
 + [Bǐng Yuán 邴原](1wei/11.qmd#bingyuan)
 + [Guǎn Níng 管寧](1wei/11.qmd#guanning)
+    + [Wáng Liè 王烈](1wei/11.qmd#wanglie)
+    + [Zhāng Jiàn 張臶](1wei/11.qmd#zhangjian)
+    + [Hú Zhāo 胡昭](1wei/11.qmd#huzhao)
 
 12. Cuī Yǎn (Kǒng Róng), Máo Jiè, Xú Yì, Hé Kuí, Xíng Yóng, Bào Xūn, Sīmǎ Zhī
 13. Zhōng Yáo (Yù), Huà Xīn, Wáng Lǎng (Sù)
