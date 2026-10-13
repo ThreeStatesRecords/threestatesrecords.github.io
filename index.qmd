@@ -112,8 +112,8 @@ In-Progress: [9/65]
 + [Táo Qiān 陶謙](1wei/08.qmd#taoqian)
 + [Zhāng Yáng 張楊](1wei/08.qmd#zhangyang)
 + [Gōngsūn Dù 公孫度](1wei/08.qmd#gongsundu)
-    + [Gongsūn Kāng 公孫康](1wei/08.qmd#gongsunkang)
-    + [Gōngsūn Yuān 公孫淵](1wei/08.qmd#gongsunyuan)
+    + [son Gongsūn Kāng 公孫康](1wei/08.qmd#gongsunkang)
+    + [grandson Gōngsūn Yuān 公孫淵](1wei/08.qmd#gongsunyuan)
 + [Zhāng Yàn 張燕](1wei/08.qmd#zhangyan)
 + [Zhāng Xiù 張繡](1wei/08.qmd#zhangxiu)
 + [Zhāng Lŭ 張魯](1wei/08.qmd#zhanglu)
@@ -122,21 +122,21 @@ In-Progress: [9/65]
 諸夏侯曹傳
 
 + [Xiàhóu Dūn 夏侯惇](1wei/09.qmd#xiahoudun)
-    + [Xiàhóu Mào 夏侯楙](1wei/09.qmd##xiahoumao)
+    + [son Xiàhóu Mào 夏侯楙](1wei/09.qmd##xiahoumao)
     + [Hán Hào 韓浩](1wei/09.qmd#hanhao)
     + [Shǐ Huàn 史渙](1wei/09.qmd#shihuan)
 + [Xiàhóu Yuān 夏侯淵](1wei/09.qmd#xiahouyuan)
-    + [Xiàhóu Bà 夏侯霸](1wei/09.qmd#xiahouba)
+    + [son Xiàhóu Bà 夏侯霸](1wei/09.qmd#xiahouba)
 + [Cáo Rén 曹仁](1wei/09.qmd#caoren)
-    + [Cáo Chún 曹純](1wei/09.qmd#caochun)
+    + [younger brother Cáo Chún 曹純](1wei/09.qmd#caochun)
 + [Cáo Hóng 曹洪](1wei/09.qmd#caohong)
 + [Cáo Xiū 曹休](1wei/09.qmd#caoxiu)
-    + [Cáo Zhào 曹肇](1wei/09.qmd#caozhao)
+    + [son Cáo Zhào 曹肇](1wei/09.qmd#caozhao)
 + [Cáo Zhēn 曹真](1wei/09.qmd#caozhen)
-    + [Cáo Shuǎng 曹爽](1wei/09.qmd#caoshuang)
+    + [son Cáo Shuǎng 曹爽](1wei/09.qmd#caoshuang)
         + [Hé Yàn 何晏](1wei/09.qmd#heyan)
 + [Xiàhóu Shàng 夏侯尚](1wei/09.qmd#xiahoushang)
-    + [Xiàhóu Xuán 夏侯玄](1wei/09.qmd#xiahouxuan)
+    + [son Xiàhóu Xuán 夏侯玄](1wei/09.qmd#xiahouxuan)
         + [Xǔ Yǔn 許允](1wei/09.qmd#xuyun)
         + [Wáng Jīng 王經](1wei/09.qmd#wangjing)
 
@@ -148,7 +148,19 @@ In-Progress: [9/65]
 + [Jiǎ Xǔ 賈詡](1wei/10.qmd#jiaxu)
 
 
-11. Yuán Huàn, Zhāng Fàn, Liáng Mào, Guó Yuān, Tián Chóu, Wáng Xiū, Bǐng Yuán, Guǎn Níng
+### 11 Biographies of Yuán Huàn, Zhāng Fàn, Liáng Mào, Guó Yuān, Tián Chóu, Wáng Xiū, Bǐng Yuán, Guǎn Níng
+袁張涼國田王邴管傳
+
++ [Yuán Huàn 袁渙](1wei/11.qmd#yuanhuan)
++ [Zhāng Fàn 張範](1wei/11.qmd#zhangfan)
+    + [younger brother Zhāng Chéng 張承](1wei/11.qmd#zhangcheng)
++ [Liáng Mào 涼茂](1wei/11.qmd#liangmao)
++ [Guó Yuān 國淵](1wei/11.qmd#guoyuan)
++ [Tián Chóu 田疇](1wei/11.qmd#tianchou)
++ [Wáng Xiū 王脩](1wei/11.qmd#wangxiu)
++ [Bǐng Yuán 邴原](1wei/11.qmd#bingyuan)
++ [Guǎn Níng 管寧](1wei/11.qmd#guanning)
+
 12. Cuī Yǎn (Kǒng Róng), Máo Jiè, Xú Yì, Hé Kuí, Xíng Yóng, Bào Xūn, Sīmǎ Zhī
 13. Zhōng Yáo (Yù), Huà Xīn, Wáng Lǎng (Sù)
 14. Chéng Yù, Guō Jiā, Dǒng Zhāo, Liú Yè, Jiǎng Jì, Liú Fàng (Sūn Zī)
