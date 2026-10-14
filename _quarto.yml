@@ -2,15 +2,12 @@ project:
   type: book
   output-dir: docs
 
-website:
-  google-analytics:
-    tracking-id: "G-TTVJYQHZ53"
-  cookie-consent: true
-
 book:
   title: "Three States Records"
   author: ""
   date: "7/1/2026"
+  google-analytics: "G-TTVJYQHZ53"
+  cookie-consent: true
   chapters:
     - index.qmd
     - intro.qmd

@@ -1,6 +1,7 @@
 {
   "index.qmd": {
-    "index.html": "d4c868fb"
+    "index.html": "d4c868fb",
+    "index.tex": "535e7310"
   },
   "intro.qmd": {
     "intro.html": "ce0a9cb9"
@@ -60,7 +61,8 @@
     "10.html": "68773dac"
   },
   "1wei/11.qmd": {
-    "11.html": "457951c0"
+    "11.html": "457951c0",
+    "11.tex": "b21765a1"
   },
   "1wei/12.qmd": {
     "12.html": "aa39c6fa"
@@ -223,5 +225,8 @@
   },
   "3wu/65.qmd": {
     "65.html": "bbbcde10"
+  },
+  "4appendices/2.qmd": {
+    "2.html": "177606f7"
   }
 }
