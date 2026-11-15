@@ -179,7 +179,15 @@ In-Progress: [12/65]
 + [Sīmǎ Zhī 司馬芝](1wei/12.qmd#simazhi)
     + [son Sīmǎ Qí](1wei/12.qmd#simaqi)
 
-13. Zhōng Yáo (Yù), Huà Xīn, Wáng Lǎng (Sù)
+### 13 Biographies of Zhōng Yáo, Huà Xīn, Wáng Lǎng
+鍾繇華歆王朗傳
+
++ [Zhōng Yáo 鍾繇](1wei/13.qmd#zhongyao)
+    + [son Zhōng Yù 鍾毓](1wei/13.qmd#zhongyu)
++ [Huà Xīn 華歆](1wei/13.qmd#huaxin)
++ [Wáng Lǎng 王朗](1wei/13.qmd#wanglang)
+    + [son Wáng Sù 王肅](1wei/13.qmd#wangsu)
+
 14. Chéng Yù, Guō Jiā, Dǒng Zhāo, Liú Yè, Jiǎng Jì, Liú Fàng (Sūn Zī)
 15. Liú Fǔ, Sīmǎ Lǎng, Liáng Xí, Zhāng Jì, Wēn Huī, Jiǎ Kuí (Chōng)
 16. Rén Jùn, Sū Zé, Dù Jī, Zhèng Hún, Cāng Cí

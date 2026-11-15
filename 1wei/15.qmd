@@ -1,5 +1,23 @@
 # Biographies of Liú, Sīmǎ, Liáng, Zhāng, Wēn, Jiǎ
 
+## Liú Fǔ {.unnumbered #liufu}
+
+[TODO]
+
+## Sīmǎ Lǎng {.unnumbered #simalang}
+
+[TODO]
+
+## Liáng Xí {.unnumbered liangxi}
+
 [TODO]
 
 ## Zhāng Jì {.unnumbered #zhangji}
+
+[TODO]
+
+## Wén Huī {.unnumbered #wenhui}
+
+[TODO]
+
+## Jiǎ Kuí {.unnumbered #jiakui}
